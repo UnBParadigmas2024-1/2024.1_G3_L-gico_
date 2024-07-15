@@ -1,31 +1,23 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-
-**!! *Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(Paradigma)_(NomeDoProjeto)*. !!** 
-
 Paradigmas:
- - Funcional
  - Logico
- - SMA
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.2_G1_Logico_ProjetoRoteirosAereos*. !!**
- 
- (Apague esses comentários)
-
-# NomeDoProjeto
+# Sugestão de Filmes
 
 **Disciplina**: FGA0210 - PARADIGMAS DE PROGRAMAÇÃO - T01 <br>
-**Nro do Grupo (de acordo com a Planilha de Divisão dos Grupos)**: XX<br>
-**Paradigma**: XXXXXXXXXX<br>
+**Nro do Grupo**: 03<br>
+**Paradigma**: Lógico<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 211031664  |  Catlen Cleane Ferreira de Oliveira |
+| 202023681  |  Gabriel da Silva Rosa |
+| 212008197  |  João Pedro Alves Machado |
+| 190032821  |  Lorenzo Santos |
+| 211043718  |  Paulo Victor Fonseca Sousa |
+| 190020521  |  Valderson Pontes da Silva Junior |
+| 190038900  |  Victor de Souza Cabral |
+
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
@@ -61,7 +53,13 @@ TEMPO: +/- 15min
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Fulano  |  Programação dos Fatos da Base de Conhecimento Lógica | Boa |
+| Catlen Cleane Ferreira de Oliveira      |  |  |
+| Gabriel da Silva Rosa                   |  |  |
+| João Pedro Alves Machado                |  |  |
+| Lorenzo Santos                          |  |  |
+| Paulo Victor Fonseca Sousa              |  |  |
+| Valderson Pontes da Silva Junior        |  |  |
+| Victor de Souza Cabral                  |  |  |
 
 ## Outros 
 Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
