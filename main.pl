@@ -1,7 +1,6 @@
-% main.pl
-:- [interacao].
+:- [listagem].
 
 inicio :-
-    listar_generos.
+    menu.
 
-:- inicio.
+:- initialization(inicio).
