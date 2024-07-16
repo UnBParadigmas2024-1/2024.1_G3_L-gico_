@@ -17,8 +17,9 @@ with open(input_file_path, 'r', newline='', encoding='utf-8') as csvfile:
             duration = row['duration']
             country = row['country']
             directors = row['directors']
+            actors = row['actors']
             
             # Escrever os valores em uma linha, separados por ";"
-            txtfile.write(f'filme("{title}","{genre}",{year},{duration},"{country}","{directors}").\n')
+            txtfile.write(f'filme("{title}","{genre}",{year},{duration},"{country}","{directors}","{actors}").\n')
 
 print("Arquivo criado com sucesso.")
