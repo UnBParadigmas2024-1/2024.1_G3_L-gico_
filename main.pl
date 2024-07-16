@@ -1,7 +1,7 @@
-:- consult('base_dados.pl').
-:- consult('interacao.pl').
-:- consult('filtro.pl').
+% main.pl
+:- [interacao].
 
-%Predicado para iniciar a aplicação
-iniciar :-
-    iniciar_pergunta.
+inicio :-
+    listar_generos.
+
+:- inicio.
