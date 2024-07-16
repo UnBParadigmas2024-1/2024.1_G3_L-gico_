@@ -6,9 +6,11 @@ output_file_path = '../base original/basededados.txt'
 
 # Função para adicionar aspas duplas em torno de cada termo em uma lista
 def add_quotes_and_format_list(list_string):
+    if list_string  == '':
+        return '"none"'
     terms = [term.strip() for term in list_string.split(',')]
     
-    if len(terms) > 0:
+    if terms != '':
         if len(terms) > 1:
             quoted_terms = [f'"{term}"' for term in terms]
             return f'[{", ".join(quoted_terms)}]'
