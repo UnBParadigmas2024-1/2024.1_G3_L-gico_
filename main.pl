@@ -1,13 +1,16 @@
-# Base de dados dos filmes: Contém informações sobre os filmes, incluindo título, gênero, diretor, ano, ator principal, classificação, duração e país de produção.
-
-# Pontuação individual para cada critério: Calcula a pontuação de um filme para cada critério (gênero, diretor, ano, ator, classificação, duração, país).
-
-# Pontuação total: Calcula a pontuação total de um filme somando as pontuações individuais dos critérios.
-
-# Função para sugerir filmes: Gera uma lista de filmes ordenada pela pontuação total.
-
-# Interação com o usuário: Faz perguntas ao usuário para coletar suas preferências.
-
-# Função principal para executar o programa: Controla o fluxo do programa, desde a interação com o usuário até a exibição das sugestões de filmes.
-
-# Listar filmes sugeridos: Exibe a lista de filmes sugeridos ao usuário.
+:- [basededados].
+moviesRescue :-
+    write('Olá, seja bem-vindo ao Movie Rescue, o programa que te ajudará a procurar seu novo filme favorito!'),
+    nl,
+    write('Com esse programa, você verá dados de filmes buscando por atores, diretores, tempo de duração, gênero e nome'),
+    nl,
+    write('basta você escrever o nome "filme()" e dentro do parágrafo indicar o título, ano, gênero, duração em minutos,'),
+    nl,
+    write('país de produção, nome de diretor e nome de atores, nesta ordem,'),
+    nl,
+    write('e será apresentado as possíveis opções. Caso tenha um elemento que não seja relevante para a busca, basta colocar _ no campo.'),
+    nl,
+    write('Se quiser saber os tipos de gêneros disponíveis ou os diferentes países, use as funções "mostra_generos" ou "mostra_países" para ter uma noção.'),
+    nl,
+    write('Boa busca!').
+    
