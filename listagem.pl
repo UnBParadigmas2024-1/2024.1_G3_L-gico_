@@ -21,16 +21,16 @@ processar_opcao(Escolha) :-
         fail
     ).
 
-opcao_valida(1) :- listar_nomes.
+opcao_valida(1) :- listar_titulos.
 opcao_valida(2) :- listar_generos.
 opcao_valida(3) :- listar_diretores.
 opcao_valida(4) :- listar_elenco.
 opcao_valida(5) :- listar_paises.
 
-listar_nomes :-
-    findall(Nome, filme(Nome, _, _, _, _, _, _), ListaNomes),
-    sort(ListaNomes, NomesUnicos),
-    listar_itens(NomesUnicos).
+listar_titulos :-
+    findall(Titulo, filme(Titulo, _, _, _, _, _, _), ListaTitulos),
+    sort(ListaTitulos, TitulosUnicos),
+    listar_itens(TitulosUnicos).
 
 listar_generos :-
     findall(Genero, filme(_, Genero, _, _, _, _, _), ListaGeneros),
@@ -38,12 +38,12 @@ listar_generos :-
     listar_itens(GenerosUnicos).
 
 listar_diretores :-
-    findall(Diretor, filme(_, _, _, _, _, Diretor, _), ListaDiretores),
+    findall(Diretor, (filme(_, _, _, _, _, Diretores, _), member(Diretor, Diretores), Diretor \= []), ListaDiretores),
     sort(ListaDiretores, DiretoresUnicos),
     listar_itens(DiretoresUnicos).
 
 listar_elenco :-
-    findall(Ator, (filme(_, _, _, _, _, _, Elenco), member(Ator, Elenco)), ListaElenco),
+    findall(Ator, (filme(_, _, _, _, _, _, Elenco), member(Ator, Elenco), Ator \= []), ListaElenco),
     sort(ListaElenco, ElencoUnico),
     listar_itens(ElencoUnico).
 
