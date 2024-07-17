@@ -4,7 +4,7 @@ import pandas as pd
 df = pd.read_csv('imdb_top_1000.csv')
 
 # Selecionar e renomear as colunas necessárias
-df = df[['Series_Title', 'Genre', 'Released_Year', 'Runtime', 'Director', 'Star1', 'IMDB_Rating', 'Overview']]
+df = df[['Series_Title', 'Genre', 'Released_Year', 'Runtime', 'Director', 'Star1', 'IMDB_Rating']]
 df = df.rename(columns={
     'Series_Title': 'nome',
     'Genre': 'genero',
@@ -13,16 +13,20 @@ df = df.rename(columns={
     'Director': 'diretor',
     'Star1': 'ator',
     'IMDB_Rating': 'nota_imdb',
-    'Overview': 'sinopse'
 })
 
 # Limpar e formatar as colunas
 df['genero'] = df['genero'].str.split(',').str[0].str.lower()
 df['duracao'] = df['duracao'].str.replace(' min', '').astype(int)
 
+# Ordenar pelo campo 'nota_imdb'
+df = df.sort_values(by='nota_imdb', ascending=False)
+
 # Função para escapar aspas simples e formatar a saída
 def escape_single_quotes(text):
-    return text.replace("'", "''")
+    if isinstance(text, str):
+        return text.replace("'", "''")
+    return text
 
 # Função para criar a saída no formato desejado
 def format_row(row):
@@ -30,8 +34,7 @@ def format_row(row):
     genero = escape_single_quotes(row['genero'])
     diretor = escape_single_quotes(row['diretor'])
     ator = escape_single_quotes(row['ator'])
-    sinopse = escape_single_quotes(row['sinopse'])
-    return f"filme('{nome}', '{genero}', {row['ano']}, {row['duracao']}, '{diretor}', '{ator}', '{sinopse}')."
+    return f"filme('{nome}', '{genero}', {row['ano']}, {row['duracao']}, '{diretor}', '{ator}', {row['nota_imdb']})."
 
 # Aplicar a formatação a cada linha
 formatted_rows = df.apply(format_row, axis=1)

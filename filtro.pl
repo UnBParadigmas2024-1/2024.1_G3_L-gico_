@@ -1,6 +1,6 @@
 % Regras para filtrar por diferentes critérios
 filtrar_por_genero(Genero, Titulo) :-
-    filme(Titulo, Genero, _, _, _, _).
+    filme(Titulo, Genero, _, _, _, _, _).
 
 filtrar_por_ano(Ano, Titulo) :-
     filme(Titulo, _, Ano, _, _, _).
