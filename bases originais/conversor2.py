@@ -4,14 +4,15 @@ import pandas as pd
 df = pd.read_csv('imdb_top_1000.csv')
 
 # Selecionar e renomear as colunas necessárias
-df = df[['Series_Title', 'Genre', 'Released_Year', 'Runtime', 'Director', 'Star1']]
+df = df[['Series_Title', 'Genre', 'Released_Year', 'Runtime', 'Director', 'Star1','IMDB_Rating']]
 df = df.rename(columns={
     'Series_Title': 'nome',
     'Genre': 'genero',
     'Released_Year': 'ano',
     'Runtime': 'duracao',
     'Director': 'diretor',
-    'Star1': 'ator'
+    'Star1': 'ator',
+    'IMDB_Rating': 'nota_imdb'
 })
 
 # Limpar e formatar as colunas
