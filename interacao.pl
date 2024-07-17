@@ -79,6 +79,6 @@ escolher_criterio(_) :-
 
 
 
-listar_filmes_por_criterio(Criterio, Valor) :-
-    findall(Filme, call(Criterio, Valor, Filme), Filmes),
-    write(Filmes), nl.
+% listar_filmes_por_criterio(Criterio, Valor) :-
+%     findall(Filme, call(Criterio, Valor, Filme), Filmes),
+%     write(Filmes), nl.
