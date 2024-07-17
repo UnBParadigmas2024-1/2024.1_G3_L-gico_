@@ -55,14 +55,24 @@ menu_inicial(Dialog) :-
     
     send(Dialog, layout).
 
-opcoes_topicos(['Nome dos Filmes', 'Gêneros', 'Diretor(es)', 'Elenco', 'País(es) de Produção']).
+opcoes_topicos(['Nome do Filme', 'Gênero', 'Diretor(a)', 'Ator/Atriz', 'Tudo']).
 
 listar_recomendacoes(Topico) :-
-    ( Topico == 'Nome dos Filmes' ->
+    ( Topico == 'Nome do Filme' ->
         listar_titulos
-    ;   send(@display, inform, 'Selecione a opção "Nome dos Filmes" para listar os filmes.')
+    ; Topico == 'Gênero' ->
+        listar_generos
+    ; Topico == 'Diretor(a)' ->
+        listar_diretores
+    ; Topico == 'Ator/Atriz' ->
+        listar_elenco
+    ; Topico == 'Tudo' ->
+        todos_filmes(Todos),
+        mostrar_resultados(Todos)
+    ;   send(@display, inform, 'Selecione uma opção válida.')
     ).
 
+% Nessa parte em especifico utilizei como referencia o projeto YouTubeRecommendation: https://github.com/UnBParadigmas2023-2/2023.2_G2_Logico_YouTubeRecommendation/tree/main
 mostrar_resultados(Resultados) :-
     new(Dialog, dialog('Resultados da Pesquisa')),
     new(Fonte, font(screen, bold, 12)),

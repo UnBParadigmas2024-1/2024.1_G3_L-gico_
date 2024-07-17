@@ -8,14 +8,37 @@ listar_titulos :-
 listar_generos :-
     findall(Genero, filme(_, Genero, _, _, _, _, _), ListaGeneros),
     sort(ListaGeneros, GenerosUnicos),
-    listar_itens(GenerosUnicos).
+    mostrar_resultados(GenerosUnicos).
 
 listar_diretores :-
-    findall(Diretor, filme(_, _, _, _, _, Diretor, _), ListaDiretores),
+    findall(Diretor, (filme(_, _, _, _, _, Diretores, _),
+                      member(Diretor, Diretores),
+                      Diretor \= []), ListaDiretores),
     sort(ListaDiretores, DiretoresUnicos),
-    listar_itens(DiretoresUnicos).
+    mostrar_resultados(DiretoresUnicos).
 
 listar_elenco :-
-    findall(Ator, filme(_, _, _, _, _, _, Ator), ListaElenco),
+    findall(Ator, (filme(_, _, _, _, _, _, Elenco),
+                   member(Ator, Elenco),
+                   Ator \= []), ListaElenco),
     sort(ListaElenco, ElencoUnico),
-    listar_itens(ElencoUnico).
+    mostrar_resultados(ElencoUnico).
+
+todos_filmes(ListaFilmes) :-
+    findall(filme(Titulo, Ano, Genero, Duracao, Pais, Diretor, Ator),
+            filme(Titulo, Ano, Genero, Duracao, Pais, Diretor, Ator),
+            ListaFilmes),
+    formatar_filmes(ListaFilmes, FilmesFormatados),
+    mostrar_resultados(FilmesFormatados).
+
+formatar_filmes([], []).
+formatar_filmes([filme(Titulo, Ano, Genero, Duracao, Pais, Diretor, Ator)|Resto], [Formatado|FilmesFormatados]) :-
+    format(atom(Formatado), 'Título: ~w, Ano: ~w, Gênero: ~w, Duração: ~w, País: ~w, Diretor: ~w, Ator: ~w',
+           [Titulo, Ano, Genero, Duracao, Pais, Diretor, Ator]),
+    formatar_filmes(Resto, FilmesFormatados).
+
+% Usar de quiser mostrar no terminal
+listar_itens(Lista) :-
+    nl,
+    forall(member(Item, Lista), (write(Item), nl)),
+    nl.
