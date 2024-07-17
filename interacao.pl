@@ -4,9 +4,8 @@ filtrar_filmes :-
     write('1. Gênero'), nl,
     write('2. Ano'), nl,
     write('3. Duração'), nl,
-    write('4. País'), nl,
-    write('5. Diretor'), nl,
-    write('6. Ator'), nl,
+    write('4. Diretor'), nl,
+    write('5. Ator'), nl,
     read(Opcao),
     escolher_criterio(Opcao).
 
@@ -26,17 +25,13 @@ escolher_criterio(3) :-
     read(Duracao),
     listar_filmes_por_criterio(filtrar_por_duracao, Duracao).
 
-escolher_criterio(4) :-
-    write('Digite o país: '),
-    read(Pais),
-    listar_filmes_por_criterio(filtrar_por_pais, Pais).
 
-escolher_criterio(5) :-
+escolher_criterio(4) :-
     write('Digite o diretor: '),
     read(Diretor),
     listar_filmes_por_criterio(filtrar_por_diretor, Diretor).
 
-escolher_criterio(6) :-
+escolher_criterio(5) :-
     write('Digite o ator: '),
     read(Ator),
     listar_filmes_por_criterio(filtrar_por_ator, Ator).
