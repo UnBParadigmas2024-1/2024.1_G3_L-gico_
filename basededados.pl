@@ -1,1000 +1,1000 @@
-filme('The Shawshank Redemption', 'drama', 1994, 142, 'Frank Darabont', 'Tim Robbins').
-filme('The Godfather', 'crime', 1972, 175, 'Francis Ford Coppola', 'Marlon Brando').
-filme('The Dark Knight', 'action', 2008, 152, 'Christopher Nolan', 'Christian Bale').
-filme('The Godfather: Part II', 'crime', 1974, 202, 'Francis Ford Coppola', 'Al Pacino').
-filme('12 Angry Men', 'crime', 1957, 96, 'Sidney Lumet', 'Henry Fonda').
-filme('The Lord of the Rings: The Return of the King', 'action', 2003, 201, 'Peter Jackson', 'Elijah Wood').
-filme('Pulp Fiction', 'crime', 1994, 154, 'Quentin Tarantino', 'John Travolta').
-filme('Schindler's List', 'biography', 1993, 195, 'Steven Spielberg', 'Liam Neeson').
-filme('Inception', 'action', 2010, 148, 'Christopher Nolan', 'Leonardo DiCaprio').
-filme('Fight Club', 'drama', 1999, 139, 'David Fincher', 'Brad Pitt').
-filme('The Lord of the Rings: The Fellowship of the Ring', 'action', 2001, 178, 'Peter Jackson', 'Elijah Wood').
-filme('Forrest Gump', 'drama', 1994, 142, 'Robert Zemeckis', 'Tom Hanks').
-filme('Il buono, il brutto, il cattivo', 'western', 1966, 161, 'Sergio Leone', 'Clint Eastwood').
-filme('The Lord of the Rings: The Two Towers', 'action', 2002, 179, 'Peter Jackson', 'Elijah Wood').
-filme('The Matrix', 'action', 1999, 136, 'Lana Wachowski', 'Lilly Wachowski').
-filme('Goodfellas', 'biography', 1990, 146, 'Martin Scorsese', 'Robert De Niro').
-filme('Star Wars: Episode V - The Empire Strikes Back', 'action', 1980, 124, 'Irvin Kershner', 'Mark Hamill').
-filme('One Flew Over the Cuckoo's Nest', 'drama', 1975, 133, 'Milos Forman', 'Jack Nicholson').
-filme('Hamilton', 'biography', 2020, 160, 'Thomas Kail', 'Lin-Manuel Miranda').
-filme('Gisaengchung', 'comedy', 2019, 132, 'Bong Joon Ho', 'Kang-ho Song').
-filme('Soorarai Pottru', 'drama', 2020, 153, 'Sudha Kongara', 'Suriya').
-filme('Interstellar', 'adventure', 2014, 169, 'Christopher Nolan', 'Matthew McConaughey').
-filme('Cidade de Deus', 'crime', 2002, 130, 'Fernando Meirelles', 'Kátia Lund').
-filme('Sen to Chihiro no kamikakushi', 'animation', 2001, 125, 'Hayao Miyazaki', 'Daveigh Chase').
-filme('Saving Private Ryan', 'drama', 1998, 169, 'Steven Spielberg', 'Tom Hanks').
-filme('The Green Mile', 'crime', 1999, 189, 'Frank Darabont', 'Tom Hanks').
-filme('La vita è bella', 'comedy', 1997, 116, 'Roberto Benigni', 'Roberto Benigni').
-filme('Se7en', 'crime', 1995, 127, 'David Fincher', 'Morgan Freeman').
-filme('The Silence of the Lambs', 'crime', 1991, 118, 'Jonathan Demme', 'Jodie Foster').
-filme('Star Wars', 'action', 1977, 121, 'George Lucas', 'Mark Hamill').
-filme('Seppuku', 'action', 1962, 133, 'Masaki Kobayashi', 'Tatsuya Nakadai').
-filme('Shichinin no samurai', 'action', 1954, 207, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('It's a Wonderful Life', 'drama', 1946, 130, 'Frank Capra', 'James Stewart').
-filme('Joker', 'crime', 2019, 122, 'Todd Phillips', 'Joaquin Phoenix').
-filme('Whiplash', 'drama', 2014, 106, 'Damien Chazelle', 'Miles Teller').
-filme('The Intouchables', 'biography', 2011, 112, 'Olivier Nakache', 'Éric Toledano').
-filme('The Prestige', 'drama', 2006, 130, 'Christopher Nolan', 'Christian Bale').
-filme('The Departed', 'crime', 2006, 151, 'Martin Scorsese', 'Leonardo DiCaprio').
-filme('The Pianist', 'biography', 2002, 150, 'Roman Polanski', 'Adrien Brody').
-filme('Gladiator', 'action', 2000, 155, 'Ridley Scott', 'Russell Crowe').
-filme('American History X', 'drama', 1998, 119, 'Tony Kaye', 'Edward Norton').
-filme('The Usual Suspects', 'crime', 1995, 106, 'Bryan Singer', 'Kevin Spacey').
-filme('Léon', 'action', 1994, 110, 'Luc Besson', 'Jean Reno').
-filme('The Lion King', 'animation', 1994, 88, 'Roger Allers', 'Rob Minkoff').
-filme('Terminator 2: Judgment Day', 'action', 1991, 137, 'James Cameron', 'Arnold Schwarzenegger').
-filme('Nuovo Cinema Paradiso', 'drama', 1988, 155, 'Giuseppe Tornatore', 'Philippe Noiret').
-filme('Hotaru no haka', 'animation', 1988, 89, 'Isao Takahata', 'Tsutomu Tatsumi').
-filme('Back to the Future', 'adventure', 1985, 116, 'Robert Zemeckis', 'Michael J. Fox').
-filme('Once Upon a Time in the West', 'western', 1968, 165, 'Sergio Leone', 'Henry Fonda').
-filme('Psycho', 'horror', 1960, 109, 'Alfred Hitchcock', 'Anthony Perkins').
-filme('Casablanca', 'drama', 1942, 102, 'Michael Curtiz', 'Humphrey Bogart').
-filme('Modern Times', 'comedy', 1936, 87, 'Charles Chaplin', 'Charles Chaplin').
-filme('City Lights', 'comedy', 1931, 87, 'Charles Chaplin', 'Charles Chaplin').
-filme('Capharnaüm', 'drama', 2018, 126, 'Nadine Labaki', 'Zain Al Rafeea').
-filme('Ayla: The Daughter of War', 'biography', 2017, 125, 'Can Ulkay', 'Erdem Can').
-filme('Vikram Vedha', 'action', 2017, 147, 'Gayatri', 'Pushkar').
-filme('Kimi no na wa.', 'animation', 2016, 106, 'Makoto Shinkai', 'Ryûnosuke Kamiki').
-filme('Dangal', 'action', 2016, 161, 'Nitesh Tiwari', 'Aamir Khan').
-filme('Spider-Man: Into the Spider-Verse', 'animation', 2018, 117, 'Bob Persichetti', 'Peter Ramsey').
-filme('Avengers: Endgame', 'action', 2019, 181, 'Anthony Russo', 'Joe Russo').
-filme('Avengers: Infinity War', 'action', 2018, 149, 'Anthony Russo', 'Joe Russo').
-filme('Coco', 'animation', 2017, 105, 'Lee Unkrich', 'Adrian Molina').
-filme('Django Unchained', 'drama', 2012, 165, 'Quentin Tarantino', 'Jamie Foxx').
-filme('The Dark Knight Rises', 'action', 2012, 164, 'Christopher Nolan', 'Christian Bale').
-filme('3 Idiots', 'comedy', 2009, 170, 'Rajkumar Hirani', 'Aamir Khan').
-filme('Taare Zameen Par', 'drama', 2007, 165, 'Aamir Khan', 'Amole Gupte').
-filme('WALL·E', 'animation', 2008, 98, 'Andrew Stanton', 'Ben Burtt').
-filme('The Lives of Others', 'drama', 2006, 137, 'Florian Henckel von Donnersmarck', 'Ulrich Mühe').
-filme('Oldeuboi', 'action', 2003, 101, 'Chan-wook Park', 'Choi Min-sik').
-filme('Memento', 'mystery', 2000, 113, 'Christopher Nolan', 'Guy Pearce').
-filme('Mononoke-hime', 'animation', 1997, 134, 'Hayao Miyazaki', 'Yôji Matsuda').
-filme('Once Upon a Time in America', 'crime', 1984, 229, 'Sergio Leone', 'Robert De Niro').
-filme('Raiders of the Lost Ark', 'action', 1981, 115, 'Steven Spielberg', 'Harrison Ford').
-filme('The Shining', 'drama', 1980, 146, 'Stanley Kubrick', 'Jack Nicholson').
-filme('Apocalypse Now', 'drama', 1979, 147, 'Francis Ford Coppola', 'Martin Sheen').
-filme('Alien', 'horror', 1979, 117, 'Ridley Scott', 'Sigourney Weaver').
-filme('Anand', 'drama', 1971, 122, 'Hrishikesh Mukherjee', 'Rajesh Khanna').
-filme('Tengoku to jigoku', 'crime', 1963, 143, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', 'comedy', 1964, 95, 'Stanley Kubrick', 'Peter Sellers').
-filme('Witness for the Prosecution', 'crime', 1957, 116, 'Billy Wilder', 'Tyrone Power').
-filme('Paths of Glory', 'drama', 1957, 88, 'Stanley Kubrick', 'Kirk Douglas').
-filme('Rear Window', 'mystery', 1954, 112, 'Alfred Hitchcock', 'James Stewart').
-filme('Sunset Blvd.', 'drama', 1950, 110, 'Billy Wilder', 'William Holden').
-filme('The Great Dictator', 'comedy', 1940, 125, 'Charles Chaplin', 'Charles Chaplin').
-filme('1917', 'drama', 2019, 119, 'Sam Mendes', 'Dean-Charles Chapman').
-filme('Tumbbad', 'drama', 2018, 104, 'Rahi Anil Barve', 'Anand Gandhi').
-filme('Andhadhun', 'crime', 2018, 139, 'Sriram Raghavan', 'Ayushmann Khurrana').
-filme('Drishyam', 'crime', 2013, 160, 'Jeethu Joseph', 'Mohanlal').
-filme('Jagten', 'drama', 2012, 115, 'Thomas Vinterberg', 'Mads Mikkelsen').
-filme('Jodaeiye Nader az Simin', 'drama', 2011, 123, 'Asghar Farhadi', 'Payman Maadi').
-filme('Incendies', 'drama', 2010, 131, 'Denis Villeneuve', 'Lubna Azabal').
-filme('Miracle in cell NO.7', 'drama', 2019, 132, 'Mehmet Ada Öztekin', 'Aras Bulut Iynemli').
-filme('Babam ve Oglum', 'drama', 2005, 112, 'Çagan Irmak', 'Çetin Tekindor').
-filme('Inglourious Basterds', 'adventure', 2009, 153, 'Quentin Tarantino', 'Brad Pitt').
-filme('Eternal Sunshine of the Spotless Mind', 'drama', 2004, 108, 'Michel Gondry', 'Jim Carrey').
-filme('Amélie', 'comedy', 2001, 122, 'Jean-Pierre Jeunet', 'Audrey Tautou').
-filme('Snatch', 'comedy', 2000, 104, 'Guy Ritchie', 'Jason Statham').
-filme('Requiem for a Dream', 'drama', 2000, 102, 'Darren Aronofsky', 'Ellen Burstyn').
-filme('American Beauty', 'drama', 1999, 122, 'Sam Mendes', 'Kevin Spacey').
-filme('Good Will Hunting', 'drama', 1997, 126, 'Gus Van Sant', 'Robin Williams').
-filme('Bacheha-Ye aseman', 'drama', 1997, 89, 'Majid Majidi', 'Mohammad Amir Naji').
-filme('Toy Story', 'animation', 1995, 81, 'John Lasseter', 'Tom Hanks').
-filme('Braveheart', 'biography', 1995, 178, 'Mel Gibson', 'Mel Gibson').
-filme('Reservoir Dogs', 'crime', 1992, 99, 'Quentin Tarantino', 'Harvey Keitel').
-filme('Full Metal Jacket', 'drama', 1987, 116, 'Stanley Kubrick', 'Matthew Modine').
-filme('Idi i smotri', 'drama', 1985, 142, 'Elem Klimov', 'Aleksey Kravchenko').
-filme('Aliens', 'action', 1986, 137, 'James Cameron', 'Sigourney Weaver').
-filme('Amadeus', 'biography', 1984, 160, 'Milos Forman', 'F. Murray Abraham').
-filme('Scarface', 'crime', 1983, 170, 'Brian De Palma', 'Al Pacino').
-filme('Star Wars: Episode VI - Return of the Jedi', 'action', 1983, 131, 'Richard Marquand', 'Mark Hamill').
-filme('Das Boot', 'adventure', 1981, 149, 'Wolfgang Petersen', 'Jürgen Prochnow').
-filme('Taxi Driver', 'crime', 1976, 114, 'Martin Scorsese', 'Robert De Niro').
-filme('The Sting', 'comedy', 1973, 129, 'George Roy Hill', 'Paul Newman').
-filme('A Clockwork Orange', 'crime', 1971, 136, 'Stanley Kubrick', 'Malcolm McDowell').
-filme('2001: A Space Odyssey', 'adventure', 1968, 149, 'Stanley Kubrick', 'Keir Dullea').
-filme('Per qualche dollaro in più', 'western', 1965, 132, 'Sergio Leone', 'Clint Eastwood').
-filme('Lawrence of Arabia', 'adventure', 1962, 228, 'David Lean', 'Peter O'Toole').
-filme('The Apartment', 'comedy', 1960, 125, 'Billy Wilder', 'Jack Lemmon').
-filme('North by Northwest', 'adventure', 1959, 136, 'Alfred Hitchcock', 'Cary Grant').
-filme('Vertigo', 'mystery', 1958, 128, 'Alfred Hitchcock', 'James Stewart').
-filme('Singin' in the Rain', 'comedy', 1952, 103, 'Stanley Donen', 'Gene Kelly').
-filme('Ikiru', 'drama', 1952, 143, 'Akira Kurosawa', 'Takashi Shimura').
-filme('Ladri di biciclette', 'drama', 1948, 89, 'Vittorio De Sica', 'Lamberto Maggiorani').
-filme('Double Indemnity', 'crime', 1944, 107, 'Billy Wilder', 'Fred MacMurray').
-filme('Citizen Kane', 'drama', 1941, 119, 'Orson Welles', 'Orson Welles').
-filme('M - Eine Stadt sucht einen Mörder', 'crime', 1931, 117, 'Fritz Lang', 'Peter Lorre').
-filme('Metropolis', 'drama', 1927, 153, 'Fritz Lang', 'Brigitte Helm').
-filme('The Kid', 'comedy', 1921, 68, 'Charles Chaplin', 'Charles Chaplin').
-filme('Chhichhore', 'comedy', 2019, 143, 'Nitesh Tiwari', 'Sushant Singh Rajput').
-filme('Uri: The Surgical Strike', 'action', 2018, 138, 'Aditya Dhar', 'Vicky Kaushal').
-filme('K.G.F: Chapter 1', 'action', 2018, 156, 'Prashanth Neel', 'Yash').
-filme('Green Book', 'biography', 2018, 130, 'Peter Farrelly', 'Viggo Mortensen').
-filme('Three Billboards Outside Ebbing, Missouri', 'comedy', 2017, 115, 'Martin McDonagh', 'Frances McDormand').
-filme('Talvar', 'crime', 2015, 132, 'Meghna Gulzar', 'Irrfan Khan').
-filme('Baahubali 2: The Conclusion', 'action', 2017, 167, 'S.S. Rajamouli', 'Prabhas').
-filme('Klaus', 'animation', 2019, 96, 'Sergio Pablos', 'Carlos Martínez López').
-filme('Drishyam', 'crime', 2015, 163, 'Nishikant Kamat', 'Ajay Devgn').
-filme('Queen', 'adventure', 2013, 146, 'Vikas Bahl', 'Kangana Ranaut').
-filme('Mandariinid', 'drama', 2013, 87, 'Zaza Urushadze', 'Lembit Ulfsak').
-filme('Bhaag Milkha Bhaag', 'biography', 2013, 186, 'Rakeysh Omprakash Mehra', 'Farhan Akhtar').
-filme('Gangs of Wasseypur', 'action', 2012, 321, 'Anurag Kashyap', 'Manoj Bajpayee').
-filme('Udaan', 'drama', 2010, 134, 'Vikramaditya Motwane', 'Rajat Barmecha').
-filme('Paan Singh Tomar', 'action', 2012, 135, 'Tigmanshu Dhulia', 'Irrfan Khan').
-filme('El secreto de sus ojos', 'drama', 2009, 129, 'Juan José Campanella', 'Ricardo Darín').
-filme('Warrior', 'action', 2011, 140, 'Gavin O'Connor', 'Tom Hardy').
-filme('Shutter Island', 'mystery', 2010, 138, 'Martin Scorsese', 'Leonardo DiCaprio').
-filme('Up', 'animation', 2009, 96, 'Pete Docter', 'Bob Peterson').
-filme('The Wolf of Wall Street', 'biography', 2013, 180, 'Martin Scorsese', 'Leonardo DiCaprio').
-filme('Chak De! India', 'drama', 2007, 153, 'Shimit Amin', 'Shah Rukh Khan').
-filme('There Will Be Blood', 'drama', 2007, 158, 'Paul Thomas Anderson', 'Daniel Day-Lewis').
-filme('Pan's Labyrinth', 'drama', 2006, 118, 'Guillermo del Toro', 'Ivana Baquero').
-filme('Toy Story 3', 'animation', 2010, 103, 'Lee Unkrich', 'Tom Hanks').
-filme('V for Vendetta', 'action', 2005, 132, 'James McTeigue', 'Hugo Weaving').
-filme('Rang De Basanti', 'comedy', 2006, 167, 'Rakeysh Omprakash Mehra', 'Aamir Khan').
-filme('Black', 'drama', 2005, 122, 'Sanjay Leela Bhansali', 'Amitabh Bachchan').
-filme('Batman Begins', 'action', 2005, 140, 'Christopher Nolan', 'Christian Bale').
-filme('Swades: We, the People', 'drama', 2004, 210, 'Ashutosh Gowariker', 'Shah Rukh Khan').
-filme('Der Untergang', 'biography', 2004, 156, 'Oliver Hirschbiegel', 'Bruno Ganz').
-filme('Hauru no ugoku shiro', 'animation', 2004, 119, 'Hayao Miyazaki', 'Chieko Baishô').
-filme('A Beautiful Mind', 'biography', 2001, 135, 'Ron Howard', 'Russell Crowe').
-filme('Hera Pheri', 'action', 2000, 156, 'Priyadarshan', 'Akshay Kumar').
-filme('Lock, Stock and Two Smoking Barrels', 'action', 1998, 107, 'Guy Ritchie', 'Jason Flemyng').
-filme('L.A. Confidential', 'crime', 1997, 138, 'Curtis Hanson', 'Kevin Spacey').
-filme('Eskiya', 'crime', 1996, 128, 'Yavuz Turgul', 'Sener Sen').
-filme('Heat', 'crime', 1995, 170, 'Michael Mann', 'Al Pacino').
-filme('Casino', 'crime', 1995, 178, 'Martin Scorsese', 'Robert De Niro').
-filme('Andaz Apna Apna', 'action', 1994, 160, 'Rajkumar Santoshi', 'Aamir Khan').
-filme('Unforgiven', 'drama', 1992, 130, 'Clint Eastwood', 'Clint Eastwood').
-filme('Indiana Jones and the Last Crusade', 'action', 1989, 127, 'Steven Spielberg', 'Harrison Ford').
-filme('Dom za vesanje', 'comedy', 1988, 142, 'Emir Kusturica', 'Davor Dujmovic').
-filme('Tonari no Totoro', 'animation', 1988, 86, 'Hayao Miyazaki', 'Hitoshi Takagi').
-filme('Die Hard', 'action', 1988, 132, 'John McTiernan', 'Bruce Willis').
-filme('Ran', 'action', 1985, 162, 'Akira Kurosawa', 'Tatsuya Nakadai').
-filme('Raging Bull', 'biography', 1980, 129, 'Martin Scorsese', 'Robert De Niro').
-filme('Stalker', 'drama', 1979, 162, 'Andrei Tarkovsky', 'Alisa Freyndlikh').
-filme('Höstsonaten', 'drama', 1978, 99, 'Ingmar Bergman', 'Ingrid Bergman').
-filme('The Message', 'biography', 1976, 177, 'Moustapha Akkad', 'Anthony Quinn').
-filme('Sholay', 'action', 1975, 204, 'Ramesh Sippy', 'Sanjeev Kumar').
-filme('Monty Python and the Holy Grail', 'adventure', 1975, 91, 'Terry Gilliam', 'Terry Jones').
-filme('The Great Escape', 'adventure', 1963, 172, 'John Sturges', 'Steve McQueen').
-filme('To Kill a Mockingbird', 'crime', 1962, 129, 'Robert Mulligan', 'Gregory Peck').
-filme('Yôjinbô', 'action', 1961, 110, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('Judgment at Nuremberg', 'drama', 1961, 179, 'Stanley Kramer', 'Spencer Tracy').
-filme('Some Like It Hot', 'comedy', 1959, 121, 'Billy Wilder', 'Marilyn Monroe').
-filme('Smultronstället', 'drama', 1957, 91, 'Ingmar Bergman', 'Victor Sjöström').
-filme('Det sjunde inseglet', 'drama', 1957, 96, 'Ingmar Bergman', 'Max von Sydow').
-filme('Du rififi chez les hommes', 'crime', 1955, 118, 'Jules Dassin', 'Jean Servais').
-filme('Dial M for Murder', 'crime', 1954, 105, 'Alfred Hitchcock', 'Ray Milland').
-filme('Tôkyô monogatari', 'drama', 1953, 136, 'Yasujirô Ozu', 'Chishû Ryû').
-filme('Rashômon', 'crime', 1950, 88, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('All About Eve', 'drama', 1950, 138, 'Joseph L. Mankiewicz', 'Bette Davis').
-filme('The Treasure of the Sierra Madre', 'adventure', 1948, 126, 'John Huston', 'Humphrey Bogart').
-filme('To Be or Not to Be', 'comedy', 1942, 99, 'Ernst Lubitsch', 'Carole Lombard').
-filme('The Gold Rush', 'adventure', 1925, 95, 'Charles Chaplin', 'Charles Chaplin').
-filme('Sherlock Jr.', 'action', 1924, 45, 'Buster Keaton', 'Buster Keaton').
-filme('Portrait de la jeune fille en feu', 'drama', 2019, 122, 'Céline Sciamma', 'Noémie Merlant').
-filme('Pink', 'drama', 2016, 136, 'Aniruddha Roy Chowdhury', 'Taapsee Pannu').
-filme('Koe no katachi', 'animation', 2016, 130, 'Naoko Yamada', 'Miyu Irino').
-filme('Contratiempo', 'crime', 2016, 106, 'Oriol Paulo', 'Mario Casas').
-filme('Ah-ga-ssi', 'drama', 2016, 145, 'Chan-wook Park', 'Kim Min-hee').
-filme('Mommy', 'drama', 2014, 139, 'Xavier Dolan', 'Anne Dorval').
-filme('Haider', 'action', 2014, 160, 'Vishal Bhardwaj', 'Shahid Kapoor').
-filme('Logan', 'action', 2017, 137, 'James Mangold', 'Hugh Jackman').
-filme('Room', 'drama', 2015, 118, 'Lenny Abrahamson', 'Brie Larson').
-filme('Relatos salvajes', 'comedy', 2014, 122, 'Damián Szifron', 'Darío Grandinetti').
-filme('Soul', 'animation', 2020, 100, 'Pete Docter', 'Kemp Powers').
-filme('Kis Uykusu', 'drama', 2014, 196, 'Nuri Bilge Ceylan', 'Haluk Bilginer').
-filme('PK', 'comedy', 2014, 153, 'Rajkumar Hirani', 'Aamir Khan').
-filme('OMG: Oh My God!', 'comedy', 2012, 125, 'Umesh Shukla', 'Paresh Rawal').
-filme('The Grand Budapest Hotel', 'adventure', 2014, 99, 'Wes Anderson', 'Ralph Fiennes').
-filme('Gone Girl', 'drama', 2014, 149, 'David Fincher', 'Ben Affleck').
-filme('Ôkami kodomo no Ame to Yuki', 'animation', 2012, 117, 'Mamoru Hosoda', 'Aoi Miyazaki').
-filme('Hacksaw Ridge', 'biography', 2016, 139, 'Mel Gibson', 'Andrew Garfield').
-filme('Inside Out', 'animation', 2015, 95, 'Pete Docter', 'Ronnie Del Carmen').
-filme('Barfi!', 'comedy', 2012, 151, 'Anurag Basu', 'Ranbir Kapoor').
-filme('12 Years a Slave', 'biography', 2013, 134, 'Steve McQueen', 'Chiwetel Ejiofor').
-filme('Rush', 'action', 2013, 123, 'Ron Howard', 'Daniel Brühl').
-filme('Ford v Ferrari', 'action', 2019, 152, 'James Mangold', 'Matt Damon').
-filme('Spotlight', 'biography', 2015, 129, 'Tom McCarthy', 'Mark Ruffalo').
-filme('Song of the Sea', 'animation', 2014, 93, 'Tomm Moore', 'David Rawle').
-filme('Kahaani', 'mystery', 2012, 122, 'Sujoy Ghosh', 'Vidya Balan').
-filme('Zindagi Na Milegi Dobara', 'comedy', 2011, 155, 'Zoya Akhtar', 'Hrithik Roshan').
-filme('Prisoners', 'crime', 2013, 153, 'Denis Villeneuve', 'Hugh Jackman').
-filme('Mad Max: Fury Road', 'action', 2015, 120, 'George Miller', 'Tom Hardy').
-filme('A Wednesday', 'action', 2008, 104, 'Neeraj Pandey', 'Anupam Kher').
-filme('Gran Torino', 'drama', 2008, 116, 'Clint Eastwood', 'Clint Eastwood').
-filme('Harry Potter and the Deathly Hallows: Part 2', 'adventure', 2011, 130, 'David Yates', 'Daniel Radcliffe').
-filme('Okuribito', 'drama', 2008, 130, 'Yôjirô Takita', 'Masahiro Motoki').
-filme('Hachi: A Dog's Tale', 'biography', 2009, 93, 'Lasse Hallström', 'Richard Gere').
-filme('Mary and Max', 'animation', 2009, 92, 'Adam Elliot', 'Toni Collette').
-filme('How to Train Your Dragon', 'animation', 2010, 98, 'Dean DeBlois', 'Chris Sanders').
-filme('Into the Wild', 'adventure', 2007, 148, 'Sean Penn', 'Emile Hirsch').
-filme('No Country for Old Men', 'crime', 2007, 122, 'Ethan Coen', 'Joel Coen').
-filme('Lage Raho Munna Bhai', 'comedy', 2006, 144, 'Rajkumar Hirani', 'Sanjay Dutt').
-filme('Million Dollar Baby', 'drama', 2004, 132, 'Clint Eastwood', 'Hilary Swank').
-filme('Hotel Rwanda', 'biography', 2004, 121, 'Terry George', 'Don Cheadle').
-filme('Taegukgi hwinalrimyeo', 'action', 2004, 140, 'Je-kyu Kang', 'Jang Dong-Gun').
-filme('Before Sunset', 'drama', 2004, 80, 'Richard Linklater', 'Ethan Hawke').
-filme('Munna Bhai M.B.B.S.', 'comedy', 2003, 156, 'Rajkumar Hirani', 'Sanjay Dutt').
-filme('Salinui chueok', 'crime', 2003, 131, 'Bong Joon Ho', 'Kang-ho Song').
-filme('Dil Chahta Hai', 'comedy', 2001, 183, 'Farhan Akhtar', 'Aamir Khan').
-filme('Kill Bill: Vol. 1', 'action', 2003, 111, 'Quentin Tarantino', 'Uma Thurman').
-filme('Finding Nemo', 'animation', 2003, 100, 'Andrew Stanton', 'Lee Unkrich').
-filme('Catch Me If You Can', 'biography', 2002, 141, 'Steven Spielberg', 'Leonardo DiCaprio').
-filme('Amores perros', 'drama', 2000, 154, 'Alejandro G. Iñárritu', 'Emilio Echevarría').
-filme('Monsters, Inc.', 'animation', 2001, 92, 'Pete Docter', 'David Silverman').
-filme('Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni', 'animation', 1997, 87, 'Hideaki Anno', 'Kazuya Tsurumaki').
-filme('Lagaan: Once Upon a Time in India', 'adventure', 2001, 224, 'Ashutosh Gowariker', 'Aamir Khan').
-filme('The Sixth Sense', 'drama', 1999, 107, 'M. Night Shyamalan', 'Bruce Willis').
-filme('La leggenda del pianista sull'oceano', 'drama', 1998, 169, 'Giuseppe Tornatore', 'Tim Roth').
-filme('The Truman Show', 'comedy', 1998, 103, 'Peter Weir', 'Jim Carrey').
-filme('Crna macka, beli macor', 'comedy', 1998, 127, 'Emir Kusturica', 'Bajram Severdzan').
-filme('The Big Lebowski', 'comedy', 1998, 117, 'Joel Coen', 'Ethan Coen').
-filme('Fa yeung nin wah', 'drama', 2000, 98, 'Kar-Wai Wong', 'Tony Chiu-Wai Leung').
-filme('Trainspotting', 'drama', 1996, 93, 'Danny Boyle', 'Ewan McGregor').
-filme('Fargo', 'crime', 1996, 98, 'Joel Coen', 'Ethan Coen').
-filme('Underground', 'comedy', 1995, 170, 'Emir Kusturica', 'Predrag 'Miki' Manojlovic').
-filme('La haine', 'crime', 1995, 98, 'Mathieu Kassovitz', 'Vincent Cassel').
-filme('Dilwale Dulhania Le Jayenge', 'drama', 1995, 189, 'Aditya Chopra', 'Shah Rukh Khan').
-filme('Before Sunrise', 'drama', 1995, 101, 'Richard Linklater', 'Ethan Hawke').
-filme('Trois couleurs: Rouge', 'drama', 1994, 99, 'Krzysztof Kieslowski', 'Irène Jacob').
-filme('Chung Hing sam lam', 'comedy', 1994, 102, 'Kar-Wai Wong', 'Brigitte Lin').
-filme('Jurassic Park', 'action', 1993, 127, 'Steven Spielberg', 'Sam Neill').
-filme('In the Name of the Father', 'biography', 1993, 133, 'Jim Sheridan', 'Daniel Day-Lewis').
-filme('Ba wang bie ji', 'drama', 1993, 171, 'Kaige Chen', 'Leslie Cheung').
-filme('Dà hóng denglong gaogao guà', 'drama', 1991, 125, 'Yimou Zhang', 'Gong Li').
-filme('Dead Poets Society', 'comedy', 1989, 128, 'Peter Weir', 'Robin Williams').
-filme('Stand by Me', 'adventure', 1986, 89, 'Rob Reiner', 'Wil Wheaton').
-filme('Platoon', 'drama', 1986, 120, 'Oliver Stone', 'Charlie Sheen').
-filme('Paris, Texas', 'drama', 1984, 145, 'Wim Wenders', 'Harry Dean Stanton').
-filme('Kaze no tani no Naushika', 'animation', 1984, 117, 'Hayao Miyazaki', 'Sumi Shimamoto').
-filme('The Thing', 'horror', 1982, 109, 'John Carpenter', 'Kurt Russell').
-filme('Pink Floyd: The Wall', 'drama', 1982, 95, 'Alan Parker', 'Bob Geldof').
-filme('Fitzcarraldo', 'adventure', 1982, 158, 'Werner Herzog', 'Klaus Kinski').
-filme('Fanny och Alexander', 'drama', 1982, 188, 'Ingmar Bergman', 'Bertil Guve').
-filme('Blade Runner', 'action', 1982, 117, 'Ridley Scott', 'Harrison Ford').
-filme('The Elephant Man', 'biography', 1980, 124, 'David Lynch', 'Anthony Hopkins').
-filme('Life of Brian', 'comedy', 1979, 94, 'Terry Jones', 'Graham Chapman').
-filme('The Deer Hunter', 'drama', 1978, 183, 'Michael Cimino', 'Robert De Niro').
-filme('Rocky', 'drama', 1976, 120, 'John G. Avildsen', 'Sylvester Stallone').
-filme('Network', 'drama', 1976, 121, 'Sidney Lumet', 'Faye Dunaway').
-filme('Barry Lyndon', 'adventure', 1975, 185, 'Stanley Kubrick', 'Ryan O'Neal').
-filme('Zerkalo', 'biography', 1975, 107, 'Andrei Tarkovsky', 'Margarita Terekhova').
-filme('Chinatown', 'drama', 1974, 130, 'Roman Polanski', 'Jack Nicholson').
-filme('Paper Moon', 'comedy', 1973, 102, 'Peter Bogdanovich', 'Ryan O'Neal').
-filme('Viskningar och rop', 'drama', 1972, 91, 'Ingmar Bergman', 'Harriet Andersson').
-filme('Solaris', 'drama', 1972, 167, 'Andrei Tarkovsky', 'Natalya Bondarchuk').
-filme('Le samouraï', 'crime', 1967, 105, 'Jean-Pierre Melville', 'Alain Delon').
-filme('Cool Hand Luke', 'crime', 1967, 127, 'Stuart Rosenberg', 'Paul Newman').
-filme('Persona', 'drama', 1966, 85, 'Ingmar Bergman', 'Bibi Andersson').
-filme('Andrei Rublev', 'biography', 1966, 205, 'Andrei Tarkovsky', 'Anatoliy Solonitsyn').
-filme('La battaglia di Algeri', 'drama', 1966, 121, 'Gillo Pontecorvo', 'Brahim Hadjadj').
-filme('El ángel exterminador', 'drama', 1962, 95, 'Luis Buñuel', 'Silvia Pinal').
-filme('What Ever Happened to Baby Jane?', 'drama', 1962, 134, 'Robert Aldrich', 'Bette Davis').
-filme('Sanjuro', 'action', 1962, 96, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('The Man Who Shot Liberty Valance', 'drama', 1962, 123, 'John Ford', 'James Stewart').
-filme('Ivanovo detstvo', 'drama', 1962, 95, 'Andrei Tarkovsky', 'Eduard Abalov').
-filme('Jungfrukällan', 'drama', 1960, 89, 'Ingmar Bergman', 'Max von Sydow').
-filme('Inherit the Wind', 'biography', 1960, 128, 'Stanley Kramer', 'Spencer Tracy').
-filme('Les quatre cents coups', 'crime', 1959, 99, 'François Truffaut', 'Jean-Pierre Léaud').
-filme('Ben-Hur', 'adventure', 1959, 212, 'William Wyler', 'Charlton Heston').
-filme('Kakushi-toride no san-akunin', 'adventure', 1958, 139, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('Le notti di Cabiria', 'drama', 1957, 110, 'Federico Fellini', 'Giulietta Masina').
-filme('Kumonosu-jô', 'drama', 1957, 110, 'Akira Kurosawa', 'Toshirô Mifune').
-filme('The Bridge on the River Kwai', 'adventure', 1957, 161, 'David Lean', 'William Holden').
-filme('On the Waterfront', 'crime', 1954, 108, 'Elia Kazan', 'Marlon Brando').
-filme('Le salaire de la peur', 'adventure', 1953, 131, 'Henri-Georges Clouzot', 'Yves Montand').
-filme('Ace in the Hole', 'drama', 1951, 111, 'Billy Wilder', 'Kirk Douglas').
-filme('White Heat', 'action', 1949, 114, 'Raoul Walsh', 'James Cagney').
-filme('The Third Man', 'film-noir', 1949, 104, 'Carol Reed', 'Orson Welles').
-filme('The Red Shoes', 'drama', 1948, 135, 'Michael Powell', 'Emeric Pressburger').
-filme('The Shop Around the Corner', 'comedy', 1940, 99, 'Ernst Lubitsch', 'Margaret Sullavan').
-filme('Rebecca', 'drama', 1940, 130, 'Alfred Hitchcock', 'Laurence Olivier').
-filme('Mr. Smith Goes to Washington', 'comedy', 1939, 129, 'Frank Capra', 'James Stewart').
-filme('Gone with the Wind', 'drama', 1939, 238, 'Victor Fleming', 'George Cukor').
-filme('La Grande Illusion', 'drama', 1937, 113, 'Jean Renoir', 'Jean Gabin').
-filme('It Happened One Night', 'comedy', 1934, 105, 'Frank Capra', 'Clark Gable').
-filme('La passion de Jeanne d'Arc', 'biography', 1928, 110, 'Carl Theodor Dreyer', 'Maria Falconetti').
-filme('The Circus', 'comedy', 1928, 72, 'Charles Chaplin', 'Charles Chaplin').
-filme('Sunrise: A Song of Two Humans', 'drama', 1927, 94, 'F.W. Murnau', 'George O'Brien').
-filme('The General', 'action', 1926, 67, 'Clyde Bruckman', 'Buster Keaton').
-filme('Das Cabinet des Dr. Caligari', 'fantasy', 1920, 76, 'Robert Wiene', 'Werner Krauss').
-filme('Badhaai ho', 'comedy', 2018, 124, 'Amit Ravindernath Sharma', 'Ayushmann Khurrana').
-filme('Togo', 'adventure', 2019, 113, 'Ericson Core', 'Willem Dafoe').
-filme('Airlift', 'drama', 2016, 130, 'Raja Menon', 'Akshay Kumar').
-filme('Bajrangi Bhaijaan', 'action', 2015, 163, 'Kabir Khan', 'Salman Khan').
-filme('Baby', 'action', 2015, 159, 'Neeraj Pandey', 'Akshay Kumar').
-filme('La La Land', 'comedy', 2016, 128, 'Damien Chazelle', 'Ryan Gosling').
-filme('Lion', 'biography', 2016, 118, 'Garth Davis', 'Dev Patel').
-filme('The Martian', 'adventure', 2015, 144, 'Ridley Scott', 'Matt Damon').
-filme('Zootopia', 'animation', 2016, 108, 'Byron Howard', 'Rich Moore').
-filme('Bãhubali: The Beginning', 'action', 2015, 159, 'S.S. Rajamouli', 'Prabhas').
-filme('Kaguyahime no monogatari', 'animation', 2013, 137, 'Isao Takahata', 'Chloë Grace Moretz').
-filme('Wonder', 'drama', 2017, 113, 'Stephen Chbosky', 'Jacob Tremblay').
-filme('Gully Boy', 'drama', 2019, 154, 'Zoya Akhtar', 'Vijay Varma').
-filme('Special Chabbis', 'crime', 2013, 144, 'Neeraj Pandey', 'Akshay Kumar').
-filme('Short Term 12', 'drama', 2013, 96, 'Destin Daniel Cretton', 'Brie Larson').
-filme('Serbuan maut 2: Berandal', 'action', 2014, 150, 'Gareth Evans', 'Iko Uwais').
-filme('The Imitation Game', 'biography', 2014, 114, 'Morten Tyldum', 'Benedict Cumberbatch').
-filme('Guardians of the Galaxy', 'action', 2014, 121, 'James Gunn', 'Chris Pratt').
-filme('Blade Runner 2049', 'action', 2017, 164, 'Denis Villeneuve', 'Harrison Ford').
-filme('Her', 'drama', 2013, 126, 'Spike Jonze', 'Joaquin Phoenix').
-filme('Bohemian Rhapsody', 'biography', 2018, 134, 'Bryan Singer', 'Rami Malek').
-filme('The Revenant', 'action', 2015, 156, 'Alejandro G. Iñárritu', 'Leonardo DiCaprio').
-filme('The Perks of Being a Wallflower', 'drama', 2012, 103, 'Stephen Chbosky', 'Logan Lerman').
-filme('Tropa de Elite 2: O Inimigo Agora é Outro', 'action', 2010, 115, 'José Padilha', 'Wagner Moura').
-filme('The King's Speech', 'biography', 2010, 118, 'Tom Hooper', 'Colin Firth').
-filme('The Help', 'drama', 2011, 146, 'Tate Taylor', 'Emma Stone').
-filme('Deadpool', 'action', 2016, 108, 'Tim Miller', 'Ryan Reynolds').
-filme('Darbareye Elly', 'drama', 2009, 119, 'Asghar Farhadi', 'Golshifteh Farahani').
-filme('Dev.D', 'drama', 2009, 144, 'Anurag Kashyap', 'Abhay Deol').
-filme('Yip Man', 'action', 2008, 106, 'Wilson Yip', 'Donnie Yen').
-filme('My Name Is Khan', 'drama', 2010, 165, 'Karan Johar', 'Shah Rukh Khan').
-filme('Nefes: Vatan Sagolsun', 'action', 2009, 128, 'Levent Semerci', 'Erdem Can').
-filme('Slumdog Millionaire', 'drama', 2008, 120, 'Danny Boyle', 'Loveleen Tandan').
-filme('Black Swan', 'drama', 2010, 108, 'Darren Aronofsky', 'Natalie Portman').
-filme('Tropa de Elite', 'action', 2007, 115, 'José Padilha', 'Wagner Moura').
-filme('The Avengers', 'action', 2012, 143, 'Joss Whedon', 'Robert Downey Jr.').
-filme('Persepolis', 'animation', 2007, 96, 'Vincent Paronnaud', 'Marjane Satrapi').
-filme('Dallas Buyers Club', 'biography', 2013, 117, 'Jean-Marc Vallée', 'Matthew McConaughey').
-filme('The Pursuit of Happyness', 'biography', 2006, 117, 'Gabriele Muccino', 'Will Smith').
-filme('Blood Diamond', 'adventure', 2006, 143, 'Edward Zwick', 'Leonardo DiCaprio').
-filme('The Bourne Ultimatum', 'action', 2007, 115, 'Paul Greengrass', 'Matt Damon').
-filme('Bin-jip', 'crime', 2004, 88, 'Ki-duk Kim', 'Seung-Yun Lee').
-filme('Sin City', 'crime', 2005, 124, 'Frank Miller', 'Quentin Tarantino').
-filme('Le scaphandre et le papillon', 'biography', 2007, 112, 'Julian Schnabel', 'Laura Obiols').
-filme('G.O.R.A.', 'adventure', 2004, 127, 'Ömer Faruk Sorak', 'Cem Yilmaz').
-filme('Ratatouille', 'animation', 2007, 111, 'Brad Bird', 'Jan Pinkava').
-filme('Casino Royale', 'action', 2006, 144, 'Martin Campbell', 'Daniel Craig').
-filme('Kill Bill: Vol. 2', 'action', 2004, 137, 'Quentin Tarantino', 'Uma Thurman').
-filme('Vozvrashchenie', 'drama', 2003, 110, 'Andrey Zvyagintsev', 'Vladimir Garin').
-filme('Bom Yeoareum Gaeul Gyeoul Geurigo Bom', 'drama', 2003, 103, 'Ki-duk Kim', 'Ki-duk Kim').
-filme('Mar adentro', 'biography', 2014, 126, 'Alejandro Amenábar', 'Javier Bardem').
-filme('Cinderella Man', 'biography', 2005, 144, 'Ron Howard', 'Russell Crowe').
-filme('Kal Ho Naa Ho', 'comedy', 2003, 186, 'Nikkhil Advani', 'Preity Zinta').
-filme('Mou gaan dou', 'action', 2002, 101, 'Andrew Lau', 'Alan Mak').
-filme('Pirates of the Caribbean: The Curse of the Black Pearl', 'action', 2003, 143, 'Gore Verbinski', 'Johnny Depp').
-filme('Big Fish', 'adventure', 2003, 125, 'Tim Burton', 'Ewan McGregor').
-filme('The Incredibles', 'animation', 2004, 115, 'Brad Bird', 'Craig T. Nelson').
-filme('Yeopgijeogin geunyeo', 'comedy', 2001, 137, 'Jae-young Kwak', 'Tae-Hyun Cha').
-filme('Dogville', 'crime', 2003, 178, 'Lars von Trier', 'Nicole Kidman').
-filme('Vizontele', 'comedy', 2001, 110, 'Yilmaz Erdogan', 'Ömer Faruk Sorak').
-filme('Donnie Darko', 'drama', 2001, 113, 'Richard Kelly', 'Jake Gyllenhaal').
-filme('Magnolia', 'drama', 1999, 188, 'Paul Thomas Anderson', 'Tom Cruise').
-filme('Dancer in the Dark', 'crime', 2000, 140, 'Lars von Trier', 'Björk').
-filme('The Straight Story', 'biography', 1999, 112, 'David Lynch', 'Richard Farnsworth').
-filme('Pâfekuto burû', 'animation', 1997, 81, 'Satoshi Kon', 'Junko Iwao').
-filme('Festen', 'drama', 1998, 105, 'Thomas Vinterberg', 'Ulrich Thomsen').
-filme('Central do Brasil', 'drama', 1998, 110, 'Walter Salles', 'Fernanda Montenegro').
-filme('The Iron Giant', 'animation', 1999, 86, 'Brad Bird', 'Eli Marienthal').
-filme('Knockin' on Heaven's Door', 'action', 1997, 87, 'Thomas Jahn', 'Til Schweiger').
-filme('Sling Blade', 'drama', 1996, 135, 'Billy Bob Thornton', 'Billy Bob Thornton').
-filme('Secrets & Lies', 'comedy', 1996, 136, 'Mike Leigh', 'Timothy Spall').
-filme('Twelve Monkeys', 'mystery', 1995, 129, 'Terry Gilliam', 'Bruce Willis').
-filme('Kôkaku Kidôtai', 'animation', 1995, 83, 'Mamoru Oshii', 'Atsuko Tanaka').
-filme('The Nightmare Before Christmas', 'animation', 1993, 76, 'Henry Selick', 'Danny Elfman').
-filme('Groundhog Day', 'comedy', 1993, 101, 'Harold Ramis', 'Bill Murray').
-filme('Bound by Honor', 'crime', 1993, 180, 'Taylor Hackford', 'Damian Chapa').
-filme('Scent of a Woman', 'drama', 1992, 156, 'Martin Brest', 'Al Pacino').
-filme('Aladdin', 'animation', 1992, 90, 'Ron Clements', 'John Musker').
-filme('JFK', 'drama', 1991, 189, 'Oliver Stone', 'Kevin Costner').
-filme('Beauty and the Beast', 'animation', 1991, 84, 'Gary Trousdale', 'Kirk Wise').
-filme('Dances with Wolves', 'adventure', 1990, 181, 'Kevin Costner', 'Kevin Costner').
-filme('Do the Right Thing', 'comedy', 1989, 120, 'Spike Lee', 'Danny Aiello').
-filme('Rain Man', 'drama', 1988, 133, 'Barry Levinson', 'Dustin Hoffman').
-filme('Akira', 'animation', 1988, 124, 'Katsuhiro Ôtomo', 'Mitsuo Iwata').
-filme('The Princess Bride', 'adventure', 1987, 98, 'Rob Reiner', 'Cary Elwes').
-filme('Der Himmel über Berlin', 'drama', 1987, 128, 'Wim Wenders', 'Bruno Ganz').
-filme('Au revoir les enfants', 'drama', 1987, 104, 'Louis Malle', 'Gaspard Manesse').
-filme('Tenkû no shiro Rapyuta', 'animation', 1986, 125, 'Hayao Miyazaki', 'Mayumi Tanaka').
-filme('The Terminator', 'action', 1984, 107, 'James Cameron', 'Arnold Schwarzenegger').
-filme('Gandhi', 'biography', 1982, 191, 'Richard Attenborough', 'Ben Kingsley').
-filme('Kagemusha', 'drama', 1980, 180, 'Akira Kurosawa', 'Tatsuya Nakadai').
-filme('Being There', 'comedy', 1979, 130, 'Hal Ashby', 'Peter Sellers').
-filme('Annie Hall', 'comedy', 1977, 93, 'Woody Allen', 'Woody Allen').
-filme('Jaws', 'adventure', 1975, 124, 'Steven Spielberg', 'Roy Scheider').
-filme('Dog Day Afternoon', 'biography', 1975, 125, 'Sidney Lumet', 'Al Pacino').
-filme('Young Frankenstein', 'comedy', 1974, 106, 'Mel Brooks', 'Gene Wilder').
-filme('Papillon', 'biography', 1973, 151, 'Franklin J. Schaffner', 'Steve McQueen').
-filme('The Exorcist', 'horror', 1973, 122, 'William Friedkin', 'Ellen Burstyn').
-filme('Sleuth', 'mystery', 1972, 138, 'Joseph L. Mankiewicz', 'Laurence Olivier').
-filme('The Last Picture Show', 'drama', 1971, 118, 'Peter Bogdanovich', 'Timothy Bottoms').
-filme('Fiddler on the Roof', 'drama', 1971, 181, 'Norman Jewison', 'Topol').
-filme('Il conformista', 'drama', 1970, 113, 'Bernardo Bertolucci', 'Jean-Louis Trintignant').
-filme('Butch Cassidy and the Sundance Kid', 'biography', 1969, 110, 'George Roy Hill', 'Paul Newman').
-filme('Rosemary's Baby', 'drama', 1968, 137, 'Roman Polanski', 'Mia Farrow').
-filme('Planet of the Apes', 'adventure', 1968, 112, 'Franklin J. Schaffner', 'Charlton Heston').
-filme('The Graduate', 'comedy', 1967, 106, 'Mike Nichols', 'Dustin Hoffman').
-filme('Who's Afraid of Virginia Woolf?', 'drama', 1966, 131, 'Mike Nichols', 'Elizabeth Taylor').
-filme('The Sound of Music', 'biography', 1965, 172, 'Robert Wise', 'Julie Andrews').
-filme('Doctor Zhivago', 'drama', 1965, 197, 'David Lean', 'Omar Sharif').
-filme('Per un pugno di dollari', 'action', 1964, 99, 'Sergio Leone', 'Clint Eastwood').
-filme('8½', 'drama', 1963, 138, 'Federico Fellini', 'Marcello Mastroianni').
-filme('Vivre sa vie: Film en douze tableaux', 'drama', 1962, 80, 'Jean-Luc Godard', 'Anna Karina').
-filme('The Hustler', 'drama', 1961, 134, 'Robert Rossen', 'Paul Newman').
-filme('La dolce vita', 'comedy', 1960, 174, 'Federico Fellini', 'Marcello Mastroianni').
-filme('Rio Bravo', 'action', 1959, 141, 'Howard Hawks', 'John Wayne').
-filme('Anatomy of a Murder', 'crime', 1959, 161, 'Otto Preminger', 'James Stewart').
-filme('Touch of Evil', 'crime', 1958, 95, 'Orson Welles', 'Charlton Heston').
-filme('Cat on a Hot Tin Roof', 'drama', 1958, 108, 'Richard Brooks', 'Elizabeth Taylor').
-filme('Sweet Smell of Success', 'drama', 1957, 96, 'Alexander Mackendrick', 'Burt Lancaster').
-filme('The Killing', 'crime', 1956, 84, 'Stanley Kubrick', 'Sterling Hayden').
-filme('The Night of the Hunter', 'crime', 1955, 92, 'Charles Laughton', 'Robert Mitchum').
-filme('La Strada', 'drama', 1954, 108, 'Federico Fellini', 'Anthony Quinn').
-filme('Les diaboliques', 'crime', 1955, 117, 'Henri-Georges Clouzot', 'Simone Signoret').
-filme('Stalag 17', 'comedy', 1953, 120, 'Billy Wilder', 'William Holden').
-filme('Roman Holiday', 'comedy', 1953, 118, 'William Wyler', 'Gregory Peck').
-filme('A Streetcar Named Desire', 'drama', 1951, 122, 'Elia Kazan', 'Vivien Leigh').
-filme('In a Lonely Place', 'drama', 1950, 94, 'Nicholas Ray', 'Humphrey Bogart').
-filme('Kind Hearts and Coronets', 'comedy', 1949, 106, 'Robert Hamer', 'Dennis Price').
-filme('Rope', 'crime', 1948, 80, 'Alfred Hitchcock', 'James Stewart').
-filme('Out of the Past', 'crime', 1947, 97, 'Jacques Tourneur', 'Robert Mitchum').
-filme('Brief Encounter', 'drama', 1945, 86, 'David Lean', 'Celia Johnson').
-filme('Laura', 'drama', 1944, 88, 'Otto Preminger', 'Gene Tierney').
-filme('The Best Years of Our Lives', 'drama', 1946, 170, 'William Wyler', 'Myrna Loy').
-filme('Arsenic and Old Lace', 'comedy', 1942, 118, 'Frank Capra', 'Cary Grant').
-filme('The Maltese Falcon', 'film-noir', 1941, 100, 'John Huston', 'Humphrey Bogart').
-filme('The Grapes of Wrath', 'drama', 1940, 129, 'John Ford', 'Henry Fonda').
-filme('The Wizard of Oz', 'adventure', 1939, 102, 'Victor Fleming', 'George Cukor').
-filme('La règle du jeu', 'comedy', 1939, 110, 'Jean Renoir', 'Marcel Dalio').
-filme('The Thin Man', 'comedy', 1934, 91, 'W.S. Van Dyke', 'William Powell').
-filme('All Quiet on the Western Front', 'drama', 1930, 152, 'Lewis Milestone', 'Lew Ayres').
-filme('Bronenosets Potemkin', 'drama', 1925, 75, 'Sergei M. Eisenstein', 'Aleksandr Antonov').
-filme('Knives Out', 'comedy', 2019, 130, 'Rian Johnson', 'Daniel Craig').
-filme('Dil Bechara', 'comedy', 2020, 101, 'Mukesh Chhabra', 'Sushant Singh Rajput').
-filme('Manbiki kazoku', 'crime', 2018, 121, 'Hirokazu Koreeda', 'Lily Franky').
-filme('Marriage Story', 'comedy', 2019, 137, 'Noah Baumbach', 'Adam Driver').
-filme('Call Me by Your Name', 'drama', 2017, 132, 'Luca Guadagnino', 'Armie Hammer').
-filme('I, Daniel Blake', 'drama', 2016, 100, 'Ken Loach', 'Laura Obiols').
-filme('Isle of Dogs', 'animation', 2018, 101, 'Wes Anderson', 'Bryan Cranston').
-filme('Hunt for the Wilderpeople', 'adventure', 2016, 101, 'Taika Waititi', 'Sam Neill').
-filme('Captain Fantastic', 'comedy', 2016, 118, 'Matt Ross', 'Viggo Mortensen').
-filme('Sing Street', 'comedy', 2016, 106, 'John Carney', 'Ferdia Walsh-Peelo').
-filme('Thor: Ragnarok', 'action', 2017, 130, 'Taika Waititi', 'Chris Hemsworth').
-filme('Nightcrawler', 'crime', 2014, 117, 'Dan Gilroy', 'Jake Gyllenhaal').
-filme('Jojo Rabbit', 'comedy', 2019, 108, 'Taika Waititi', 'Roman Griffin Davis').
-filme('Arrival', 'drama', 2016, 116, 'Denis Villeneuve', 'Amy Adams').
-filme('Star Wars: Episode VII - The Force Awakens', 'action', 2015, 138, 'J.J. Abrams', 'Daisy Ridley').
-filme('Before Midnight', 'drama', 2013, 109, 'Richard Linklater', 'Ethan Hawke').
-filme('X-Men: Days of Future Past', 'action', 2014, 132, 'Bryan Singer', 'Patrick Stewart').
-filme('Bir Zamanlar Anadolu'da', 'crime', 2011, 157, 'Nuri Bilge Ceylan', 'Muhammet Uzuner').
-filme('The Artist', 'comedy', 2011, 100, 'Michel Hazanavicius', 'Jean Dujardin').
-filme('Edge of Tomorrow', 'action', 2014, 113, 'Doug Liman', 'Tom Cruise').
-filme('Amour', 'drama', 2012, 127, 'Michael Haneke', 'Jean-Louis Trintignant').
-filme('The Irishman', 'biography', 2019, 209, 'Martin Scorsese', 'Robert De Niro').
-filme('Un prophète', 'crime', 2009, 155, 'Jacques Audiard', 'Tahar Rahim').
-filme('Moon', 'drama', 2009, 97, 'Duncan Jones', 'Sam Rockwell').
-filme('Låt den rätte komma in', 'crime', 2008, 114, 'Tomas Alfredson', 'Kåre Hedebrant').
-filme('District 9', 'action', 2009, 112, 'Neill Blomkamp', 'Sharlto Copley').
-filme('The Wrestler', 'drama', 2008, 109, 'Darren Aronofsky', 'Mickey Rourke').
-filme('Jab We Met', 'comedy', 2007, 138, 'Imtiaz Ali', 'Shahid Kapoor').
-filme('Boyhood', 'drama', 2014, 165, 'Richard Linklater', 'Ellar Coltrane').
-filme('4 luni, 3 saptamâni si 2 zile', 'drama', 2007, 113, 'Cristian Mungiu', 'Anamaria Marinca').
-filme('Star Trek', 'action', 2009, 127, 'J.J. Abrams', 'Chris Pine').
-filme('In Bruges', 'comedy', 2008, 107, 'Martin McDonagh', 'Colin Farrell').
-filme('The Man from Earth', 'drama', 2007, 87, 'Richard Schenkman', 'David Lee Smith').
-filme('Letters from Iwo Jima', 'action', 2006, 141, 'Clint Eastwood', 'Ken Watanabe').
-filme('The Fall', 'adventure', 2006, 117, 'Tarsem Singh', 'Lee Pace').
-filme('Life of Pi', 'adventure', 2012, 127, 'Ang Lee', 'Suraj Sharma').
-filme('Fantastic Mr. Fox', 'animation', 2009, 87, 'Wes Anderson', 'George Clooney').
-filme('C.R.A.Z.Y.', 'comedy', 2005, 129, 'Jean-Marc Vallée', 'Michel Côté').
-filme('Les choristes', 'drama', 2004, 97, 'Christophe Barratier', 'Gérard Jugnot').
-filme('Iron Man', 'action', 2008, 126, 'Jon Favreau', 'Robert Downey Jr.').
-filme('Shaun of the Dead', 'comedy', 2004, 99, 'Edgar Wright', 'Simon Pegg').
-filme('Gegen die Wand', 'drama', 2004, 121, 'Fatih Akin', 'Birol Ünel').
-filme('Mystic River', 'crime', 2003, 138, 'Clint Eastwood', 'Sean Penn').
-filme('Harry Potter and the Prisoner of Azkaban', 'adventure', 2004, 142, 'Alfonso Cuarón', 'Daniel Radcliffe').
-filme('Ying xiong', 'action', 2002, 120, 'Yimou Zhang', 'Jet Li').
-filme('Hable con ella', 'drama', 2002, 112, 'Pedro Almodóvar', 'Rosario Flores').
-filme('No Man's Land', 'comedy', 2001, 98, 'Danis Tanovic', 'Branko Djuric').
-filme('Cowboy Bebop: Tengoku no tobira', 'animation', 2001, 115, 'Shin'ichirô Watanabe', 'Tensai Okamura').
-filme('The Bourne Identity', 'action', 2002, 119, 'Doug Liman', 'Franka Potente').
-filme('Nueve reinas', 'crime', 2000, 114, 'Fabián Bielinsky', 'Ricardo Darín').
-filme('Children of Men', 'adventure', 2006, 109, 'Alfonso Cuarón', 'Julianne Moore').
-filme('Almost Famous', 'adventure', 2000, 122, 'Cameron Crowe', 'Billy Crudup').
-filme('Mulholland Dr.', 'drama', 2001, 147, 'David Lynch', 'Naomi Watts').
-filme('Toy Story 2', 'animation', 1999, 92, 'John Lasseter', 'Ash Brannon').
-filme('Boogie Nights', 'drama', 1997, 155, 'Paul Thomas Anderson', 'Mark Wahlberg').
-filme('Mimi wo sumaseba', 'animation', 1995, 111, 'Yoshifumi Kondô', 'Yoko Honna').
-filme('Once Were Warriors', 'crime', 1994, 102, 'Lee Tamahori', 'Rena Owen').
-filme('True Romance', 'crime', 1993, 119, 'Tony Scott', 'Christian Slater').
-filme('Trois couleurs: Bleu', 'drama', 1993, 94, 'Krzysztof Kieslowski', 'Juliette Binoche').
-filme('Jûbê ninpûchô', 'animation', 1993, 94, 'Yoshiaki Kawajiri', 'Kôichi Yamadera').
-filme('Carlito's Way', 'crime', 1993, 144, 'Brian De Palma', 'Al Pacino').
-filme('Edward Scissorhands', 'drama', 1990, 105, 'Tim Burton', 'Johnny Depp').
-filme('My Left Foot: The Story of Christy Brown', 'biography', 1989, 103, 'Jim Sheridan', 'Daniel Day-Lewis').
-filme('Crimes and Misdemeanors', 'comedy', 1989, 104, 'Woody Allen', 'Martin Landau').
-filme('The Untouchables', 'crime', 1987, 119, 'Brian De Palma', 'Kevin Costner').
-filme('Hannah and Her Sisters', 'comedy', 1986, 107, 'Woody Allen', 'Mia Farrow').
-filme('Brazil', 'drama', 1985, 132, 'Terry Gilliam', 'Jonathan Pryce').
-filme('This Is Spinal Tap', 'comedy', 1984, 82, 'Rob Reiner', 'Rob Reiner').
-filme('A Christmas Story', 'comedy', 1983, 93, 'Bob Clark', 'Peter Billingsley').
-filme('The Blues Brothers', 'action', 1980, 133, 'John Landis', 'John Belushi').
-filme('Manhattan', 'comedy', 1979, 96, 'Woody Allen', 'Woody Allen').
-filme('All That Jazz', 'drama', 1979, 123, 'Bob Fosse', 'Roy Scheider').
-filme('Dawn of the Dead', 'action', 1978, 127, 'George A. Romero', 'David Emge').
-filme('All the President's Men', 'biography', 1976, 138, 'Alan J. Pakula', 'Dustin Hoffman').
-filme('La montaña sagrada', 'adventure', 1973, 114, 'Alejandro Jodorowsky', 'Alejandro Jodorowsky').
-filme('Amarcord', 'comedy', 1973, 123, 'Federico Fellini', 'Magali Noël').
-filme('Le charme discret de la bourgeoisie', 'comedy', 1972, 102, 'Luis Buñuel', 'Fernando Rey').
-filme('Aguirre, der Zorn Gottes', 'action', 1972, 95, 'Werner Herzog', 'Klaus Kinski').
-filme('Harold and Maude', 'comedy', 1971, 91, 'Hal Ashby', 'Ruth Gordon').
-filme('Patton', 'biography', 1970, 172, 'Franklin J. Schaffner', 'George C. Scott').
-filme('The Wild Bunch', 'action', 1969, 145, 'Sam Peckinpah', 'William Holden').
-filme('Night of the Living Dead', 'horror', 1968, 96, 'George A. Romero', 'Duane Jones').
-filme('The Lion in Winter', 'biography', 1968, 134, 'Anthony Harvey', 'Peter O'Toole').
-filme('In the Heat of the Night', 'crime', 1967, 110, 'Norman Jewison', 'Sidney Poitier').
-filme('Charade', 'comedy', 1963, 113, 'Stanley Donen', 'Cary Grant').
-filme('The Manchurian Candidate', 'drama', 1962, 126, 'John Frankenheimer', 'Frank Sinatra').
-filme('Spartacus', 'adventure', 1960, 197, 'Stanley Kubrick', 'Kirk Douglas').
-filme('L'avventura', 'drama', 1960, 144, 'Michelangelo Antonioni', 'Gabriele Ferzetti').
-filme('Hiroshima mon amour', 'drama', 1959, 90, 'Alain Resnais', 'Emmanuelle Riva').
-filme('The Ten Commandments', 'adventure', 1956, 220, 'Cecil B. DeMille', 'Charlton Heston').
-filme('The Searchers', 'adventure', 1956, 119, 'John Ford', 'John Wayne').
-filme('East of Eden', 'drama', 1955, 118, 'Elia Kazan', 'James Dean').
-filme('High Noon', 'drama', 1952, 85, 'Fred Zinnemann', 'Gary Cooper').
-filme('Strangers on a Train', 'crime', 1951, 101, 'Alfred Hitchcock', 'Farley Granger').
-filme('Harvey', 'comedy', 1950, 104, 'Henry Koster', 'James Stewart').
-filme('Miracle on 34th Street', 'comedy', 1947, 96, 'George Seaton', 'Edmund Gwenn').
-filme('Notorious', 'drama', 1946, 102, 'Alfred Hitchcock', 'Cary Grant').
-filme('The Big Sleep', 'crime', 1946, 114, 'Howard Hawks', 'Humphrey Bogart').
-filme('The Lost Weekend', 'drama', 1945, 101, 'Billy Wilder', 'Ray Milland').
-filme('The Philadelphia Story', 'comedy', 1940, 112, 'George Cukor', 'Cary Grant').
-filme('His Girl Friday', 'comedy', 1940, 92, 'Howard Hawks', 'Cary Grant').
-filme('The Adventures of Robin Hood', 'action', 1938, 102, 'Michael Curtiz', 'William Keighley').
-filme('A Night at the Opera', 'comedy', 1935, 96, 'Sam Wood', 'Edmund Goulding').
-filme('King Kong', 'adventure', 1933, 100, 'Merian C. Cooper', 'Ernest B. Schoedsack').
-filme('Freaks', 'drama', 1932, 64, 'Tod Browning', 'Wallace Ford').
-filme('Nosferatu', 'fantasy', 1922, 94, 'F.W. Murnau', 'Max Schreck').
-filme('The Gentlemen', 'action', 2019, 113, 'Guy Ritchie', 'Matthew McConaughey').
-filme('Raazi', 'action', 2018, 138, 'Meghna Gulzar', 'Alia Bhatt').
-filme('Sound of Metal', 'drama', 2019, 120, 'Darius Marder', 'Riz Ahmed').
-filme('Forushande', 'drama', 2016, 124, 'Asghar Farhadi', 'Shahab Hosseini').
-filme('Dunkirk', 'action', 2017, 106, 'Christopher Nolan', 'Fionn Whitehead').
-filme('Perfetti sconosciuti', 'comedy', 2016, 96, 'Paolo Genovese', 'Giuseppe Battiston').
-filme('Hidden Figures', 'biography', 2016, 127, 'Theodore Melfi', 'Taraji P. Henson').
-filme('Paddington 2', 'adventure', 2017, 103, 'Paul King', 'Ben Whishaw').
-filme('Udta Punjab', 'action', 2016, 148, 'Abhishek Chaubey', 'Shahid Kapoor').
-filme('Kubo and the Two Strings', 'animation', 2016, 101, 'Travis Knight', 'Charlize Theron').
-filme('M.S. Dhoni: The Untold Story', 'biography', 2016, 184, 'Neeraj Pandey', 'Sushant Singh Rajput').
-filme('Manchester by the Sea', 'drama', 2016, 137, 'Kenneth Lonergan', 'Casey Affleck').
-filme('Under sandet', 'drama', 2015, 100, 'Martin Zandvliet', 'Roland Møller').
-filme('Rogue One', 'action', 2016, 133, 'Gareth Edwards', 'Felicity Jones').
-filme('Captain America: Civil War', 'action', 2016, 147, 'Anthony Russo', 'Joe Russo').
-filme('The Hateful Eight', 'crime', 2015, 168, 'Quentin Tarantino', 'Samuel L. Jackson').
-filme('Little Women', 'drama', 2019, 135, 'Greta Gerwig', 'Saoirse Ronan').
-filme('Loving Vincent', 'animation', 2017, 94, 'Dorota Kobiela', 'Hugh Welchman').
-filme('Pride', 'biography', 2014, 119, 'Matthew Warchus', 'Bill Nighy').
-filme('Le passé', 'drama', 2013, 130, 'Asghar Farhadi', 'Bérénice Bejo').
-filme('La grande bellezza', 'drama', 2013, 141, 'Paolo Sorrentino', 'Toni Servillo').
-filme('The Lunchbox', 'drama', 2013, 104, 'Ritesh Batra', 'Irrfan Khan').
-filme('Vicky Donor', 'comedy', 2012, 126, 'Shoojit Sircar', 'Ayushmann Khurrana').
-filme('Big Hero 6', 'animation', 2014, 102, 'Don Hall', 'Chris Williams').
-filme('About Time', 'comedy', 2013, 123, 'Richard Curtis', 'Domhnall Gleeson').
-filme('English Vinglish', 'comedy', 2012, 134, 'Gauri Shinde', 'Sridevi').
-filme('Kaze tachinu', 'animation', 2013, 126, 'Hayao Miyazaki', 'Hideaki Anno').
-filme('Toy Story 4', 'animation', 2019, 100, 'Josh Cooley', 'Tom Hanks').
-filme('La migliore offerta', 'crime', 2013, 131, 'Giuseppe Tornatore', 'Geoffrey Rush').
-filme('Moonrise Kingdom', 'comedy', 2012, 94, 'Wes Anderson', 'Jared Gilman').
-filme('How to Train Your Dragon 2', 'animation', 2014, 102, 'Dean DeBlois', 'Jay Baruchel').
-filme('The Big Short', 'biography', 2015, 130, 'Adam McKay', 'Christian Bale').
-filme('Kokuhaku', 'drama', 2010, 106, 'Tetsuya Nakashima', 'Takako Matsu').
-filme('Ang-ma-reul bo-at-da', 'action', 2010, 144, 'Jee-woon Kim', 'Lee Byung-Hun').
-filme('The Girl with the Dragon Tattoo', 'crime', 2011, 158, 'David Fincher', 'Daniel Craig').
-filme('Captain Phillips', 'adventure', 2013, 134, 'Paul Greengrass', 'Tom Hanks').
-filme('Ajeossi', 'action', 2010, 119, 'Jeong-beom Lee', 'Won Bin').
-filme('Straight Outta Compton', 'biography', 2015, 147, 'F. Gary Gray', 'O'Shea Jackson Jr.').
-filme('Madeo', 'crime', 2009, 129, 'Bong Joon Ho', 'Hye-ja Kim').
-filme('Chugyeokja', 'action', 2008, 125, 'Hong-jin Na', 'Kim Yoon-seok').
-filme('The Hobbit: The Desolation of Smaug', 'adventure', 2013, 161, 'Peter Jackson', 'Ian McKellen').
-filme('Das weiße Band - Eine deutsche Kindergeschichte', 'drama', 2009, 144, 'Michael Haneke', 'Christian Friedel').
-filme('Män som hatar kvinnor', 'crime', 2009, 152, 'Niels Arden Oplev', 'Michael Nyqvist').
-filme('The Trial of the Chicago 7', 'drama', 2020, 129, 'Aaron Sorkin', 'Eddie Redmayne').
-filme('Druk', 'comedy', 2020, 117, 'Thomas Vinterberg', 'Mads Mikkelsen').
-filme('The Fighter', 'biography', 2010, 116, 'David O. Russell', 'Mark Wahlberg').
-filme('Taken', 'action', 2008, 90, 'Pierre Morel', 'Liam Neeson').
-filme('The Boy in the Striped Pyjamas', 'drama', 2008, 94, 'Mark Herman', 'Asa Butterfield').
-filme('Once', 'drama', 2007, 86, 'John Carney', 'Glen Hansard').
-filme('The Hobbit: An Unexpected Journey', 'adventure', 2012, 169, 'Peter Jackson', 'Martin Freeman').
-filme('Auf der anderen Seite', 'drama', 2007, 122, 'Fatih Akin', 'Baki Davrak').
-filme('Atonement', 'drama', 2007, 123, 'Joe Wright', 'Keira Knightley').
-filme('Drive', 'crime', 2011, 100, 'Nicolas Winding Refn', 'Ryan Gosling').
-filme('American Gangster', 'biography', 2007, 157, 'Ridley Scott', 'Denzel Washington').
-filme('Avatar', 'action', 2009, 162, 'James Cameron', 'Sam Worthington').
-filme('Mr. Nobody', 'drama', 2009, 141, 'Jaco Van Dormael', 'Jared Leto').
-filme('Apocalypto', 'action', 2006, 139, 'Mel Gibson', 'Gerardo Taracena').
-filme('Little Miss Sunshine', 'comedy', 2006, 101, 'Jonathan Dayton', 'Valerie Faris').
-filme('Hot Fuzz', 'action', 2007, 121, 'Edgar Wright', 'Simon Pegg').
-filme('The Curious Case of Benjamin Button', 'drama', 2008, 166, 'David Fincher', 'Brad Pitt').
-filme('Veer-Zaara', 'drama', 2004, 192, 'Yash Chopra', 'Shah Rukh Khan').
-filme('Adams æbler', 'comedy', 2005, 94, 'Anders Thomas Jensen', 'Ulrich Thomsen').
-filme('Pride & Prejudice', 'drama', 2005, 129, 'Joe Wright', 'Keira Knightley').
-filme('The World's Fastest Indian', 'biography', 2005, 127, 'Roger Donaldson', 'Anthony Hopkins').
-filme('Tôkyô goddofâzâzu', 'animation', 2003, 90, 'Satoshi Kon', 'Shôgo Furuya').
-filme('Serenity', 'action', 2005, 119, 'Joss Whedon', 'Nathan Fillion').
-filme('Walk the Line', 'biography', 2005, 136, 'James Mangold', 'Joaquin Phoenix').
-filme('Ondskan', 'drama', 2003, 113, 'Mikael Håfström', 'Andreas Wilson').
-filme('The Notebook', 'drama', 2004, 123, 'Nick Cassavetes', 'Gena Rowlands').
-filme('Diarios de motocicleta', 'adventure', 2004, 126, 'Walter Salles', 'Gael García Bernal').
-filme('Lilja 4-ever', 'crime', 2002, 109, 'Lukas Moodysson', 'Oksana Akinshina').
-filme('Les triplettes de Belleville', 'animation', 2003, 80, 'Sylvain Chomet', 'Michèle Caucheteux').
-filme('Gongdong gyeongbi guyeok JSA', 'action', 2000, 110, 'Chan-wook Park', 'Lee Yeong-ae').
-filme('The Count of Monte Cristo', 'action', 2002, 131, 'Kevin Reynolds', 'Jim Caviezel').
-filme('Waking Life', 'animation', 2001, 99, 'Richard Linklater', 'Ethan Hawke').
-filme('Remember the Titans', 'biography', 2000, 113, 'Boaz Yakin', 'Denzel Washington').
-filme('Wo hu cang long', 'action', 2000, 120, 'Ang Lee', 'Yun-Fat Chow').
-filme('Todo sobre mi madre', 'drama', 1999, 101, 'Pedro Almodóvar', 'Cecilia Roth').
-filme('Cast Away', 'adventure', 2000, 143, 'Robert Zemeckis', 'Tom Hanks').
-filme('The Boondock Saints', 'action', 1999, 108, 'Troy Duffy', 'Willem Dafoe').
-filme('The Insider', 'biography', 1999, 157, 'Michael Mann', 'Russell Crowe').
-filme('October Sky', 'biography', 1999, 108, 'Joe Johnston', 'Jake Gyllenhaal').
-filme('Shrek', 'animation', 2001, 90, 'Andrew Adamson', 'Vicky Jenson').
-filme('Titanic', 'drama', 1997, 194, 'James Cameron', 'Leonardo DiCaprio').
-filme('Hana-bi', 'crime', 1997, 103, 'Takeshi Kitano', 'Takeshi Kitano').
-filme('Gattaca', 'drama', 1997, 106, 'Andrew Niccol', 'Ethan Hawke').
-filme('The Game', 'action', 1997, 129, 'David Fincher', 'Michael Douglas').
-filme('Breaking the Waves', 'drama', 1996, 159, 'Lars von Trier', 'Emily Watson').
-filme('Ed Wood', 'biography', 1994, 127, 'Tim Burton', 'Johnny Depp').
-filme('What's Eating Gilbert Grape', 'drama', 1993, 118, 'Lasse Hallström', 'Johnny Depp').
-filme('Tombstone', 'action', 1993, 130, 'George P. Cosmatos', 'Kevin Jarre').
-filme('The Sandlot', 'comedy', 1993, 101, 'David Mickey Evans', 'Tom Guiry').
-filme('The Remains of the Day', 'drama', 1993, 134, 'James Ivory', 'Anthony Hopkins').
-filme('Naked', 'comedy', 1993, 132, 'Mike Leigh', 'David Thewlis').
-filme('The Fugitive', 'action', 1993, 130, 'Andrew Davis', 'Harrison Ford').
-filme('A Bronx Tale', 'crime', 1993, 121, 'Robert De Niro', 'Robert De Niro').
-filme('Batman: Mask of the Phantasm', 'animation', 1993, 76, 'Kevin Altieri', 'Boyd Kirkland').
-filme('Lat sau san taam', 'action', 1992, 128, 'John Woo', 'Yun-Fat Chow').
-filme('Night on Earth', 'comedy', 1991, 129, 'Jim Jarmusch', 'Winona Ryder').
-filme('La double vie de Véronique', 'drama', 1991, 98, 'Krzysztof Kieslowski', 'Irène Jacob').
-filme('Boyz n the Hood', 'crime', 1991, 112, 'John Singleton', 'Cuba Gooding Jr.').
-filme('Misery', 'drama', 1990, 107, 'Rob Reiner', 'James Caan').
-filme('Awakenings', 'biography', 1990, 121, 'Penny Marshall', 'Robert De Niro').
-filme('Majo no takkyûbin', 'animation', 1989, 103, 'Hayao Miyazaki', 'Kirsten Dunst').
-filme('Glory', 'biography', 1989, 122, 'Edward Zwick', 'Matthew Broderick').
-filme('Dip huet seung hung', 'action', 1989, 111, 'John Woo', 'Yun-Fat Chow').
-filme('Back to the Future Part II', 'adventure', 1989, 108, 'Robert Zemeckis', 'Michael J. Fox').
-filme('Mississippi Burning', 'crime', 1988, 128, 'Alan Parker', 'Gene Hackman').
-filme('Predator', 'action', 1987, 107, 'John McTiernan', 'Arnold Schwarzenegger').
-filme('Evil Dead II', 'action', 1987, 84, 'Sam Raimi', 'Bruce Campbell').
-filme('Ferris Bueller's Day Off', 'comedy', 1986, 103, 'John Hughes', 'Matthew Broderick').
-filme('Down by Law', 'comedy', 1986, 107, 'Jim Jarmusch', 'Tom Waits').
-filme('The Goonies', 'adventure', 1985, 114, 'Richard Donner', 'Sean Astin').
-filme('The Color Purple', 'drama', 1985, 154, 'Steven Spielberg', 'Danny Glover').
-filme('The Breakfast Club', 'comedy', 1985, 97, 'John Hughes', 'Emilio Estevez').
-filme('The Killing Fields', 'biography', 1984, 141, 'Roland Joffé', 'Sam Waterston').
-filme('Ghostbusters', 'action', 1984, 105, 'Ivan Reitman', 'Bill Murray').
-filme('The Right Stuff', 'adventure', 1983, 193, 'Philip Kaufman', 'Sam Shepard').
-filme('The King of Comedy', 'comedy', 1982, 109, 'Martin Scorsese', 'Robert De Niro').
-filme('E.T. the Extra-Terrestrial', 'family', 1982, 115, 'Steven Spielberg', 'Henry Thomas').
-filme('Kramer vs. Kramer', 'drama', 1979, 105, 'Robert Benton', 'Dustin Hoffman').
-filme('Days of Heaven', 'drama', 1978, 94, 'Terrence Malick', 'Richard Gere').
-filme('The Outlaw Josey Wales', 'western', 1976, 135, 'Clint Eastwood', 'Clint Eastwood').
-filme('The Man Who Would Be King', 'adventure', 1975, 129, 'John Huston', 'Sean Connery').
-filme('The Conversation', 'drama', 1974, 113, 'Francis Ford Coppola', 'Gene Hackman').
-filme('La planète sauvage', 'animation', 1973, 72, 'René Laloux', 'Barry Bostwick').
-filme('The Day of the Jackal', 'crime', 1973, 143, 'Fred Zinnemann', 'Edward Fox').
-filme('Badlands', 'action', 1973, 94, 'Terrence Malick', 'Martin Sheen').
-filme('Cabaret', 'drama', 1972, 124, 'Bob Fosse', 'Liza Minnelli').
-filme('Willy Wonka & the Chocolate Factory', 'family', 1971, 100, 'Mel Stuart', 'Gene Wilder').
-filme('Midnight Cowboy', 'drama', 1969, 113, 'John Schlesinger', 'Dustin Hoffman').
-filme('Wait Until Dark', 'thriller', 1967, 108, 'Terence Young', 'Audrey Hepburn').
-filme('Guess Who's Coming to Dinner', 'comedy', 1967, 108, 'Stanley Kramer', 'Spencer Tracy').
-filme('Bonnie and Clyde', 'action', 1967, 111, 'Arthur Penn', 'Warren Beatty').
-filme('My Fair Lady', 'drama', 1964, 170, 'George Cukor', 'Audrey Hepburn').
-filme('Mary Poppins', 'comedy', 1964, 139, 'Robert Stevenson', 'Julie Andrews').
-filme('The Longest Day', 'action', 1962, 178, 'Ken Annakin', 'Andrew Marton').
-filme('Jules et Jim', 'drama', 1962, 105, 'François Truffaut', 'Jeanne Moreau').
-filme('The Innocents', 'horror', 1961, 100, 'Jack Clayton', 'Deborah Kerr').
-filme('À bout de souffle', 'crime', 1960, 90, 'Jean-Luc Godard', 'Jean-Paul Belmondo').
-filme('Red River', 'action', 1948, 133, 'Howard Hawks', 'Arthur Rosson').
-filme('Key Largo', 'action', 1948, 100, 'John Huston', 'Humphrey Bogart').
-filme('To Have and Have Not', 'adventure', 1944, 100, 'Howard Hawks', 'Humphrey Bogart').
-filme('Shadow of a Doubt', 'film-noir', 1943, 108, 'Alfred Hitchcock', 'Teresa Wright').
-filme('Stagecoach', 'adventure', 1939, 96, 'John Ford', 'John Wayne').
-filme('The Lady Vanishes', 'mystery', 1938, 96, 'Alfred Hitchcock', 'Margaret Lockwood').
-filme('Bringing Up Baby', 'comedy', 1938, 102, 'Howard Hawks', 'Katharine Hepburn').
-filme('Bride of Frankenstein', 'drama', 1935, 75, 'James Whale', 'Boris Karloff').
-filme('Duck Soup', 'comedy', 1933, 69, 'Leo McCarey', 'Groucho Marx').
-filme('Scarface: The Shame of the Nation', 'action', 1932, 93, 'Howard Hawks', 'Richard Rosson').
-filme('Frankenstein', 'drama', 1931, 70, 'James Whale', 'Colin Clive').
-filme('Roma', 'drama', 2018, 135, 'Alfonso Cuarón', 'Yalitza Aparicio').
-filme('God's Own Country', 'drama', 2017, 104, 'Francis Lee', 'Josh O'Connor').
-filme('Deadpool 2', 'action', 2018, 119, 'David Leitch', 'Ryan Reynolds').
-filme('Wind River', 'crime', 2017, 107, 'Taylor Sheridan', 'Kelsey Asbille').
-filme('Get Out', 'horror', 2017, 104, 'Jordan Peele', 'Daniel Kaluuya').
-filme('Mission: Impossible - Fallout', 'action', 2018, 147, 'Christopher McQuarrie', 'Tom Cruise').
-filme('En man som heter Ove', 'comedy', 2015, 116, 'Hannes Holm', 'Rolf Lassgård').
-filme('What We Do in the Shadows', 'comedy', 2014, 86, 'Jemaine Clement', 'Taika Waititi').
-filme('Omoide no Mânî', 'animation', 2014, 103, 'James Simone', 'Hiromasa Yonebayashi').
-filme('The Theory of Everything', 'biography', 2014, 123, 'James Marsh', 'Eddie Redmayne').
-filme('Kingsman: The Secret Service', 'action', 2014, 129, 'Matthew Vaughn', 'Colin Firth').
-filme('The Fault in Our Stars', 'drama', 2014, 126, 'Josh Boone', 'Shailene Woodley').
-filme('Me and Earl and the Dying Girl', 'comedy', 2015, 105, 'Alfonso Gomez-Rejon', 'Thomas Mann').
-filme('Birdman or (The Unexpected Virtue of Ignorance)', 'comedy', 2014, 119, 'Alejandro G. Iñárritu', 'Michael Keaton').
-filme('La vie d'Adèle', 'drama', 2013, 180, 'Abdellatif Kechiche', 'Léa Seydoux').
-filme('Kai po che!', 'drama', 2013, 130, 'Abhishek Kapoor', 'Amit Sadh').
-filme('The Broken Circle Breakdown', 'drama', 2012, 111, 'Felix van Groeningen', 'Veerle Baetens').
-filme('Captain America: The Winter Soldier', 'action', 2014, 136, 'Anthony Russo', 'Joe Russo').
-filme('Rockstar', 'drama', 2011, 159, 'Imtiaz Ali', 'Ranbir Kapoor').
-filme('Nebraska', 'adventure', 2013, 115, 'Alexander Payne', 'Bruce Dern').
-filme('Wreck-It Ralph', 'animation', 2012, 101, 'Rich Moore', 'John C. Reilly').
-filme('Le Petit Prince', 'animation', 2015, 108, 'Mark Osborne', 'Jeff Bridges').
-filme('Detachment', 'drama', 2011, 98, 'Tony Kaye', 'Adrien Brody').
-filme('Midnight in Paris', 'comedy', 2011, 96, 'Woody Allen', 'Owen Wilson').
-filme('The Lego Movie', 'animation', 2014, 100, 'Christopher Miller', 'Phil Lord').
-filme('Gravity', 'drama', 2013, 91, 'Alfonso Cuarón', 'Sandra Bullock').
-filme('Star Trek Into Darkness', 'action', 2013, 132, 'J.J. Abrams', 'Chris Pine').
-filme('Beasts of No Nation', 'drama', 2015, 137, 'Cary Joji Fukunaga', 'Abraham Attah').
-filme('The Social Network', 'biography', 2010, 120, 'David Fincher', 'Jesse Eisenberg').
-filme('X: First Class', 'action', 2011, 131, 'Matthew Vaughn', 'James McAvoy').
-filme('The Hangover', 'comedy', 2009, 100, 'Todd Phillips', 'Zach Galifianakis').
-filme('Skyfall', 'action', 2012, 143, 'Sam Mendes', 'Daniel Craig').
-filme('Silver Linings Playbook', 'comedy', 2012, 122, 'David O. Russell', 'Bradley Cooper').
-filme('Argo', 'biography', 2012, 120, 'Ben Affleck', 'Ben Affleck').
-filme('(500) Days of Summer', 'comedy', 2009, 95, 'Marc Webb', 'Zooey Deschanel').
-filme('Harry Potter and the Deathly Hallows: Part 1', 'adventure', 2010, 146, 'David Yates', 'Daniel Radcliffe').
-filme('Gake no ue no Ponyo', 'animation', 2008, 101, 'Hayao Miyazaki', 'Cate Blanchett').
-filme('Frost/Nixon', 'biography', 2008, 122, 'Ron Howard', 'Frank Langella').
-filme('Papurika', 'animation', 2006, 90, 'Satoshi Kon', 'Megumi Hayashibara').
-filme('Changeling', 'biography', 2008, 141, 'Clint Eastwood', 'Angelina Jolie').
-filme('Flipped', 'comedy', 2010, 90, 'Rob Reiner', 'Madeline Carroll').
-filme('Toki o kakeru shôjo', 'animation', 2006, 98, 'Mamoru Hosoda', 'Riisa Naka').
-filme('Death Note: Desu nôto', 'crime', 2006, 126, 'Shûsuke Kaneko', 'Tatsuya Fujiwara').
-filme('This Is England', 'crime', 2006, 101, 'Shane Meadows', 'Thomas Turgoose').
-filme('Ex Machina', 'drama', 2014, 108, 'Alex Garland', 'Alicia Vikander').
-filme('Efter brylluppet', 'drama', 2006, 120, 'Susanne Bier', 'Mads Mikkelsen').
-filme('The Last King of Scotland', 'biography', 2006, 123, 'Kevin Macdonald', 'James McAvoy').
-filme('Zodiac', 'crime', 2007, 157, 'David Fincher', 'Jake Gyllenhaal').
-filme('Lucky Number Slevin', 'action', 2006, 110, 'Paul McGuigan', 'Josh Hartnett').
-filme('Joyeux Noël', 'drama', 2005, 116, 'Christian Carion', 'Diane Kruger').
-filme('Control', 'biography', 2007, 122, 'Anton Corbijn', 'Sam Riley').
-filme('Tangled', 'animation', 2010, 100, 'Nathan Greno', 'Byron Howard').
-filme('Zwartboek', 'drama', 2006, 145, 'Paul Verhoeven', 'Carice van Houten').
-filme('Brokeback Mountain', 'drama', 2005, 134, 'Ang Lee', 'Jake Gyllenhaal').
-filme('3:10 to Yuma', 'action', 2007, 122, 'James Mangold', 'Russell Crowe').
-filme('Crash', 'crime', 2004, 112, 'Paul Haggis', 'Don Cheadle').
-filme('Kung fu', 'action', 2004, 99, 'Stephen Chow', 'Stephen Chow').
-filme('The Bourne Supremacy', 'action', 2004, 108, 'Paul Greengrass', 'Matt Damon').
-filme('The Machinist', 'drama', 2004, 101, 'Brad Anderson', 'Christian Bale').
-filme('Ray', 'biography', 2004, 152, 'Taylor Hackford', 'Jamie Foxx').
-filme('Lost in Translation', 'comedy', 2003, 102, 'Sofia Coppola', 'Bill Murray').
-filme('Harry Potter and the Goblet of Fire', 'adventure', 2005, 157, 'Mike Newell', 'Daniel Radcliffe').
-filme('Man on Fire', 'action', 2004, 146, 'Tony Scott', 'Denzel Washington').
-filme('Coraline', 'animation', 2009, 100, 'Henry Selick', 'Dakota Fanning').
-filme('The Last Samurai', 'action', 2003, 154, 'Edward Zwick', 'Tom Cruise').
-filme('The Magdalene Sisters', 'drama', 2002, 114, 'Peter Mullan', 'Eileen Walsh').
-filme('Good Bye Lenin!', 'comedy', 2003, 121, 'Wolfgang Becker', 'Daniel Brühl').
-filme('In America', 'drama', 2002, 105, 'Jim Sheridan', 'Paddy Considine').
-filme('I Am Sam', 'drama', 2001, 132, 'Jessie Nelson', 'Sean Penn').
-filme('Adaptation.', 'comedy', 2002, 115, 'Spike Jonze', 'Nicolas Cage').
-filme('Black Hawk Down', 'drama', 2001, 144, 'Ridley Scott', 'Josh Hartnett').
-filme('Road to Perdition', 'crime', 2002, 117, 'Sam Mendes', 'Tom Hanks').
-filme('Das Experiment', 'drama', 2001, 120, 'Oliver Hirschbiegel', 'Moritz Bleibtreu').
-filme('Billy Elliot', 'drama', 2000, 110, 'Stephen Daldry', 'Jamie Bell').
-filme('Hedwig and the Angry Inch', 'comedy', 2001, 95, 'John Cameron Mitchell', 'John Cameron Mitchell').
-filme('Ocean's Eleven', 'crime', 2001, 116, 'Steven Soderbergh', 'George Clooney').
-filme('Vampire Hunter D: Bloodlust', 'animation', 2000, 103, 'Yoshiaki Kawajiri', 'Andrew Philpot').
-filme('O Brother, Where Art Thou?', 'adventure', 2000, 107, 'Joel Coen', 'Ethan Coen').
-filme('Interstate 60: Episodes of the Road', 'adventure', 2002, 116, 'Bob Gale', 'James Marsden').
-filme('South Park: Bigger, Longer & Uncut', 'animation', 1999, 81, 'Trey Parker', 'Trey Parker').
-filme('Office Space', 'comedy', 1999, 89, 'Mike Judge', 'Ron Livingston').
-filme('Happiness', 'comedy', 1998, 134, 'Todd Solondz', 'Jane Adams').
-filme('Training Day', 'crime', 2001, 122, 'Antoine Fuqua', 'Denzel Washington').
-filme('Rushmore', 'comedy', 1998, 93, 'Wes Anderson', 'Jason Schwartzman').
-filme('Abre los ojos', 'drama', 1997, 119, 'Alejandro Amenábar', 'Eduardo Noriega').
-filme('Being John Malkovich', 'comedy', 1999, 113, 'Spike Jonze', 'John Cusack').
-filme('As Good as It Gets', 'comedy', 1997, 139, 'James L. Brooks', 'Jack Nicholson').
-filme('The Fifth Element', 'action', 1997, 126, 'Luc Besson', 'Bruce Willis').
-filme('Le dîner de cons', 'comedy', 1998, 80, 'Francis Veber', 'Thierry Lhermitte').
-filme('Donnie Brasco', 'biography', 1997, 127, 'Mike Newell', 'Al Pacino').
-filme('Shine', 'biography', 1996, 105, 'Scott Hicks', 'Geoffrey Rush').
-filme('Primal Fear', 'crime', 1996, 129, 'Gregory Hoblit', 'Richard Gere').
-filme('Hamlet', 'drama', 1996, 242, 'Kenneth Branagh', 'Kenneth Branagh').
-filme('A Little Princess', 'drama', 1995, 97, 'Alfonso Cuarón', 'Liesel Matthews').
-filme('Do lok tin si', 'comedy', 1995, 99, 'Kar-Wai Wong', 'Leon Lai').
-filme('Il postino', 'biography', 1994, 108, 'Michael Radford', 'Massimo Troisi').
-filme('Clerks', 'comedy', 1994, 92, 'Kevin Smith', 'Brian O'Halloran').
-filme('Short Cuts', 'comedy', 1993, 188, 'Robert Altman', 'Andie MacDowell').
-filme('Philadelphia', 'drama', 1993, 125, 'Jonathan Demme', 'Tom Hanks').
-filme('The Muppet Christmas Carol', 'comedy', 1992, 85, 'Brian Henson', 'Michael Caine').
-filme('Malcolm X', 'biography', 1992, 202, 'Spike Lee', 'Denzel Washington').
-filme('The Last of the Mohicans', 'action', 1992, 112, 'Michael Mann', 'Daniel Day-Lewis').
-filme('Kurenai no buta', 'animation', 1992, 94, 'Hayao Miyazaki', 'Shûichirô Moriyama').
-filme('Glengarry Glen Ross', 'crime', 1992, 100, 'James Foley', 'Al Pacino').
-filme('A Few Good Men', 'drama', 1992, 138, 'Rob Reiner', 'Tom Cruise').
-filme('Fried Green Tomatoes', 'drama', 1991, 130, 'Jon Avnet', 'Kathy Bates').
-filme('Barton Fink', 'comedy', 1991, 116, 'Joel Coen', 'Ethan Coen').
-filme('Miller's Crossing', 'crime', 1990, 115, 'Joel Coen', 'Ethan Coen').
-filme('Who Framed Roger Rabbit', 'animation', 1988, 104, 'Robert Zemeckis', 'Bob Hoskins').
-filme('Spoorloos', 'mystery', 1988, 107, 'George Sluizer', 'Bernard-Pierre Donnadieu').
-filme('Withnail & I', 'comedy', 1987, 107, 'Bruce Robinson', 'Richard E. Grant').
-filme('The Last Emperor', 'biography', 1987, 163, 'Bernardo Bertolucci', 'John Lone').
-filme('Empire of the Sun', 'action', 1987, 153, 'Steven Spielberg', 'Christian Bale').
-filme('Der Name der Rose', 'crime', 1986, 130, 'Jean-Jacques Annaud', 'Sean Connery').
-filme('Blue Velvet', 'drama', 1986, 120, 'David Lynch', 'Isabella Rossellini').
-filme('The Purple Rose of Cairo', 'comedy', 1985, 82, 'Woody Allen', 'Mia Farrow').
-filme('After Hours', 'comedy', 1985, 97, 'Martin Scorsese', 'Griffin Dunne').
-filme('Zelig', 'comedy', 1983, 79, 'Woody Allen', 'Woody Allen').
-filme('The Verdict', 'drama', 1982, 129, 'Sidney Lumet', 'Paul Newman').
-filme('Star Trek II: The Wrath of Khan', 'action', 1982, 113, 'Nicholas Meyer', 'William Shatner').
-filme('First Blood', 'action', 1982, 93, 'Ted Kotcheff', 'Sylvester Stallone').
-filme('Ordinary People', 'drama', 1980, 124, 'Robert Redford', 'Donald Sutherland').
-filme('Airplane!', 'comedy', 1980, 88, 'Jim Abrahams', 'David Zucker').
-filme('Rupan sansei: Kariosutoro no shiro', 'animation', 1979, 100, 'Hayao Miyazaki', 'Yasuo Yamada').
-filme('Halloween', 'horror', 1978, 91, 'John Carpenter', 'Donald Pleasence').
-filme('Le locataire', 'drama', 1976, 126, 'Roman Polanski', 'Roman Polanski').
-filme('Love and Death', 'comedy', 1975, 85, 'Woody Allen', 'Woody Allen').
-filme('The Taking of Pelham One Two Three', 'action', 1974, 104, 'Joseph Sargent', 'Walter Matthau').
-filme('Blazing Saddles', 'comedy', 1974, 93, 'Mel Brooks', 'Cleavon Little').
-filme('Serpico', 'biography', 1973, 130, 'Sidney Lumet', 'Al Pacino').
-filme('Enter the Dragon', 'action', 1973, 102, 'Robert Clouse', 'Bruce Lee').
-filme('Deliverance', 'adventure', 1972, 109, 'John Boorman', 'Jon Voight').
-filme('The French Connection', 'action', 1971, 104, 'William Friedkin', 'Gene Hackman').
-filme('Dirty Harry', 'action', 1971, 102, 'Don Siegel', 'Clint Eastwood').
-filme('Where Eagles Dare', 'action', 1968, 158, 'Brian G. Hutton', 'Richard Burton').
-filme('The Odd Couple', 'comedy', 1968, 105, 'Gene Saks', 'Jack Lemmon').
-filme('The Dirty Dozen', 'action', 1967, 150, 'Robert Aldrich', 'Lee Marvin').
-filme('Belle de jour', 'drama', 1967, 100, 'Luis Buñuel', 'Catherine Deneuve').
-filme('A Man for All Seasons', 'biography', 1966, 120, 'Fred Zinnemann', 'Paul Scofield').
-filme('Repulsion', 'drama', 1965, 105, 'Roman Polanski', 'Catherine Deneuve').
-filme('Zulu', 'drama', 1964, 138, 'Cy Endfield', 'Stanley Baker').
-filme('Goldfinger', 'action', 1964, 110, 'Guy Hamilton', 'Sean Connery').
-filme('The Birds', 'drama', 1963, 119, 'Alfred Hitchcock', 'Rod Taylor').
-filme('Cape Fear', 'drama', 1962, 106, 'J. Lee Thompson', 'Gregory Peck').
-filme('Peeping Tom', 'drama', 1960, 101, 'Michael Powell', 'Karlheinz Böhm').
-filme('The Magnificent Seven', 'action', 1960, 128, 'John Sturges', 'Yul Brynner').
-filme('Les yeux sans visage', 'drama', 1960, 90, 'Georges Franju', 'Pierre Brasseur').
-filme('Invasion of the Body Snatchers', 'drama', 1956, 80, 'Don Siegel', 'Kevin McCarthy').
-filme('Rebel Without a Cause', 'drama', 1955, 111, 'Nicholas Ray', 'James Dean').
-filme('The Ladykillers', 'comedy', 1955, 91, 'Alexander Mackendrick', 'Alec Guinness').
-filme('Sabrina', 'comedy', 1954, 113, 'Billy Wilder', 'Humphrey Bogart').
-filme('The Quiet Man', 'comedy', 1952, 129, 'John Ford', 'John Wayne').
-filme('The Day the Earth Stood Still', 'drama', 1951, 92, 'Robert Wise', 'Michael Rennie').
-filme('The African Queen', 'adventure', 1951, 105, 'John Huston', 'Humphrey Bogart').
-filme('Gilda', 'drama', 1946, 110, 'Charles Vidor', 'Rita Hayworth').
-filme('Fantasia', 'animation', 1940, 125, 'James Algar', 'Samuel Armstrong').
-filme('The Invisible Man', 'horror', 1933, 71, 'James Whale', 'Claude Rains').
-filme('Dark Waters', 'biography', 2019, 126, 'Todd Haynes', 'Mark Ruffalo').
-filme('Searching', 'drama', 2018, 102, 'Aneesh Chaganty', 'John Cho').
-filme('Once Upon a Time... in Hollywood', 'comedy', 2019, 161, 'Quentin Tarantino', 'Leonardo DiCaprio').
-filme('Nelyubov', 'drama', 2017, 127, 'Andrey Zvyagintsev', 'Maryana Spivak').
-filme('The Florida Project', 'drama', 2017, 111, 'Sean Baker', 'Brooklynn Prince').
-filme('Just Mercy', 'biography', 2019, 137, 'Destin Daniel Cretton', 'Michael B. Jordan').
-filme('Gifted', 'drama', 2017, 101, 'Marc Webb', 'Chris Evans').
-filme('The Peanut Butter Falcon', 'adventure', 2019, 97, 'Tyler Nilson', 'Michael Schwartz').
-filme('Victoria', 'crime', 2015, 138, 'Sebastian Schipper', 'Laia Costa').
-filme('Mustang', 'drama', 2015, 97, 'Deniz Gamze Ergüven', 'Günes Sensoy').
-filme('Guardians of the Galaxy Vol. 2', 'action', 2017, 136, 'James Gunn', 'Chris Pratt').
-filme('Baby Driver', 'action', 2017, 113, 'Edgar Wright', 'Ansel Elgort').
-filme('Only the Brave', 'action', 2017, 134, 'Joseph Kosinski', 'Josh Brolin').
-filme('Bridge of Spies', 'drama', 2015, 142, 'Steven Spielberg', 'Tom Hanks').
-filme('Incredibles 2', 'animation', 2018, 118, 'Brad Bird', 'Craig T. Nelson').
-filme('Moana', 'animation', 2016, 107, 'Ron Clements', 'John Musker').
-filme('Sicario', 'action', 2015, 121, 'Denis Villeneuve', 'Emily Blunt').
-filme('Creed', 'drama', 2015, 133, 'Ryan Coogler', 'Michael B. Jordan').
-filme('Leviafan', 'crime', 2014, 140, 'Andrey Zvyagintsev', 'Aleksey Serebryakov').
-filme('Hell or High Water', 'action', 2016, 102, 'David Mackenzie', 'Chris Pine').
-filme('Philomena', 'biography', 2013, 98, 'Stephen Frears', 'Judi Dench').
-filme('Dawn of the Planet of the Apes', 'action', 2014, 130, 'Matt Reeves', 'Gary Oldman').
-filme('El cuerpo', 'mystery', 2012, 112, 'Oriol Paulo', 'Jose Coronado').
-filme('Serbuan maut', 'action', 2011, 101, 'Gareth Evans', 'Iko Uwais').
-filme('End of Watch', 'action', 2012, 109, 'David Ayer', 'Jake Gyllenhaal').
-filme('Kari-gurashi no Arietti', 'animation', 2010, 94, 'Hiromasa Yonebayashi', 'Amy Poehler').
-filme('A Star Is Born', 'drama', 2018, 136, 'Bradley Cooper', 'Lady Gaga').
-filme('True Grit', 'drama', 2010, 110, 'Ethan Coen', 'Joel Coen').
-filme('Hævnen', 'drama', 2010, 118, 'Susanne Bier', 'Mikael Persbrandt').
-filme('Despicable Me', 'animation', 2010, 95, 'Pierre Coffin', 'Chris Renaud').
-filme('50/50', 'comedy', 2011, 100, 'Jonathan Levine', 'Joseph Gordon-Levitt').
-filme('Kick-Ass', 'action', 2010, 117, 'Matthew Vaughn', 'Aaron Taylor-Johnson').
-filme('Celda 211', 'action', 2009, 113, 'Daniel Monzón', 'Luis Tosar').
-filme('Moneyball', 'biography', 2011, 133, 'Bennett Miller', 'Brad Pitt').
-filme('La piel que habito', 'drama', 2011, 120, 'Pedro Almodóvar', 'Antonio Banderas').
-filme('Zombieland', 'adventure', 2009, 88, 'Ruben Fleischer', 'Jesse Eisenberg').
-filme('Die Welle', 'drama', 2008, 107, 'Dennis Gansel', 'Jürgen Vogel').
-filme('Sherlock Holmes', 'action', 2009, 128, 'Guy Ritchie', 'Robert Downey Jr.').
-filme('The Blind Side', 'biography', 2009, 129, 'John Lee Hancock', 'Quinton Aaron').
-filme('The Visitor', 'drama', 2007, 104, 'Tom McCarthy', 'Richard Jenkins').
-filme('Seven Pounds', 'drama', 2008, 123, 'Gabriele Muccino', 'Will Smith').
-filme('Eastern Promises', 'action', 2007, 100, 'David Cronenberg', 'Naomi Watts').
-filme('Stardust', 'adventure', 2007, 127, 'Matthew Vaughn', 'Charlie Cox').
-filme('The Secret of Kells', 'animation', 2009, 71, 'Tomm Moore', 'Nora Twomey').
-filme('Inside Man', 'crime', 2006, 129, 'Spike Lee', 'Denzel Washington').
-filme('Gone Baby Gone', 'crime', 2007, 114, 'Ben Affleck', 'Morgan Freeman').
-filme('La Vie En Rose', 'biography', 2007, 140, 'Olivier Dahan', 'Marion Cotillard').
-filme('Huo Yuan Jia', 'action', 2006, 104, 'Ronny Yu', 'Jet Li').
-filme('The Illusionist', 'drama', 2006, 110, 'Neil Burger', 'Edward Norton').
-filme('Dead Man's Shoes', 'crime', 2004, 90, 'Shane Meadows', 'Paddy Considine').
-filme('Harry Potter and the Half-Blood Prince', 'action', 2009, 153, 'David Yates', 'Daniel Radcliffe').
-filme('300', 'action', 2006, 117, 'Zack Snyder', 'Gerard Butler').
-filme('Match Point', 'drama', 2005, 124, 'Woody Allen', 'Scarlett Johansson').
-filme('Watchmen', 'action', 2009, 162, 'Zack Snyder', 'Jackie Earle Haley').
-filme('Lord of War', 'action', 2005, 122, 'Andrew Niccol', 'Nicolas Cage').
-filme('Saw', 'horror', 2004, 103, 'James Wan', 'Cary Elwes').
-filme('Synecdoche, New York', 'drama', 2008, 124, 'Charlie Kaufman', 'Philip Seymour Hoffman').
-filme('Mysterious Skin', 'drama', 2004, 105, 'Gregg Araki', 'Brady Corbet').
-filme('Jeux d'enfants', 'comedy', 2003, 93, 'Yann Samuell', 'Guillaume Canet').
-filme('Un long dimanche de fiançailles', 'drama', 2004, 133, 'Jean-Pierre Jeunet', 'Audrey Tautou').
-filme('The Station Agent', 'comedy', 2003, 89, 'Tom McCarthy', 'Peter Dinklage').
-filme('21 Grams', 'crime', 2003, 124, 'Alejandro G. Iñárritu', 'Sean Penn').
-filme('Boksuneun naui geot', 'crime', 2002, 129, 'Chan-wook Park', 'Kang-ho Song').
-filme('Finding Neverland', 'biography', 2004, 106, 'Marc Forster', 'Johnny Depp').
-filme('25th Hour', 'drama', 2002, 135, 'Spike Lee', 'Edward Norton').
-filme('The Butterfly Effect', 'drama', 2004, 113, 'Eric Bress', 'J. Mackye Gruber').
-filme('28 Days Later...', 'drama', 2002, 113, 'Danny Boyle', 'Cillian Murphy').
-filme('Batoru rowaiaru', 'action', 2000, 114, 'Kinji Fukasaku', 'Tatsuya Fujiwara').
-filme('The Royal Tenenbaums', 'comedy', 2001, 110, 'Wes Anderson', 'Gene Hackman').
-filme('Y tu mamá también', 'drama', 2001, 106, 'Alfonso Cuarón', 'Maribel Verdú').
-filme('Harry Potter and the Sorcerer's Stone', 'adventure', 2001, 152, 'Chris Columbus', 'Daniel Radcliffe').
-filme('The Others', 'horror', 2001, 101, 'Alejandro Amenábar', 'Nicole Kidman').
-filme('Blow', 'biography', 2001, 124, 'Ted Demme', 'Johnny Depp').
-filme('Enemy at the Gates', 'drama', 2001, 131, 'Jean-Jacques Annaud', 'Jude Law').
-filme('Minority Report', 'action', 2002, 145, 'Steven Spielberg', 'Tom Cruise').
-filme('The Hurricane', 'biography', 1999, 146, 'Norman Jewison', 'Denzel Washington').
-filme('American Psycho', 'comedy', 2000, 101, 'Mary Harron', 'Christian Bale').
-filme('Lola rennt', 'crime', 1998, 81, 'Tom Tykwer', 'Franka Potente').
-filme('The Thin Red Line', 'drama', 1998, 170, 'Terrence Malick', 'Jim Caviezel').
-filme('Mulan', 'animation', 1998, 88, 'Tony Bancroft', 'Barry Cook').
-filme('Fear and Loathing in Las Vegas', 'adventure', 1998, 118, 'Terry Gilliam', 'Johnny Depp').
-filme('Funny Games', 'crime', 1997, 108, 'Michael Haneke', 'Susanne Lothar').
-filme('Dark City', 'mystery', 1998, 100, 'Alex Proyas', 'Rufus Sewell').
-filme('Sleepers', 'crime', 1996, 147, 'Barry Levinson', 'Robert De Niro').
-filme('Lost Highway', 'mystery', 1997, 134, 'David Lynch', 'Bill Pullman').
-filme('Sense and Sensibility', 'drama', 1995, 136, 'Ang Lee', 'Emma Thompson').
-filme('Die Hard: With a Vengeance', 'action', 1995, 128, 'John McTiernan', 'Bruce Willis').
-filme('Dead Man', 'adventure', 1995, 121, 'Jim Jarmusch', 'Johnny Depp').
-filme('The Bridges of Madison County', 'drama', 1995, 135, 'Clint Eastwood', 'Clint Eastwood').
-filme('Apollo 13', 'adventure', PG, 140, 'Ron Howard', 'Tom Hanks').
-filme('Trois couleurs: Blanc', 'comedy', 1994, 92, 'Krzysztof Kieslowski', 'Zbigniew Zamachowski').
-filme('Falling Down', 'action', 1993, 113, 'Joel Schumacher', 'Michael Douglas').
-filme('Dazed and Confused', 'comedy', 1993, 102, 'Richard Linklater', 'Jason London').
-filme('My Cousin Vinny', 'comedy', 1992, 120, 'Jonathan Lynn', 'Joe Pesci').
-filme('Omohide poro poro', 'animation', 1991, 118, 'Isao Takahata', 'Miki Imai').
-filme('Delicatessen', 'comedy', 1991, 99, 'Marc Caro', 'Jean-Pierre Jeunet').
-filme('Home Alone', 'comedy', 1990, 103, 'Chris Columbus', 'Macaulay Culkin').
-filme('The Godfather: Part III', 'crime', 1990, 162, 'Francis Ford Coppola', 'Al Pacino').
-filme('When Harry Met Sally...', 'comedy', 1989, 95, 'Rob Reiner', 'Billy Crystal').
-filme('The Little Mermaid', 'animation', 1989, 83, 'Ron Clements', 'John Musker').
-filme('The Naked Gun: From the Files of Police Squad!', 'comedy', 1988, 85, 'David Zucker', 'Leslie Nielsen').
-filme('Planes, Trains & Automobiles', 'comedy', 1987, 93, 'John Hughes', 'Steve Martin').
-filme('Lethal Weapon', 'action', 1987, 109, 'Richard Donner', 'Mel Gibson').
-filme('Blood Simple', 'crime', 1984, 99, 'Joel Coen', 'Ethan Coen').
-filme('On Golden Pond', 'drama', 1981, 109, 'Mark Rydell', 'Katharine Hepburn').
-filme('Mad Max 2', 'action', 1981, 96, 'George Miller', 'Mel Gibson').
-filme('The Warriors', 'action', 1979, 92, 'Walter Hill', 'Michael Beck').
-filme('The Muppet Movie', 'adventure', 1979, 95, 'James Frawley', 'Jim Henson').
-filme('Escape from Alcatraz', 'action', 1979, 112, 'Don Siegel', 'Clint Eastwood').
-filme('Watership Down', 'animation', 1978, 91, 'Martin Rosen', 'John Hubley').
-filme('Midnight Express', 'biography', 1978, 121, 'Alan Parker', 'Brad Davis').
-filme('Close Encounters of the Third Kind', 'drama', 1977, 138, 'Steven Spielberg', 'Richard Dreyfuss').
-filme('The Long Goodbye', 'comedy', 1973, 112, 'Robert Altman', 'Elliott Gould').
-filme('Giù la testa', 'drama', 1971, 157, 'Sergio Leone', 'Rod Steiger').
-filme('Kelly's Heroes', 'adventure', 1970, 144, 'Brian G. Hutton', 'Clint Eastwood').
-filme('The Jungle Book', 'animation', 1967, 78, 'Wolfgang Reitherman', 'Phil Harris').
-filme('Blowup', 'drama', 1966, 111, 'Michelangelo Antonioni', 'David Hemmings').
-filme('A Hard Day's Night', 'comedy', 1964, 87, 'Richard Lester', 'John Lennon').
-filme('Breakfast at Tiffany's', 'comedy', 1961, 115, 'Blake Edwards', 'Audrey Hepburn').
-filme('Giant', 'drama', 1956, 201, 'George Stevens', 'Elizabeth Taylor').
-filme('From Here to Eternity', 'drama', 1953, 118, 'Fred Zinnemann', 'Burt Lancaster').
-filme('Lifeboat', 'drama', 1944, 97, 'Alfred Hitchcock', 'Tallulah Bankhead').
-filme('The 39 Steps', 'crime', 1935, 86, 'Alfred Hitchcock', 'Robert Donat').
+filme('The Shawshank Redemption', 'drama', 1994, 142, 'Frank Darabont', 'Tim Robbins', 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.').
+filme('The Godfather', 'crime', 1972, 175, 'Francis Ford Coppola', 'Marlon Brando', 'An organized crime dynasty''s aging patriarch transfers control of his clandestine empire to his reluctant son.').
+filme('The Dark Knight', 'action', 2008, 152, 'Christopher Nolan', 'Christian Bale', 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.').
+filme('The Godfather: Part II', 'crime', 1974, 202, 'Francis Ford Coppola', 'Al Pacino', 'The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.').
+filme('12 Angry Men', 'crime', 1957, 96, 'Sidney Lumet', 'Henry Fonda', 'A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.').
+filme('The Lord of the Rings: The Return of the King', 'action', 2003, 201, 'Peter Jackson', 'Elijah Wood', 'Gandalf and Aragorn lead the World of Men against Sauron''s army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.').
+filme('Pulp Fiction', 'crime', 1994, 154, 'Quentin Tarantino', 'John Travolta', 'The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.').
+filme('Schindler''s List', 'biography', 1993, 195, 'Steven Spielberg', 'Liam Neeson', 'In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.').
+filme('Inception', 'action', 2010, 148, 'Christopher Nolan', 'Leonardo DiCaprio', 'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.').
+filme('Fight Club', 'drama', 1999, 139, 'David Fincher', 'Brad Pitt', 'An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.').
+filme('The Lord of the Rings: The Fellowship of the Ring', 'action', 2001, 178, 'Peter Jackson', 'Elijah Wood', 'A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.').
+filme('Forrest Gump', 'drama', 1994, 142, 'Robert Zemeckis', 'Tom Hanks', 'The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.').
+filme('Il buono, il brutto, il cattivo', 'western', 1966, 161, 'Sergio Leone', 'Clint Eastwood', 'A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.').
+filme('The Lord of the Rings: The Two Towers', 'action', 2002, 179, 'Peter Jackson', 'Elijah Wood', 'While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron''s new ally, Saruman, and his hordes of Isengard.').
+filme('The Matrix', 'action', 1999, 136, 'Lana Wachowski', 'Lilly Wachowski', 'When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.').
+filme('Goodfellas', 'biography', 1990, 146, 'Martin Scorsese', 'Robert De Niro', 'The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.').
+filme('Star Wars: Episode V - The Empire Strikes Back', 'action', 1980, 124, 'Irvin Kershner', 'Mark Hamill', 'After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.').
+filme('One Flew Over the Cuckoo''s Nest', 'drama', 1975, 133, 'Milos Forman', 'Jack Nicholson', 'A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.').
+filme('Hamilton', 'biography', 2020, 160, 'Thomas Kail', 'Lin-Manuel Miranda', 'The real life of one of America''s foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.').
+filme('Gisaengchung', 'comedy', 2019, 132, 'Bong Joon Ho', 'Kang-ho Song', 'Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.').
+filme('Soorarai Pottru', 'drama', 2020, 153, 'Sudha Kongara', 'Suriya', 'Nedumaaran Rajangam "Maara" sets out to make the common man fly and in the process takes on the world''s most capital intensive industry and several enemies who stand in his way.').
+filme('Interstellar', 'adventure', 2014, 169, 'Christopher Nolan', 'Matthew McConaughey', 'A team of explorers travel through a wormhole in space in an attempt to ensure humanity''s survival.').
+filme('Cidade de Deus', 'crime', 2002, 130, 'Fernando Meirelles', 'Kátia Lund', 'In the slums of Rio, two kids'' paths diverge as one struggles to become a photographer and the other a kingpin.').
+filme('Sen to Chihiro no kamikakushi', 'animation', 2001, 125, 'Hayao Miyazaki', 'Daveigh Chase', 'During her family''s move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.').
+filme('Saving Private Ryan', 'drama', 1998, 169, 'Steven Spielberg', 'Tom Hanks', 'Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.').
+filme('The Green Mile', 'crime', 1999, 189, 'Frank Darabont', 'Tom Hanks', 'The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.').
+filme('La vita è bella', 'comedy', 1997, 116, 'Roberto Benigni', 'Roberto Benigni', 'When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.').
+filme('Se7en', 'crime', 1995, 127, 'David Fincher', 'Morgan Freeman', 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.').
+filme('The Silence of the Lambs', 'crime', 1991, 118, 'Jonathan Demme', 'Jodie Foster', 'A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.').
+filme('Star Wars', 'action', 1977, 121, 'George Lucas', 'Mark Hamill', 'Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire''s world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.').
+filme('Seppuku', 'action', 1962, 133, 'Masaki Kobayashi', 'Tatsuya Nakadai', 'When a ronin requesting seppuku at a feudal lord''s palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan''s integrity.').
+filme('Shichinin no samurai', 'action', 1954, 207, 'Akira Kurosawa', 'Toshirô Mifune', 'A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.').
+filme('It''s a Wonderful Life', 'drama', 1946, 130, 'Frank Capra', 'James Stewart', 'An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.').
+filme('Joker', 'crime', 2019, 122, 'Todd Phillips', 'Joaquin Phoenix', 'In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.').
+filme('Whiplash', 'drama', 2014, 106, 'Damien Chazelle', 'Miles Teller', 'A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student''s potential.').
+filme('The Intouchables', 'biography', 2011, 112, 'Olivier Nakache', 'Éric Toledano', 'After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.').
+filme('The Prestige', 'drama', 2006, 130, 'Christopher Nolan', 'Christian Bale', 'After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.').
+filme('The Departed', 'crime', 2006, 151, 'Martin Scorsese', 'Leonardo DiCaprio', 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.').
+filme('The Pianist', 'biography', 2002, 150, 'Roman Polanski', 'Adrien Brody', 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.').
+filme('Gladiator', 'action', 2000, 155, 'Ridley Scott', 'Russell Crowe', 'A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.').
+filme('American History X', 'drama', 1998, 119, 'Tony Kaye', 'Edward Norton', 'A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.').
+filme('The Usual Suspects', 'crime', 1995, 106, 'Bryan Singer', 'Kevin Spacey', 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.').
+filme('Léon', 'action', 1994, 110, 'Luc Besson', 'Jean Reno', 'Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin''s trade.').
+filme('The Lion King', 'animation', 1994, 88, 'Roger Allers', 'Rob Minkoff', 'Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.').
+filme('Terminator 2: Judgment Day', 'action', 1991, 137, 'James Cameron', 'Arnold Schwarzenegger', 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.').
+filme('Nuovo Cinema Paradiso', 'drama', 1988, 155, 'Giuseppe Tornatore', 'Philippe Noiret', 'A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema''s projectionist.').
+filme('Hotaru no haka', 'animation', 1988, 89, 'Isao Takahata', 'Tsutomu Tatsumi', 'A young boy and his little sister struggle to survive in Japan during World War II.').
+filme('Back to the Future', 'adventure', 1985, 116, 'Robert Zemeckis', 'Michael J. Fox', 'Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.').
+filme('Once Upon a Time in the West', 'western', 1968, 165, 'Sergio Leone', 'Henry Fonda', 'A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.').
+filme('Psycho', 'horror', 1960, 109, 'Alfred Hitchcock', 'Anthony Perkins', 'A Phoenix secretary embezzles $40,000 from her employer''s client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.').
+filme('Casablanca', 'drama', 1942, 102, 'Michael Curtiz', 'Humphrey Bogart', 'A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.').
+filme('Modern Times', 'comedy', 1936, 87, 'Charles Chaplin', 'Charles Chaplin', 'The Tramp struggles to live in modern industrial society with the help of a young homeless woman.').
+filme('City Lights', 'comedy', 1931, 87, 'Charles Chaplin', 'Charles Chaplin', 'With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.').
+filme('Capharnaüm', 'drama', 2018, 126, 'Nadine Labaki', 'Zain Al Rafeea', 'While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.').
+filme('Ayla: The Daughter of War', 'biography', 2017, 125, 'Can Ulkay', 'Erdem Can', 'In 1950, amid-st the ravages of the Korean War, Sergeant Süleyman stumbles upon a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, ...                See full summary »').
+filme('Vikram Vedha', 'action', 2017, 147, 'Gayatri', 'Pushkar', 'Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram''s life, which leads to a conflict.').
+filme('Kimi no na wa.', 'animation', 2016, 106, 'Makoto Shinkai', 'Ryûnosuke Kamiki', 'Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?').
+filme('Dangal', 'action', 2016, 161, 'Nitesh Tiwari', 'Aamir Khan', 'Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.').
+filme('Spider-Man: Into the Spider-Verse', 'animation', 2018, 117, 'Bob Persichetti', 'Peter Ramsey', 'Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.').
+filme('Avengers: Endgame', 'action', 2019, 181, 'Anthony Russo', 'Joe Russo', 'After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos'' actions and restore balance to the universe.').
+filme('Avengers: Infinity War', 'action', 2018, 149, 'Anthony Russo', 'Joe Russo', 'The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.').
+filme('Coco', 'animation', 2017, 105, 'Lee Unkrich', 'Adrian Molina', 'Aspiring musician Miguel, confronted with his family''s ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.').
+filme('Django Unchained', 'drama', 2012, 165, 'Quentin Tarantino', 'Jamie Foxx', 'With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.').
+filme('The Dark Knight Rises', 'action', 2012, 164, 'Christopher Nolan', 'Christian Bale', 'Eight years after the Joker''s reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.').
+filme('3 Idiots', 'comedy', 2009, 170, 'Rajkumar Hirani', 'Aamir Khan', 'Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".').
+filme('Taare Zameen Par', 'drama', 2007, 165, 'Aamir Khan', 'Amole Gupte', 'An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.').
+filme('WALL·E', 'animation', 2008, 98, 'Andrew Stanton', 'Ben Burtt', 'In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.').
+filme('The Lives of Others', 'drama', 2006, 137, 'Florian Henckel von Donnersmarck', 'Ulrich Mühe', 'In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.').
+filme('Oldeuboi', 'action', 2003, 101, 'Chan-wook Park', 'Choi Min-sik', 'After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.').
+filme('Memento', 'mystery', 2000, 113, 'Christopher Nolan', 'Guy Pearce', 'A man with short-term memory loss attempts to track down his wife''s murderer.').
+filme('Mononoke-hime', 'animation', 1997, 134, 'Hayao Miyazaki', 'Yôji Matsuda', 'On a journey to find the cure for a Tatarigami''s curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.').
+filme('Once Upon a Time in America', 'crime', 1984, 229, 'Sergio Leone', 'Robert De Niro', 'A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.').
+filme('Raiders of the Lost Ark', 'action', 1981, 115, 'Steven Spielberg', 'Harrison Ford', 'In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler''s Nazis can obtain its awesome powers.').
+filme('The Shining', 'drama', 1980, 146, 'Stanley Kubrick', 'Jack Nicholson', 'A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.').
+filme('Apocalypse Now', 'drama', 1979, 147, 'Francis Ford Coppola', 'Martin Sheen', 'A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.').
+filme('Alien', 'horror', 1979, 117, 'Ridley Scott', 'Sigourney Weaver', 'After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.').
+filme('Anand', 'drama', 1971, 122, 'Hrishikesh Mukherjee', 'Rajesh Khanna', 'The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.').
+filme('Tengoku to jigoku', 'crime', 1963, 143, 'Akira Kurosawa', 'Toshirô Mifune', 'An executive of a shoe company becomes a victim of extortion when his chauffeur''s son is kidnapped and held for ransom.').
+filme('Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb', 'comedy', 1964, 95, 'Stanley Kubrick', 'Peter Sellers', 'An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.').
+filme('Witness for the Prosecution', 'crime', 1957, 116, 'Billy Wilder', 'Tyrone Power', 'A veteran British barrister must defend his client in a murder trial that has surprise after surprise.').
+filme('Paths of Glory', 'drama', 1957, 88, 'Stanley Kubrick', 'Kirk Douglas', 'After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.').
+filme('Rear Window', 'mystery', 1954, 112, 'Alfred Hitchcock', 'James Stewart', 'A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.').
+filme('Sunset Blvd.', 'drama', 1950, 110, 'Billy Wilder', 'William Holden', 'A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.').
+filme('The Great Dictator', 'comedy', 1940, 125, 'Charles Chaplin', 'Charles Chaplin', 'Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel''s regime.').
+filme('1917', 'drama', 2019, 119, 'Sam Mendes', 'Dean-Charles Chapman', 'April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.').
+filme('Tumbbad', 'drama', 2018, 104, 'Rahi Anil Barve', 'Anand Gandhi', 'A mythological story about a goddess who created the entire universe. The plot revolves around the consequences when humans build a temple for her first-born.').
+filme('Andhadhun', 'crime', 2018, 139, 'Sriram Raghavan', 'Ayushmann Khurrana', 'A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.').
+filme('Drishyam', 'crime', 2013, 160, 'Jeethu Joseph', 'Mohanlal', 'A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.').
+filme('Jagten', 'drama', 2012, 115, 'Thomas Vinterberg', 'Mads Mikkelsen', 'A teacher lives a lonely life, all the while struggling over his son''s custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.').
+filme('Jodaeiye Nader az Simin', 'drama', 2011, 123, 'Asghar Farhadi', 'Payman Maadi', 'A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer''s disease.').
+filme('Incendies', 'drama', 2010, 131, 'Denis Villeneuve', 'Lubna Azabal', 'Twins journey to the Middle East to discover their family history and fulfill their mother''s last wishes.').
+filme('Miracle in cell NO.7', 'drama', 2019, 132, 'Mehmet Ada Öztekin', 'Aras Bulut Iynemli', 'A story of love between a mentally-ill father who was wrongly accused of murder and his lovely six years old daughter. The prison would be their home. Based on the 2013 Korean movie 7-beon-bang-ui seon-mul (2013).').
+filme('Babam ve Oglum', 'drama', 2005, 112, 'Çagan Irmak', 'Çetin Tekindor', 'The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.').
+filme('Inglourious Basterds', 'adventure', 2009, 153, 'Quentin Tarantino', 'Brad Pitt', 'In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner''s vengeful plans for the same.').
+filme('Eternal Sunshine of the Spotless Mind', 'drama', 2004, 108, 'Michel Gondry', 'Jim Carrey', 'When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.').
+filme('Amélie', 'comedy', 2001, 122, 'Jean-Pierre Jeunet', 'Audrey Tautou', 'Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.').
+filme('Snatch', 'comedy', 2000, 104, 'Guy Ritchie', 'Jason Statham', 'Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.').
+filme('Requiem for a Dream', 'drama', 2000, 102, 'Darren Aronofsky', 'Ellen Burstyn', 'The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.').
+filme('American Beauty', 'drama', 1999, 122, 'Sam Mendes', 'Kevin Spacey', 'A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter''s best friend.').
+filme('Good Will Hunting', 'drama', 1997, 126, 'Gus Van Sant', 'Robin Williams', 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.').
+filme('Bacheha-Ye aseman', 'drama', 1997, 89, 'Majid Majidi', 'Mohammad Amir Naji', 'After a boy loses his sister''s pair of shoes, he goes on a series of adventures in order to find them. When he can''t, he tries a new way to "win" a new pair.').
+filme('Toy Story', 'animation', 1995, 81, 'John Lasseter', 'Tom Hanks', 'A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy''s room.').
+filme('Braveheart', 'biography', 1995, 178, 'Mel Gibson', 'Mel Gibson', 'Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.').
+filme('Reservoir Dogs', 'crime', 1992, 99, 'Quentin Tarantino', 'Harvey Keitel', 'When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.').
+filme('Full Metal Jacket', 'drama', 1987, 116, 'Stanley Kubrick', 'Matthew Modine', 'A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.').
+filme('Idi i smotri', 'drama', 1985, 142, 'Elem Klimov', 'Aleksey Kravchenko', 'After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.').
+filme('Aliens', 'action', 1986, 137, 'James Cameron', 'Sigourney Weaver', 'Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.').
+filme('Amadeus', 'biography', 1984, 160, 'Milos Forman', 'F. Murray Abraham', 'The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart''s talent and claimed to have murdered him.').
+filme('Scarface', 'crime', 1983, 170, 'Brian De Palma', 'Al Pacino', 'In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.').
+filme('Star Wars: Episode VI - Return of the Jedi', 'action', 1983, 131, 'Richard Marquand', 'Mark Hamill', 'After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor''s trap.').
+filme('Das Boot', 'adventure', 1981, 149, 'Wolfgang Petersen', 'Jürgen Prochnow', 'The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.').
+filme('Taxi Driver', 'crime', 1976, 114, 'Martin Scorsese', 'Robert De Niro', 'A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.').
+filme('The Sting', 'comedy', 1973, 129, 'George Roy Hill', 'Paul Newman', 'Two grifters team up to pull off the ultimate con.').
+filme('A Clockwork Orange', 'crime', 1971, 136, 'Stanley Kubrick', 'Malcolm McDowell', 'In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn''t go as planned.').
+filme('2001: A Space Odyssey', 'adventure', 1968, 149, 'Stanley Kubrick', 'Keir Dullea', 'After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.').
+filme('Per qualche dollaro in più', 'western', 1965, 132, 'Sergio Leone', 'Clint Eastwood', 'Two bounty hunters with the same intentions team up to track down a Western outlaw.').
+filme('Lawrence of Arabia', 'adventure', 1962, 228, 'David Lean', 'Peter O''Toole', 'The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.').
+filme('The Apartment', 'comedy', 1960, 125, 'Billy Wilder', 'Jack Lemmon', 'A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.').
+filme('North by Northwest', 'adventure', 1959, 136, 'Alfred Hitchcock', 'Cary Grant', 'A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.').
+filme('Vertigo', 'mystery', 1958, 128, 'Alfred Hitchcock', 'James Stewart', 'A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.').
+filme('Singin'' in the Rain', 'comedy', 1952, 103, 'Stanley Donen', 'Gene Kelly', 'A silent film production company and cast make a difficult transition to sound.').
+filme('Ikiru', 'drama', 1952, 143, 'Akira Kurosawa', 'Takashi Shimura', 'A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.').
+filme('Ladri di biciclette', 'drama', 1948, 89, 'Vittorio De Sica', 'Lamberto Maggiorani', 'In post-war Italy, a working-class man''s bicycle is stolen. He and his son set out to find it.').
+filme('Double Indemnity', 'crime', 1944, 107, 'Billy Wilder', 'Fred MacMurray', 'An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.').
+filme('Citizen Kane', 'drama', 1941, 119, 'Orson Welles', 'Orson Welles', 'Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; ''Rosebud''.').
+filme('M - Eine Stadt sucht einen Mörder', 'crime', 1931, 117, 'Fritz Lang', 'Peter Lorre', 'When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.').
+filme('Metropolis', 'drama', 1927, 153, 'Fritz Lang', 'Brigitte Helm', 'In a futuristic city sharply divided between the working class and the city planners, the son of the city''s mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.').
+filme('The Kid', 'comedy', 1921, 68, 'Charles Chaplin', 'Charles Chaplin', 'The Tramp cares for an abandoned child, but events put that relationship in jeopardy.').
+filme('Chhichhore', 'comedy', 2019, 143, 'Nitesh Tiwari', 'Sushant Singh Rajput', 'A tragic incident forces Anirudh, a middle-aged man, to take a trip down memory lane and reminisce his college days along with his friends, who were labelled as losers.').
+filme('Uri: The Surgical Strike', 'action', 2018, 138, 'Aditya Dhar', 'Vicky Kaushal', 'Indian army special forces execute a covert operation, avenging the killing of fellow army men at their base by a terrorist group.').
+filme('K.G.F: Chapter 1', 'action', 2018, 156, 'Prashanth Neel', 'Yash', 'In the 1970s, a fierce rebel rises against brutal oppression and becomes the symbol of hope to legions of downtrodden people.').
+filme('Green Book', 'biography', 2018, 130, 'Peter Farrelly', 'Viggo Mortensen', 'A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.').
+filme('Three Billboards Outside Ebbing, Missouri', 'comedy', 2017, 115, 'Martin McDonagh', 'Frances McDormand', 'A mother personally challenges the local authorities to solve her daughter''s murder when they fail to catch the culprit.').
+filme('Talvar', 'crime', 2015, 132, 'Meghna Gulzar', 'Irrfan Khan', 'An experienced investigator confronts several conflicting theories about the perpetrators of a violent double homicide.').
+filme('Baahubali 2: The Conclusion', 'action', 2017, 167, 'S.S. Rajamouli', 'Prabhas', 'When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.').
+filme('Klaus', 'animation', 2019, 96, 'Sergio Pablos', 'Carlos Martínez López', 'A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg''s new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.').
+filme('Drishyam', 'crime', 2015, 163, 'Nishikant Kamat', 'Ajay Devgn', 'Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.').
+filme('Queen', 'adventure', 2013, 146, 'Vikas Bahl', 'Kangana Ranaut', 'A Delhi girl from a traditional family sets out on a solo honeymoon after her marriage gets cancelled.').
+filme('Mandariinid', 'drama', 2013, 87, 'Zaza Urushadze', 'Lembit Ulfsak', 'In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in.').
+filme('Bhaag Milkha Bhaag', 'biography', 2013, 186, 'Rakeysh Omprakash Mehra', 'Farhan Akhtar', 'The truth behind the ascension of Milkha Singh who was scarred because of the India-Pakistan partition.').
+filme('Gangs of Wasseypur', 'action', 2012, 321, 'Anurag Kashyap', 'Manoj Bajpayee', 'A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.').
+filme('Udaan', 'drama', 2010, 134, 'Vikramaditya Motwane', 'Rajat Barmecha', 'Expelled from his school, a 16-year old boy returns home to his abusive and oppressive father.').
+filme('Paan Singh Tomar', 'action', 2012, 135, 'Tigmanshu Dhulia', 'Irrfan Khan', 'The story of Paan Singh Tomar, an Indian athlete and seven-time national steeplechase champion who becomes one of the most feared dacoits in Chambal Valley after his retirement.').
+filme('El secreto de sus ojos', 'drama', 2009, 129, 'Juan José Campanella', 'Ricardo Darín', 'A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.').
+filme('Warrior', 'action', 2011, 140, 'Gavin O''Connor', 'Tom Hardy', 'The youngest son of an alcoholic former boxer returns home, where he''s trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.').
+filme('Shutter Island', 'mystery', 2010, 138, 'Martin Scorsese', 'Leonardo DiCaprio', 'In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.').
+filme('Up', 'animation', 2009, 96, 'Pete Docter', 'Bob Peterson', '78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.').
+filme('The Wolf of Wall Street', 'biography', 2013, 180, 'Martin Scorsese', 'Leonardo DiCaprio', 'Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.').
+filme('Chak De! India', 'drama', 2007, 153, 'Shimit Amin', 'Shah Rukh Khan', 'Kabir Khan is the coach of the Indian Women''s National Hockey Team and his dream is to make his all girls team emerge victorious against all odds.').
+filme('There Will Be Blood', 'drama', 2007, 158, 'Paul Thomas Anderson', 'Daniel Day-Lewis', 'A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.').
+filme('Pan''s Labyrinth', 'drama', 2006, 118, 'Guillermo del Toro', 'Ivana Baquero', 'In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.').
+filme('Toy Story 3', 'animation', 2010, 103, 'Lee Unkrich', 'Tom Hanks', 'The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it''s up to Woody to convince the other toys that they weren''t abandoned and to return home.').
+filme('V for Vendetta', 'action', 2005, 132, 'James McTeigue', 'Hugo Weaving', 'In a future British tyranny, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow it with the help of a young woman.').
+filme('Rang De Basanti', 'comedy', 2006, 167, 'Rakeysh Omprakash Mehra', 'Aamir Khan', 'The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.').
+filme('Black', 'drama', 2005, 122, 'Sanjay Leela Bhansali', 'Amitabh Bachchan', 'The cathartic tale of a young woman who can''t see, hear or talk and the teacher who brings a ray of light into her dark world.').
+filme('Batman Begins', 'action', 2005, 140, 'Christopher Nolan', 'Christian Bale', 'After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.').
+filme('Swades: We, the People', 'drama', 2004, 210, 'Ashutosh Gowariker', 'Shah Rukh Khan', 'A successful Indian scientist returns to an Indian village to take his nanny to America with him and in the process rediscovers his roots.').
+filme('Der Untergang', 'biography', 2004, 156, 'Oliver Hirschbiegel', 'Bruno Ganz', 'Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator''s final days in his Berlin bunker at the end of WWII.').
+filme('Hauru no ugoku shiro', 'animation', 2004, 119, 'Hayao Miyazaki', 'Chieko Baishô', 'When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.').
+filme('A Beautiful Mind', 'biography', 2001, 135, 'Ron Howard', 'Russell Crowe', 'After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.').
+filme('Hera Pheri', 'action', 2000, 156, 'Priyadarshan', 'Akshay Kumar', 'Three unemployed men look for answers to all their money problems - but when their opportunity arrives, will they know what to do with it?').
+filme('Lock, Stock and Two Smoking Barrels', 'action', 1998, 107, 'Guy Ritchie', 'Jason Flemyng', 'A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.').
+filme('L.A. Confidential', 'crime', 1997, 138, 'Curtis Hanson', 'Kevin Spacey', 'As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.').
+filme('Eskiya', 'crime', 1996, 128, 'Yavuz Turgul', 'Sener Sen', 'Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.').
+filme('Heat', 'crime', 1995, 170, 'Michael Mann', 'Al Pacino', 'A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.').
+filme('Casino', 'crime', 1995, 178, 'Martin Scorsese', 'Robert De Niro', 'A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.').
+filme('Andaz Apna Apna', 'action', 1994, 160, 'Rajkumar Santoshi', 'Aamir Khan', 'Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal.').
+filme('Unforgiven', 'drama', 1992, 130, 'Clint Eastwood', 'Clint Eastwood', 'Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The "Schofield Kid."').
+filme('Indiana Jones and the Last Crusade', 'action', 1989, 127, 'Steven Spielberg', 'Harrison Ford', 'In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry "Indiana" Jones, Jr. finds himself up against Adolf Hitler''s Nazis again to stop them from obtaining its powers.').
+filme('Dom za vesanje', 'comedy', 1988, 142, 'Emir Kusturica', 'Davor Dujmovic', 'In this luminous tale set in the area around Sarajevo and in Italy, Perhan, an engaging young Romany (gypsy) with telekinetic powers, is seduced by the quick-cash world of petty crime, which threatens to destroy him and those he loves.').
+filme('Tonari no Totoro', 'animation', 1988, 86, 'Hayao Miyazaki', 'Hitoshi Takagi', 'When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.').
+filme('Die Hard', 'action', 1988, 132, 'John McTiernan', 'Bruce Willis', 'An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.').
+filme('Ran', 'action', 1985, 162, 'Akira Kurosawa', 'Tatsuya Nakadai', 'In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.').
+filme('Raging Bull', 'biography', 1980, 129, 'Martin Scorsese', 'Robert De Niro', 'The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.').
+filme('Stalker', 'drama', 1979, 162, 'Andrei Tarkovsky', 'Alisa Freyndlikh', 'A guide leads two men through an area known as the Zone to find a room that grants wishes.').
+filme('Höstsonaten', 'drama', 1978, 99, 'Ingmar Bergman', 'Ingrid Bergman', 'A married daughter who longs for her mother''s love is visited by the latter, a successful concert pianist.').
+filme('The Message', 'biography', 1976, 177, 'Moustapha Akkad', 'Anthony Quinn', 'This epic historical drama chronicles the life and times of Prophet Muhammad and serves as an introduction to early Islamic history.').
+filme('Sholay', 'action', 1975, 204, 'Ramesh Sippy', 'Sanjeev Kumar', 'After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.').
+filme('Monty Python and the Holy Grail', 'adventure', 1975, 91, 'Terry Gilliam', 'Terry Jones', 'King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.').
+filme('The Great Escape', 'adventure', 1963, 172, 'John Sturges', 'Steve McQueen', 'Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.').
+filme('To Kill a Mockingbird', 'crime', 1962, 129, 'Robert Mulligan', 'Gregory Peck', 'Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.').
+filme('Yôjinbô', 'action', 1961, 110, 'Akira Kurosawa', 'Toshirô Mifune', 'A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.').
+filme('Judgment at Nuremberg', 'drama', 1961, 179, 'Stanley Kramer', 'Spencer Tracy', 'In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.').
+filme('Some Like It Hot', 'comedy', 1959, 121, 'Billy Wilder', 'Marilyn Monroe', 'After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.').
+filme('Smultronstället', 'drama', 1957, 91, 'Ingmar Bergman', 'Victor Sjöström', 'After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.').
+filme('Det sjunde inseglet', 'drama', 1957, 96, 'Ingmar Bergman', 'Max von Sydow', 'A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.').
+filme('Du rififi chez les hommes', 'crime', 1955, 118, 'Jules Dassin', 'Jean Servais', 'Four men plan a technically perfect crime, but the human element intervenes...').
+filme('Dial M for Murder', 'crime', 1954, 105, 'Alfred Hitchcock', 'Ray Milland', 'A former tennis player tries to arrange his wife''s murder after learning of her affair.').
+filme('Tôkyô monogatari', 'drama', 1953, 136, 'Yasujirô Ozu', 'Chishû Ryû', 'An old couple visit their children and grandchildren in the city, but receive little attention.').
+filme('Rashômon', 'crime', 1950, 88, 'Akira Kurosawa', 'Toshirô Mifune', 'The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai''s ghost and a woodcutter.').
+filme('All About Eve', 'drama', 1950, 138, 'Joseph L. Mankiewicz', 'Bette Davis', 'A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.').
+filme('The Treasure of the Sierra Madre', 'adventure', 1948, 126, 'John Huston', 'Humphrey Bogart', 'Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.').
+filme('To Be or Not to Be', 'comedy', 1942, 99, 'Ernst Lubitsch', 'Carole Lombard', 'During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier''s efforts to track down a German spy.').
+filme('The Gold Rush', 'adventure', 1925, 95, 'Charles Chaplin', 'Charles Chaplin', 'A prospector goes to the Klondike in search of gold and finds it and more.').
+filme('Sherlock Jr.', 'action', 1924, 45, 'Buster Keaton', 'Buster Keaton', 'A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend''s father''s pocketwatch.').
+filme('Portrait de la jeune fille en feu', 'drama', 2019, 122, 'Céline Sciamma', 'Noémie Merlant', 'On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.').
+filme('Pink', 'drama', 2016, 136, 'Aniruddha Roy Chowdhury', 'Taapsee Pannu', 'When three young women are implicated in a crime, a retired lawyer steps forward to help them clear their names.').
+filme('Koe no katachi', 'animation', 2016, 130, 'Naoko Yamada', 'Miyu Irino', 'A young man is ostracized by his classmates after he bullies a deaf girl to the point where she moves away. Years later, he sets off on a path for redemption.').
+filme('Contratiempo', 'crime', 2016, 106, 'Oriol Paulo', 'Mario Casas', 'A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defense.').
+filme('Ah-ga-ssi', 'drama', 2016, 145, 'Chan-wook Park', 'Kim Min-hee', 'A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.').
+filme('Mommy', 'drama', 2014, 139, 'Xavier Dolan', 'Anne Dorval', 'A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.').
+filme('Haider', 'action', 2014, 160, 'Vishal Bhardwaj', 'Shahid Kapoor', 'A young man returns to Kashmir after his father''s disappearance to confront his uncle, whom he suspects of playing a role in his father''s fate.').
+filme('Logan', 'action', 2017, 137, 'James Mangold', 'Hugh Jackman', 'In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.').
+filme('Room', 'drama', 2015, 118, 'Lenny Abrahamson', 'Brie Larson', 'Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.').
+filme('Relatos salvajes', 'comedy', 2014, 122, 'Damián Szifron', 'Darío Grandinetti', 'Six short stories that explore the extremities of human behavior involving people in distress.').
+filme('Soul', 'animation', 2020, 100, 'Pete Docter', 'Kemp Powers', 'After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.').
+filme('Kis Uykusu', 'drama', 2014, 196, 'Nuri Bilge Ceylan', 'Haluk Bilginer', 'A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.').
+filme('PK', 'comedy', 2014, 153, 'Rajkumar Hirani', 'Aamir Khan', 'An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.').
+filme('OMG: Oh My God!', 'comedy', 2012, 125, 'Umesh Shukla', 'Paresh Rawal', 'A shopkeeper takes God to court when his shop is destroyed by an earthquake.').
+filme('The Grand Budapest Hotel', 'adventure', 2014, 99, 'Wes Anderson', 'Ralph Fiennes', 'A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel''s glorious years under an exceptional concierge.').
+filme('Gone Girl', 'drama', 2014, 149, 'David Fincher', 'Ben Affleck', 'With his wife''s disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it''s suspected that he may not be innocent.').
+filme('Ôkami kodomo no Ame to Yuki', 'animation', 2012, 117, 'Mamoru Hosoda', 'Aoi Miyazaki', 'After her werewolf lover unexpectedly dies in an accident while hunting for food for their children, a young woman must find ways to raise the werewolf son and daughter that she had with him while keeping their trait hidden from society.').
+filme('Hacksaw Ridge', 'biography', 2016, 139, 'Mel Gibson', 'Andrew Garfield', 'World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.').
+filme('Inside Out', 'animation', 2015, 95, 'Pete Docter', 'Ronnie Del Carmen', 'After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.').
+filme('Barfi!', 'comedy', 2012, 151, 'Anurag Basu', 'Ranbir Kapoor', 'Three young people learn that love can neither be defined nor contained by society''s definition of normal and abnormal.').
+filme('12 Years a Slave', 'biography', 2013, 134, 'Steve McQueen', 'Chiwetel Ejiofor', 'In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.').
+filme('Rush', 'action', 2013, 123, 'Ron Howard', 'Daniel Brühl', 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.').
+filme('Ford v Ferrari', 'action', 2019, 152, 'James Mangold', 'Matt Damon', 'American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.').
+filme('Spotlight', 'biography', 2015, 129, 'Tom McCarthy', 'Mark Ruffalo', 'The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.').
+filme('Song of the Sea', 'animation', 2014, 93, 'Tomm Moore', 'David Rawle', 'Ben, a young Irish boy, and his little sister Saoirse, a girl who can turn into a seal, go on an adventure to free the fairies and save the spirit world.').
+filme('Kahaani', 'mystery', 2012, 122, 'Sujoy Ghosh', 'Vidya Balan', 'A pregnant woman''s search for her missing husband takes her from London to Kolkata, but everyone she questions denies having ever met him.').
+filme('Zindagi Na Milegi Dobara', 'comedy', 2011, 155, 'Zoya Akhtar', 'Hrithik Roshan', 'Three friends decide to turn their fantasy vacation into reality after one of their friends gets engaged.').
+filme('Prisoners', 'crime', 2013, 153, 'Denis Villeneuve', 'Hugh Jackman', 'When Keller Dover''s daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.').
+filme('Mad Max: Fury Road', 'action', 2015, 120, 'George Miller', 'Tom Hardy', 'In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.').
+filme('A Wednesday', 'action', 2008, 104, 'Neeraj Pandey', 'Anupam Kher', 'A retiring police officer reminisces about the most astounding day of his career. About a case that was never filed but continues to haunt him in his memories - the case of a man and a Wednesday.').
+filme('Gran Torino', 'drama', 2008, 116, 'Clint Eastwood', 'Clint Eastwood', 'Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski''s prized possession: a 1972 Gran Torino.').
+filme('Harry Potter and the Deathly Hallows: Part 2', 'adventure', 2011, 130, 'David Yates', 'Daniel Radcliffe', 'Harry, Ron, and Hermione search for Voldemort''s remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.').
+filme('Okuribito', 'drama', 2008, 130, 'Yôjirô Takita', 'Masahiro Motoki', 'A newly unemployed cellist takes a job preparing the dead for funerals.').
+filme('Hachi: A Dog''s Tale', 'biography', 2009, 93, 'Lasse Hallström', 'Richard Gere', 'A college professor bonds with an abandoned dog he takes into his home.').
+filme('Mary and Max', 'animation', 2009, 92, 'Adam Elliot', 'Toni Collette', 'A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.').
+filme('How to Train Your Dragon', 'animation', 2010, 98, 'Dean DeBlois', 'Chris Sanders', 'A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.').
+filme('Into the Wild', 'adventure', 2007, 148, 'Sean Penn', 'Emile Hirsch', 'After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.').
+filme('No Country for Old Men', 'crime', 2007, 122, 'Ethan Coen', 'Joel Coen', 'Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.').
+filme('Lage Raho Munna Bhai', 'comedy', 2006, 144, 'Rajkumar Hirani', 'Sanjay Dutt', 'Munna Bhai embarks on a journey with Mahatma Gandhi in order to fight against a corrupt property dealer.').
+filme('Million Dollar Baby', 'drama', 2004, 132, 'Clint Eastwood', 'Hilary Swank', 'A determined woman works with a hardened boxing trainer to become a professional.').
+filme('Hotel Rwanda', 'biography', 2004, 121, 'Terry George', 'Don Cheadle', 'Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.').
+filme('Taegukgi hwinalrimyeo', 'action', 2004, 140, 'Je-kyu Kang', 'Jang Dong-Gun', 'When two brothers are forced to fight in the Korean War, the elder decides to take the riskiest missions if it will help shield the younger from battle.').
+filme('Before Sunset', 'drama', 2004, 80, 'Richard Linklater', 'Ethan Hawke', 'Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse''s book tour.').
+filme('Munna Bhai M.B.B.S.', 'comedy', 2003, 156, 'Rajkumar Hirani', 'Sanjay Dutt', 'A gangster sets out to fulfill his father''s dream of becoming a doctor.').
+filme('Salinui chueok', 'crime', 2003, 131, 'Bong Joon Ho', 'Kang-ho Song', 'In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.').
+filme('Dil Chahta Hai', 'comedy', 2001, 183, 'Farhan Akhtar', 'Aamir Khan', 'Three inseparable childhood friends are just out of college. Nothing comes between them - until they each fall in love, and their wildly different approaches to relationships creates tension.').
+filme('Kill Bill: Vol. 1', 'action', 2003, 111, 'Quentin Tarantino', 'Uma Thurman', 'After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.').
+filme('Finding Nemo', 'animation', 2003, 100, 'Andrew Stanton', 'Lee Unkrich', 'After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.').
+filme('Catch Me If You Can', 'biography', 2002, 141, 'Steven Spielberg', 'Leonardo DiCaprio', 'Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.').
+filme('Amores perros', 'drama', 2000, 154, 'Alejandro G. Iñárritu', 'Emilio Echevarría', 'A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life''s harsh realities, all in the name of love.').
+filme('Monsters, Inc.', 'animation', 2001, 92, 'Pete Docter', 'David Silverman', 'In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.').
+filme('Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni', 'animation', 1997, 87, 'Hideaki Anno', 'Kazuya Tsurumaki', 'Concurrent theatrical ending of the TV series Shin seiki evangerion (1995).').
+filme('Lagaan: Once Upon a Time in India', 'adventure', 2001, 224, 'Ashutosh Gowariker', 'Aamir Khan', 'The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.').
+filme('The Sixth Sense', 'drama', 1999, 107, 'M. Night Shyamalan', 'Bruce Willis', 'A boy who communicates with spirits seeks the help of a disheartened child psychologist.').
+filme('La leggenda del pianista sull''oceano', 'drama', 1998, 169, 'Giuseppe Tornatore', 'Tim Roth', 'A baby boy, discovered in 1900 on an ocean liner, grows into a musical prodigy, never setting foot on land.').
+filme('The Truman Show', 'comedy', 1998, 103, 'Peter Weir', 'Jim Carrey', 'An insurance salesman discovers his whole life is actually a reality TV show.').
+filme('Crna macka, beli macor', 'comedy', 1998, 127, 'Emir Kusturica', 'Bajram Severdzan', 'Matko and his son Zare live on the banks of the Danube river and get by through hustling and basically doing anything to make a living. In order to pay off a business debt Matko agrees to marry off Zare to the sister of a local gangster.').
+filme('The Big Lebowski', 'comedy', 1998, 117, 'Joel Coen', 'Ethan Coen', 'Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.').
+filme('Fa yeung nin wah', 'drama', 2000, 98, 'Kar-Wai Wong', 'Tony Chiu-Wai Leung', 'Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.').
+filme('Trainspotting', 'drama', 1996, 93, 'Danny Boyle', 'Ewan McGregor', 'Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.').
+filme('Fargo', 'crime', 1996, 98, 'Joel Coen', 'Ethan Coen', 'Jerry Lundegaard''s inept crime falls apart due to his and his henchmen''s bungling and the persistent police work of the quite pregnant Marge Gunderson.').
+filme('Underground', 'comedy', 1995, 170, 'Emir Kusturica', 'Predrag ''Miki'' Manojlovic', 'A group of Serbian socialists prepares for the war in a surreal underground filled by parties, tragedies, love and hate.').
+filme('La haine', 'crime', 1995, 98, 'Mathieu Kassovitz', 'Vincent Cassel', '24 hours in the lives of three young men in the French suburbs the day after a violent riot.').
+filme('Dilwale Dulhania Le Jayenge', 'drama', 1995, 189, 'Aditya Chopra', 'Shah Rukh Khan', 'When Raj meets Simran in Europe, it isn''t love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.').
+filme('Before Sunrise', 'drama', 1995, 101, 'Richard Linklater', 'Ethan Hawke', 'A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.').
+filme('Trois couleurs: Rouge', 'drama', 1994, 99, 'Krzysztof Kieslowski', 'Irène Jacob', 'A model discovers a retired judge is keen on invading people''s privacy.').
+filme('Chung Hing sam lam', 'comedy', 1994, 102, 'Kar-Wai Wong', 'Brigitte Lin', 'Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal server at a late-night restaurant he frequents.').
+filme('Jurassic Park', 'action', 1993, 127, 'Steven Spielberg', 'Sam Neill', 'A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park''s cloned dinosaurs to run loose.').
+filme('In the Name of the Father', 'biography', 1993, 133, 'Jim Sheridan', 'Daniel Day-Lewis', 'A man''s coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.').
+filme('Ba wang bie ji', 'drama', 1993, 171, 'Kaige Chen', 'Leslie Cheung', 'Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and will endure some of the most troublesome times in China''s history.').
+filme('Dà hóng denglong gaogao guà', 'drama', 1991, 125, 'Yimou Zhang', 'Gong Li', 'A young woman becomes the fourth wife of a wealthy lord, and must learn to live with the strict rules and tensions within the household.').
+filme('Dead Poets Society', 'comedy', 1989, 128, 'Peter Weir', 'Robin Williams', 'Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.').
+filme('Stand by Me', 'adventure', 1986, 89, 'Rob Reiner', 'Wil Wheaton', 'After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.').
+filme('Platoon', 'drama', 1986, 120, 'Oliver Stone', 'Charlie Sheen', 'Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.').
+filme('Paris, Texas', 'drama', 1984, 145, 'Wim Wenders', 'Harry Dean Stanton', 'Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.').
+filme('Kaze no tani no Naushika', 'animation', 1984, 117, 'Hayao Miyazaki', 'Sumi Shimamoto', 'Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.').
+filme('The Thing', 'horror', 1982, 109, 'John Carpenter', 'Kurt Russell', 'A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.').
+filme('Pink Floyd: The Wall', 'drama', 1982, 95, 'Alan Parker', 'Bob Geldof', 'A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.').
+filme('Fitzcarraldo', 'adventure', 1982, 158, 'Werner Herzog', 'Klaus Kinski', 'The story of Brian Sweeney Fitzgerald, an extremely determined man who intends to build an opera house in the middle of a jungle.').
+filme('Fanny och Alexander', 'drama', 1982, 188, 'Ingmar Bergman', 'Bertil Guve', 'Two young Swedish children experience the many comedies and tragedies of their family, the Ekdahls.').
+filme('Blade Runner', 'action', 1982, 117, 'Ridley Scott', 'Harrison Ford', 'A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.').
+filme('The Elephant Man', 'biography', 1980, 124, 'David Lynch', 'Anthony Hopkins', 'A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.').
+filme('Life of Brian', 'comedy', 1979, 94, 'Terry Jones', 'Graham Chapman', 'Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.').
+filme('The Deer Hunter', 'drama', 1978, 183, 'Michael Cimino', 'Robert De Niro', 'An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.').
+filme('Rocky', 'drama', 1976, 120, 'John G. Avildsen', 'Sylvester Stallone', 'A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.').
+filme('Network', 'drama', 1976, 121, 'Sidney Lumet', 'Faye Dunaway', 'A television network cynically exploits a deranged former anchor''s ravings and revelations about the news media for its own profit.').
+filme('Barry Lyndon', 'adventure', 1975, 185, 'Stanley Kubrick', 'Ryan O''Neal', 'An Irish rogue wins the heart of a rich widow and assumes her dead husband''s aristocratic position in 18th-century England.').
+filme('Zerkalo', 'biography', 1975, 107, 'Andrei Tarkovsky', 'Margarita Terekhova', 'A dying man in his forties remembers his past. His childhood, his mother, the war, personal moments and things that tell of the recent history of all the Russian nation.').
+filme('Chinatown', 'drama', 1974, 130, 'Roman Polanski', 'Jack Nicholson', 'A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.').
+filme('Paper Moon', 'comedy', 1973, 102, 'Peter Bogdanovich', 'Ryan O''Neal', 'During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely partnership.').
+filme('Viskningar och rop', 'drama', 1972, 91, 'Ingmar Bergman', 'Harriet Andersson', 'When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface.').
+filme('Solaris', 'drama', 1972, 167, 'Andrei Tarkovsky', 'Natalya Bondarchuk', 'A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.').
+filme('Le samouraï', 'crime', 1967, 105, 'Jean-Pierre Melville', 'Alain Delon', 'After professional hitman Jef Costello is seen by witnesses his efforts to provide himself an alibi drive him further into a corner.').
+filme('Cool Hand Luke', 'crime', 1967, 127, 'Stuart Rosenberg', 'Paul Newman', 'A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.').
+filme('Persona', 'drama', 1966, 85, 'Ingmar Bergman', 'Bibi Andersson', 'A nurse is put in charge of a mute actress and finds that their personae are melding together.').
+filme('Andrei Rublev', 'biography', 1966, 205, 'Andrei Tarkovsky', 'Anatoliy Solonitsyn', 'The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.').
+filme('La battaglia di Algeri', 'drama', 1966, 121, 'Gillo Pontecorvo', 'Brahim Hadjadj', 'In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.').
+filme('El ángel exterminador', 'drama', 1962, 95, 'Luis Buñuel', 'Silvia Pinal', 'The guests at an upper-class dinner party find themselves unable to leave.').
+filme('What Ever Happened to Baby Jane?', 'drama', 1962, 134, 'Robert Aldrich', 'Bette Davis', 'A former child star torments her paraplegic sister in their decaying Hollywood mansion.').
+filme('Sanjuro', 'action', 1962, 96, 'Akira Kurosawa', 'Toshirô Mifune', 'A crafty samurai helps a young man and his fellow clansmen save his uncle, who has been framed and imprisoned by a corrupt superintendent.').
+filme('The Man Who Shot Liberty Valance', 'drama', 1962, 123, 'John Ford', 'James Stewart', 'A senator returns to a western town for the funeral of an old friend and tells the story of his origins.').
+filme('Ivanovo detstvo', 'drama', 1962, 95, 'Andrei Tarkovsky', 'Eduard Abalov', 'In WW2, twelve year old Soviet orphan Ivan Bondarev works for the Soviet army as a scout behind the German lines and strikes a friendship with three sympathetic Soviet officers.').
+filme('Jungfrukällan', 'drama', 1960, 89, 'Ingmar Bergman', 'Max von Sydow', 'An innocent yet pampered young virgin and her family''s pregnant and jealous servant set out to deliver candles to church, but only one returns from events that transpire in the woods along the way.').
+filme('Inherit the Wind', 'biography', 1960, 128, 'Stanley Kramer', 'Spencer Tracy', 'Based on a real-life case in 1925, two great lawyers argue the case for and against a science teacher accused of the crime of teaching evolution.').
+filme('Les quatre cents coups', 'crime', 1959, 99, 'François Truffaut', 'Jean-Pierre Léaud', 'A young boy, left without attention, delves into a life of petty crime.').
+filme('Ben-Hur', 'adventure', 1959, 212, 'William Wyler', 'Charlton Heston', 'After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.').
+filme('Kakushi-toride no san-akunin', 'adventure', 1958, 139, 'Akira Kurosawa', 'Toshirô Mifune', 'Lured by gold, two greedy peasants unknowingly escort a princess and her general across enemy lines.').
+filme('Le notti di Cabiria', 'drama', 1957, 110, 'Federico Fellini', 'Giulietta Masina', 'A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.').
+filme('Kumonosu-jô', 'drama', 1957, 110, 'Akira Kurosawa', 'Toshirô Mifune', 'A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider''s Web Castle.').
+filme('The Bridge on the River Kwai', 'adventure', 1957, 161, 'David Lean', 'William Holden', 'British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.').
+filme('On the Waterfront', 'crime', 1954, 108, 'Elia Kazan', 'Marlon Brando', 'An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.').
+filme('Le salaire de la peur', 'adventure', 1953, 131, 'Henri-Georges Clouzot', 'Yves Montand', 'In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.').
+filme('Ace in the Hole', 'drama', 1951, 111, 'Billy Wilder', 'Kirk Douglas', 'A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into an out-of-control circus.').
+filme('White Heat', 'action', 1949, 114, 'Raoul Walsh', 'James Cagney', 'A psychopathic criminal with a mother complex makes a daring break from prison and leads his old gang in a chemical plant payroll heist.').
+filme('The Third Man', 'film-noir', 1949, 104, 'Carol Reed', 'Orson Welles', 'Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.').
+filme('The Red Shoes', 'drama', 1948, 135, 'Michael Powell', 'Emeric Pressburger', 'A young ballet dancer is torn between the man she loves and her pursuit to become a prima ballerina.').
+filme('The Shop Around the Corner', 'comedy', 1940, 99, 'Ernst Lubitsch', 'Margaret Sullavan', 'Two employees at a gift shop can barely stand each other, without realizing that they are falling in love through the post as each other''s anonymous pen pal.').
+filme('Rebecca', 'drama', 1940, 130, 'Alfred Hitchcock', 'Laurence Olivier', 'A self-conscious woman juggles adjusting to her new role as an aristocrat''s wife and avoiding being intimidated by his first wife''s spectral presence.').
+filme('Mr. Smith Goes to Washington', 'comedy', 1939, 129, 'Frank Capra', 'James Stewart', 'A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn''t back down.').
+filme('Gone with the Wind', 'drama', 1939, 238, 'Victor Fleming', 'George Cukor', 'A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.').
+filme('La Grande Illusion', 'drama', 1937, 113, 'Jean Renoir', 'Jean Gabin', 'During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress.').
+filme('It Happened One Night', 'comedy', 1934, 105, 'Frank Capra', 'Clark Gable', 'A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.').
+filme('La passion de Jeanne d''Arc', 'biography', 1928, 110, 'Carl Theodor Dreyer', 'Maria Falconetti', 'In 1431, Jeanne d''Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.').
+filme('The Circus', 'comedy', 1928, 72, 'Charles Chaplin', 'Charles Chaplin', 'The Tramp finds work and the girl of his dreams at a circus.').
+filme('Sunrise: A Song of Two Humans', 'drama', 1927, 94, 'F.W. Murnau', 'George O''Brien', 'An allegorical tale about a man fighting the good and evil within him. Both sides are made flesh - one a sophisticated woman he is attracted to and the other his wife.').
+filme('The General', 'action', 1926, 67, 'Clyde Bruckman', 'Buster Keaton', 'When Union spies steal an engineer''s beloved locomotive, he pursues it single-handedly and straight through enemy lines.').
+filme('Das Cabinet des Dr. Caligari', 'fantasy', 1920, 76, 'Robert Wiene', 'Werner Krauss', 'Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.').
+filme('Badhaai ho', 'comedy', 2018, 124, 'Amit Ravindernath Sharma', 'Ayushmann Khurrana', 'A man is embarrassed when he finds out his mother is pregnant.').
+filme('Togo', 'adventure', 2019, 113, 'Ericson Core', 'Willem Dafoe', 'The story of Togo, the sled dog who led the 1925 serum run yet was considered by most to be too small and weak to lead such an intense race.').
+filme('Airlift', 'drama', 2016, 130, 'Raja Menon', 'Akshay Kumar', 'When Iraq invades Kuwait in August 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen.').
+filme('Bajrangi Bhaijaan', 'action', 2015, 163, 'Kabir Khan', 'Salman Khan', 'An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family.').
+filme('Baby', 'action', 2015, 159, 'Neeraj Pandey', 'Akshay Kumar', 'An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it''s up to them to track the terrorists'' international tentacles and prevent them from striking at the heart of India.').
+filme('La La Land', 'comedy', 2016, 128, 'Damien Chazelle', 'Ryan Gosling', 'While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.').
+filme('Lion', 'biography', 2016, 118, 'Garth Davis', 'Dev Patel', 'A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.').
+filme('The Martian', 'adventure', 2015, 144, 'Ridley Scott', 'Matt Damon', 'An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.').
+filme('Zootopia', 'animation', 2016, 108, 'Byron Howard', 'Rich Moore', 'In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.').
+filme('Bãhubali: The Beginning', 'action', 2015, 159, 'S.S. Rajamouli', 'Prabhas', 'In ancient India, an adventurous and daring man becomes involved in a decades-old feud between two warring peoples.').
+filme('Kaguyahime no monogatari', 'animation', 2013, 137, 'Isao Takahata', 'Chloë Grace Moretz', 'Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthralls all who encounter her, but ultimately she must confront her fate, the punishment for her crime.').
+filme('Wonder', 'drama', 2017, 113, 'Stephen Chbosky', 'Jacob Tremblay', 'Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time.').
+filme('Gully Boy', 'drama', 2019, 154, 'Zoya Akhtar', 'Vijay Varma', 'A coming-of-age story based on the lives of street rappers in Mumbai.').
+filme('Special Chabbis', 'crime', 2013, 144, 'Neeraj Pandey', 'Akshay Kumar', 'A gang of con-men rob prominent rich businessmen and politicians by posing as C.B.I and income tax officers.').
+filme('Short Term 12', 'drama', 2013, 96, 'Destin Daniel Cretton', 'Brie Larson', 'A 20-something supervising staff member of a residential treatment facility navigates the troubled waters of that world alongside her co-worker and longtime boyfriend.').
+filme('Serbuan maut 2: Berandal', 'action', 2014, 150, 'Gareth Evans', 'Iko Uwais', 'Only a short time after the first raid, Rama goes undercover with the thugs of Jakarta and plans to bring down the syndicate and uncover the corruption within his police force.').
+filme('The Imitation Game', 'biography', 2014, 114, 'Morten Tyldum', 'Benedict Cumberbatch', 'During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians.').
+filme('Guardians of the Galaxy', 'action', 2014, 121, 'James Gunn', 'Chris Pratt', 'A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.').
+filme('Blade Runner 2049', 'action', 2017, 164, 'Denis Villeneuve', 'Harrison Ford', 'Young Blade Runner K''s discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who''s been missing for thirty years.').
+filme('Her', 'drama', 2013, 126, 'Spike Jonze', 'Joaquin Phoenix', 'In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.').
+filme('Bohemian Rhapsody', 'biography', 2018, 134, 'Bryan Singer', 'Rami Malek', 'The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).').
+filme('The Revenant', 'action', 2015, 156, 'Alejandro G. Iñárritu', 'Leonardo DiCaprio', 'A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.').
+filme('The Perks of Being a Wallflower', 'drama', 2012, 103, 'Stephen Chbosky', 'Logan Lerman', 'An introvert freshman is taken under the wings of two seniors who welcome him to the real world').
+filme('Tropa de Elite 2: O Inimigo Agora é Outro', 'action', 2010, 115, 'José Padilha', 'Wagner Moura', 'After a prison riot, former-Captain Nascimento, now a high ranking security officer in Rio de Janeiro, is swept into a bloody political dispute that involves government officials and paramilitary groups.').
+filme('The King''s Speech', 'biography', 2010, 118, 'Tom Hooper', 'Colin Firth', 'The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer.').
+filme('The Help', 'drama', 2011, 146, 'Tate Taylor', 'Emma Stone', 'An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids'' point of view on the white families for which they work, and the hardships they go through on a daily basis.').
+filme('Deadpool', 'action', 2016, 108, 'Tim Miller', 'Ryan Reynolds', 'A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.').
+filme('Darbareye Elly', 'drama', 2009, 119, 'Asghar Farhadi', 'Golshifteh Farahani', 'The mysterious disappearance of a kindergarten teacher during a picnic in the north of Iran is followed by a series of misadventures for her fellow travelers.').
+filme('Dev.D', 'drama', 2009, 144, 'Anurag Kashyap', 'Abhay Deol', 'After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?').
+filme('Yip Man', 'action', 2008, 106, 'Wilson Yip', 'Donnie Yen', 'During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive.').
+filme('My Name Is Khan', 'drama', 2010, 165, 'Karan Johar', 'Shah Rukh Khan', 'An Indian Muslim man with Asperger''s syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.').
+filme('Nefes: Vatan Sagolsun', 'action', 2009, 128, 'Levent Semerci', 'Erdem Can', 'Story of 40-man Turkish task force who must defend a relay station.').
+filme('Slumdog Millionaire', 'drama', 2008, 120, 'Danny Boyle', 'Loveleen Tandan', 'A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of "Who Wants to be a Millionaire?".').
+filme('Black Swan', 'drama', 2010, 108, 'Darren Aronofsky', 'Natalie Portman', 'A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky''s "Swan Lake".').
+filme('Tropa de Elite', 'action', 2007, 115, 'José Padilha', 'Wagner Moura', 'In 1997 Rio de Janeiro, Captain Nascimento has to find a substitute for his position while trying to take down drug dealers and criminals before the Pope visits.').
+filme('The Avengers', 'action', 2012, 143, 'Joss Whedon', 'Robert Downey Jr.', 'Earth''s mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.').
+filme('Persepolis', 'animation', 2007, 96, 'Vincent Paronnaud', 'Marjane Satrapi', 'A precocious and outspoken Iranian girl grows up during the Islamic Revolution.').
+filme('Dallas Buyers Club', 'biography', 2013, 117, 'Jean-Marc Vallée', 'Matthew McConaughey', 'In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.').
+filme('The Pursuit of Happyness', 'biography', 2006, 117, 'Gabriele Muccino', 'Will Smith', 'A struggling salesman takes custody of his son as he''s poised to begin a life-changing professional career.').
+filme('Blood Diamond', 'adventure', 2006, 143, 'Edward Zwick', 'Leonardo DiCaprio', 'A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.').
+filme('The Bourne Ultimatum', 'action', 2007, 115, 'Paul Greengrass', 'Matt Damon', 'Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer.').
+filme('Bin-jip', 'crime', 2004, 88, 'Ki-duk Kim', 'Seung-Yun Lee', 'A transient young man breaks into empty homes to partake of the vacationing residents'' lives for a few days.').
+filme('Sin City', 'crime', 2005, 124, 'Frank Miller', 'Quentin Tarantino', 'A movie that explores the dark and miserable town, Basin City, tells the story of three different people, all caught up in violent corruption.').
+filme('Le scaphandre et le papillon', 'biography', 2007, 112, 'Julian Schnabel', 'Laura Obiols', 'The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn''t paralyzed.').
+filme('G.O.R.A.', 'adventure', 2004, 127, 'Ömer Faruk Sorak', 'Cem Yilmaz', 'A slick young Turk kidnapped by extraterrestrials shows his great « humanitarian spirit » by outwitting the evil commander-in-chief of the planet of G.O.R.A.').
+filme('Ratatouille', 'animation', 2007, 111, 'Brad Bird', 'Jan Pinkava', 'A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.').
+filme('Casino Royale', 'action', 2006, 144, 'Martin Campbell', 'Daniel Craig', 'After earning 00 status and a licence to kill, Secret Agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, Montenegro.').
+filme('Kill Bill: Vol. 2', 'action', 2004, 137, 'Quentin Tarantino', 'Uma Thurman', 'The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.').
+filme('Vozvrashchenie', 'drama', 2003, 110, 'Andrey Zvyagintsev', 'Vladimir Garin', 'In the Russian wilderness, two brothers face a range of new, conflicting emotions when their father - a man they know only through a single photograph - resurfaces.').
+filme('Bom Yeoareum Gaeul Gyeoul Geurigo Bom', 'drama', 2003, 103, 'Ki-duk Kim', 'Ki-duk Kim', 'A boy is raised by a Buddhist monk in an isolated floating temple where the years pass like the seasons.').
+filme('Mar adentro', 'biography', 2014, 126, 'Alejandro Amenábar', 'Javier Bardem', 'The factual story of Spaniard Ramon Sampedro, who fought a thirty-year campaign in favor of euthanasia and his own right to die.').
+filme('Cinderella Man', 'biography', 2005, 144, 'Ron Howard', 'Russell Crowe', 'The story of James J. Braddock, a supposedly washed-up boxer who came back to become a champion and an inspiration in the 1930s.').
+filme('Kal Ho Naa Ho', 'comedy', 2003, 186, 'Nikkhil Advani', 'Preity Zinta', 'Naina, an introverted, perpetually depressed girl''s life changes when she meets Aman. But Aman has a secret of his own which changes their lives forever. Embroiled in all this is Rohit, Naina''s best friend who conceals his love for her.').
+filme('Mou gaan dou', 'action', 2002, 101, 'Andrew Lau', 'Alan Mak', 'A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.').
+filme('Pirates of the Caribbean: The Curse of the Black Pearl', 'action', 2003, 143, 'Gore Verbinski', 'Johnny Depp', 'Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor''s daughter, from Jack''s former pirate allies, who are now undead.').
+filme('Big Fish', 'adventure', 2003, 125, 'Tim Burton', 'Ewan McGregor', 'A frustrated son tries to determine the fact from fiction in his dying father''s life.').
+filme('The Incredibles', 'animation', 2004, 115, 'Brad Bird', 'Craig T. Nelson', 'A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.').
+filme('Yeopgijeogin geunyeo', 'comedy', 2001, 137, 'Jae-young Kwak', 'Tae-Hyun Cha', 'A young man sees a drunk, cute woman standing too close to the tracks at a metro station in Seoul and pulls her back. She ends up getting him into trouble repeatedly after that, starting on the train.').
+filme('Dogville', 'crime', 2003, 178, 'Lars von Trier', 'Nicole Kidman', 'A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town she finds out that their support has a price.').
+filme('Vizontele', 'comedy', 2001, 110, 'Yilmaz Erdogan', 'Ömer Faruk Sorak', 'Lives of residents in a small Anatolian village change when television is introduced to them').
+filme('Donnie Darko', 'drama', 2001, 113, 'Richard Kelly', 'Jake Gyllenhaal', 'After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.').
+filme('Magnolia', 'drama', 1999, 188, 'Paul Thomas Anderson', 'Tom Cruise', 'An epic mosaic of interrelated characters in search of love, forgiveness, and meaning in the San Fernando Valley.').
+filme('Dancer in the Dark', 'crime', 2000, 140, 'Lars von Trier', 'Björk', 'An East European girl travels to the United States with her young son, expecting it to be like a Hollywood film.').
+filme('The Straight Story', 'biography', 1999, 112, 'David Lynch', 'Richard Farnsworth', 'An old man makes a long journey by lawnmower to mend his relationship with an ill brother.').
+filme('Pâfekuto burû', 'animation', 1997, 81, 'Satoshi Kon', 'Junko Iwao', 'A pop singer gives up her career to become an actress, but she slowly goes insane when she starts being stalked by an obsessed fan and what seems to be a ghost of her past.').
+filme('Festen', 'drama', 1998, 105, 'Thomas Vinterberg', 'Ulrich Thomsen', 'At Helge''s 60th birthday party, some unpleasant family truths are revealed.').
+filme('Central do Brasil', 'drama', 1998, 110, 'Walter Salles', 'Fernanda Montenegro', 'An emotive journey of a former school teacher, who writes letters for illiterate people, and a young boy, whose mother has just died, as they search for the father he never knew.').
+filme('The Iron Giant', 'animation', 1999, 86, 'Brad Bird', 'Eli Marienthal', 'A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.').
+filme('Knockin'' on Heaven''s Door', 'action', 1997, 87, 'Thomas Jahn', 'Til Schweiger', 'Two terminally ill patients escape from a hospital, steal a car and rush towards the sea.').
+filme('Sling Blade', 'drama', 1996, 135, 'Billy Bob Thornton', 'Billy Bob Thornton', 'Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.').
+filme('Secrets & Lies', 'comedy', 1996, 136, 'Mike Leigh', 'Timothy Spall', 'Following the death of her adoptive parents, a successful young black optometrist establishes contact with her biological mother -- a lonely white factory worker living in poverty in East London.').
+filme('Twelve Monkeys', 'mystery', 1995, 129, 'Terry Gilliam', 'Bruce Willis', 'In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.').
+filme('Kôkaku Kidôtai', 'animation', 1995, 83, 'Mamoru Oshii', 'Atsuko Tanaka', 'A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.').
+filme('The Nightmare Before Christmas', 'animation', 1993, 76, 'Henry Selick', 'Danny Elfman', 'Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.').
+filme('Groundhog Day', 'comedy', 1993, 101, 'Harold Ramis', 'Bill Murray', 'A weatherman finds himself inexplicably living the same day over and over again.').
+filme('Bound by Honor', 'crime', 1993, 180, 'Taylor Hackford', 'Damian Chapa', 'Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on step-brothers Paco and Cruz, and their bi-racial cousin Miklo.').
+filme('Scent of a Woman', 'drama', 1992, 156, 'Martin Brest', 'Al Pacino', 'A prep school student needing money agrees to "babysit" a blind man, but the job is not at all what he anticipated.').
+filme('Aladdin', 'animation', 1992, 90, 'Ron Clements', 'John Musker', 'A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.').
+filme('JFK', 'drama', 1991, 189, 'Oliver Stone', 'Kevin Costner', 'New Orleans District Attorney Jim Garrison discovers there''s more to the Kennedy assassination than the official story.').
+filme('Beauty and the Beast', 'animation', 1991, 84, 'Gary Trousdale', 'Kirk Wise', 'A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman''s love.').
+filme('Dances with Wolves', 'adventure', 1990, 181, 'Kevin Costner', 'Kevin Costner', 'Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.').
+filme('Do the Right Thing', 'comedy', 1989, 120, 'Spike Lee', 'Danny Aiello', 'On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone''s hate and bigotry smolders and builds until it explodes into violence.').
+filme('Rain Man', 'drama', 1988, 133, 'Barry Levinson', 'Dustin Hoffman', 'Selfish yuppie Charlie Babbitt''s father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.').
+filme('Akira', 'animation', 1988, 124, 'Katsuhiro Ôtomo', 'Mitsuo Iwata', 'A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.').
+filme('The Princess Bride', 'adventure', 1987, 98, 'Rob Reiner', 'Cary Elwes', 'While home sick in bed, a young boy''s grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.').
+filme('Der Himmel über Berlin', 'drama', 1987, 128, 'Wim Wenders', 'Bruno Ganz', 'An angel tires of overseeing human activity and wishes to become human when he falls in love with a mortal.').
+filme('Au revoir les enfants', 'drama', 1987, 104, 'Louis Malle', 'Gaspard Manesse', 'A French boarding school run by priests seems to be a haven from World War II until a new student arrives. He becomes the roommate of the top student in his class. Rivals at first, the roommates form a bond and share a secret.').
+filme('Tenkû no shiro Rapyuta', 'animation', 1986, 125, 'Hayao Miyazaki', 'Mayumi Tanaka', 'A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.').
+filme('The Terminator', 'action', 1984, 107, 'James Cameron', 'Arnold Schwarzenegger', 'A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity''s future salvation.').
+filme('Gandhi', 'biography', 1982, 191, 'Richard Attenborough', 'Ben Kingsley', 'The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.').
+filme('Kagemusha', 'drama', 1980, 180, 'Akira Kurosawa', 'Tatsuya Nakadai', 'A petty thief with an utter resemblance to a samurai warlord is hired as the lord''s double. When the warlord later dies the thief is forced to take up arms in his place.').
+filme('Being There', 'comedy', 1979, 130, 'Hal Ashby', 'Peter Sellers', 'A simpleminded, sheltered gardener becomes an unlikely trusted advisor to a powerful businessman and an insider in Washington politics.').
+filme('Annie Hall', 'comedy', 1977, 93, 'Woody Allen', 'Woody Allen', 'Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.').
+filme('Jaws', 'adventure', 1975, 124, 'Steven Spielberg', 'Roy Scheider', 'When a killer shark unleashes chaos on a beach community, it''s up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.').
+filme('Dog Day Afternoon', 'biography', 1975, 125, 'Sidney Lumet', 'Al Pacino', 'Three amateur bank robbers plan to hold up a bank. A nice simple robbery: Walk in, take the money, and run. Unfortunately, the supposedly uncomplicated heist suddenly becomes a bizarre nightmare as everything that could go wrong does.').
+filme('Young Frankenstein', 'comedy', 1974, 106, 'Mel Brooks', 'Gene Wilder', 'An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body.').
+filme('Papillon', 'biography', 1973, 151, 'Franklin J. Schaffner', 'Steve McQueen', 'A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.').
+filme('The Exorcist', 'horror', 1973, 122, 'William Friedkin', 'Ellen Burstyn', 'When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.').
+filme('Sleuth', 'mystery', 1972, 138, 'Joseph L. Mankiewicz', 'Laurence Olivier', 'A man who loves games and theater invites his wife''s lover to meet him, setting up a battle of wits with potentially deadly results.').
+filme('The Last Picture Show', 'drama', 1971, 118, 'Peter Bogdanovich', 'Timothy Bottoms', 'In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied North Texas town that is slowly dying, both culturally and economically.').
+filme('Fiddler on the Roof', 'drama', 1971, 181, 'Norman Jewison', 'Topol', 'In prerevolutionary Russia, a Jewish peasant contends with marrying off three of his daughters while growing anti-Semitic sentiment threatens his village.').
+filme('Il conformista', 'drama', 1970, 113, 'Bernardo Bertolucci', 'Jean-Louis Trintignant', 'A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.').
+filme('Butch Cassidy and the Sundance Kid', 'biography', 1969, 110, 'George Roy Hill', 'Paul Newman', 'Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.').
+filme('Rosemary''s Baby', 'drama', 1968, 137, 'Roman Polanski', 'Mia Farrow', 'A young couple trying for a baby move into a fancy apartment surrounded by peculiar neighbors.').
+filme('Planet of the Apes', 'adventure', 1968, 112, 'Franklin J. Schaffner', 'Charlton Heston', 'An astronaut crew crash-lands on a planet in the distant future where intelligent talking apes are the dominant species, and humans are the oppressed and enslaved.').
+filme('The Graduate', 'comedy', 1967, 106, 'Mike Nichols', 'Dustin Hoffman', 'A disillusioned college graduate finds himself torn between his older lover and her daughter.').
+filme('Who''s Afraid of Virginia Woolf?', 'drama', 1966, 131, 'Mike Nichols', 'Elizabeth Taylor', 'A bitter, aging couple, with the help of alcohol, use their young houseguests to fuel anguish and emotional pain towards each other over the course of a distressing night.').
+filme('The Sound of Music', 'biography', 1965, 172, 'Robert Wise', 'Julie Andrews', 'A woman leaves an Austrian convent to become a governess to the children of a Naval officer widower.').
+filme('Doctor Zhivago', 'drama', 1965, 197, 'David Lean', 'Omar Sharif', 'The life of a Russian physician and poet who, although married to another, falls in love with a political activist''s wife and experiences hardship during World War I and then the October Revolution.').
+filme('Per un pugno di dollari', 'action', 1964, 99, 'Sergio Leone', 'Clint Eastwood', 'A wandering gunfighter plays two rival families against each other in a town torn apart by greed, pride, and revenge.').
+filme('8½', 'drama', 1963, 138, 'Federico Fellini', 'Marcello Mastroianni', 'A harried movie director retreats into his memories and fantasies.').
+filme('Vivre sa vie: Film en douze tableaux', 'drama', 1962, 80, 'Jean-Luc Godard', 'Anna Karina', 'Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution.').
+filme('The Hustler', 'drama', 1961, 134, 'Robert Rossen', 'Paul Newman', 'An up-and-coming pool player plays a long-time champion in a single high-stakes match.').
+filme('La dolce vita', 'comedy', 1960, 174, 'Federico Fellini', 'Marcello Mastroianni', 'A series of stories following a week in the life of a philandering paparazzo journalist living in Rome.').
+filme('Rio Bravo', 'action', 1959, 141, 'Howard Hawks', 'John Wayne', 'A small-town sheriff in the American West enlists the help of a cripple, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.').
+filme('Anatomy of a Murder', 'crime', 1959, 161, 'Otto Preminger', 'James Stewart', 'In a murder trial, the defendant says he suffered temporary insanity after the victim raped his wife. What is the truth, and will he win his case?').
+filme('Touch of Evil', 'crime', 1958, 95, 'Orson Welles', 'Charlton Heston', 'A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.').
+filme('Cat on a Hot Tin Roof', 'drama', 1958, 108, 'Richard Brooks', 'Elizabeth Taylor', 'Brick is an alcoholic ex-football player who drinks his days away and resists the affections of his wife. A reunion with his terminal father jogs a host of memories and revelations for both father and son.').
+filme('Sweet Smell of Success', 'drama', 1957, 96, 'Alexander Mackendrick', 'Burt Lancaster', 'Powerful but unethical Broadway columnist J.J. Hunsecker coerces unscrupulous press agent Sidney Falco into breaking up his sister''s romance with a jazz musician.').
+filme('The Killing', 'crime', 1956, 84, 'Stanley Kubrick', 'Sterling Hayden', 'Crook Johnny Clay assembles a five man team to plan and execute a daring race-track robbery.').
+filme('The Night of the Hunter', 'crime', 1955, 92, 'Charles Laughton', 'Robert Mitchum', 'A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid the $10,000 he''d stolen in a robbery.').
+filme('La Strada', 'drama', 1954, 108, 'Federico Fellini', 'Anthony Quinn', 'A care-free girl is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.').
+filme('Les diaboliques', 'crime', 1955, 117, 'Henri-Georges Clouzot', 'Simone Signoret', 'The wife and mistress of a loathed school principal plan to murder him with what they believe is the perfect alibi.').
+filme('Stalag 17', 'comedy', 1953, 120, 'Billy Wilder', 'William Holden', 'When two escaping American World War II prisoners are killed, the German P.O.W. camp barracks black marketeer, J.J. Sefton, is suspected of being an informer.').
+filme('Roman Holiday', 'comedy', 1953, 118, 'William Wyler', 'Gregory Peck', 'A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.').
+filme('A Streetcar Named Desire', 'drama', 1951, 122, 'Elia Kazan', 'Vivien Leigh', 'Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.').
+filme('In a Lonely Place', 'drama', 1950, 94, 'Nicholas Ray', 'Humphrey Bogart', 'A potentially violent screenwriter is a murder suspect until his lovely neighbor clears him. However, she soon starts to have her doubts.').
+filme('Kind Hearts and Coronets', 'comedy', 1949, 106, 'Robert Hamer', 'Dennis Price', 'A distant poor relative of the Duke D''Ascoyne plots to inherit the title by murdering the eight other heirs who stand ahead of him in the line of succession.').
+filme('Rope', 'crime', 1948, 80, 'Alfred Hitchcock', 'James Stewart', 'Two men attempt to prove they committed the perfect crime by hosting a dinner party after strangling their former classmate to death.').
+filme('Out of the Past', 'crime', 1947, 97, 'Jacques Tourneur', 'Robert Mitchum', 'A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses and duplicitous dames.').
+filme('Brief Encounter', 'drama', 1945, 86, 'David Lean', 'Celia Johnson', 'Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.').
+filme('Laura', 'drama', 1944, 88, 'Otto Preminger', 'Gene Tierney', 'A police detective falls in love with the woman whose murder he is investigating.').
+filme('The Best Years of Our Lives', 'drama', 1946, 170, 'William Wyler', 'Myrna Loy', 'Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.').
+filme('Arsenic and Old Lace', 'comedy', 1942, 118, 'Frank Capra', 'Cary Grant', 'A writer of books on the futility of marriage risks his reputation when he decides to get married. Things get even more complicated when he learns on his wedding day that his beloved maiden aunts are habitual murderers.').
+filme('The Maltese Falcon', 'film-noir', 1941, 100, 'John Huston', 'Humphrey Bogart', 'A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.').
+filme('The Grapes of Wrath', 'drama', 1940, 129, 'John Ford', 'Henry Fonda', 'A poor Midwest family is forced off their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.').
+filme('The Wizard of Oz', 'adventure', 1939, 102, 'Victor Fleming', 'George Cukor', 'Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who can help her return home to Kansas and help her friends as well.').
+filme('La règle du jeu', 'comedy', 1939, 110, 'Jean Renoir', 'Marcel Dalio', 'A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau.').
+filme('The Thin Man', 'comedy', 1934, 91, 'W.S. Van Dyke', 'William Powell', 'Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.').
+filme('All Quiet on the Western Front', 'drama', 1930, 152, 'Lewis Milestone', 'Lew Ayres', 'A German youth eagerly enters World War I, but his enthusiasm wanes as he gets a firsthand view of the horror.').
+filme('Bronenosets Potemkin', 'drama', 1925, 75, 'Sergei M. Eisenstein', 'Aleksandr Antonov', 'In the midst of the Russian Revolution of 1905, the crew of the battleship Potemkin mutiny against the brutal, tyrannical regime of the vessel''s officers. The resulting street demonstration in Odessa brings on a police massacre.').
+filme('Knives Out', 'comedy', 2019, 130, 'Rian Johnson', 'Daniel Craig', 'A detective investigates the death of a patriarch of an eccentric, combative family.').
+filme('Dil Bechara', 'comedy', 2020, 101, 'Mukesh Chhabra', 'Sushant Singh Rajput', 'The emotional journey of two hopelessly in love youngsters, a young girl, Kizie, suffering from cancer, and a boy, Manny, whom she meets at a support group.').
+filme('Manbiki kazoku', 'crime', 2018, 121, 'Hirokazu Koreeda', 'Lily Franky', 'A family of small-time crooks take in a child they find outside in the cold.').
+filme('Marriage Story', 'comedy', 2019, 137, 'Noah Baumbach', 'Adam Driver', 'Noah Baumbach''s incisive and compassionate look at a marriage breaking up and a family staying together.').
+filme('Call Me by Your Name', 'drama', 2017, 132, 'Luca Guadagnino', 'Armie Hammer', 'In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father''s research assistant.').
+filme('I, Daniel Blake', 'drama', 2016, 100, 'Ken Loach', 'Laura Obiols', 'After having suffered a heart-attack, a 59-year-old carpenter must fight the bureaucratic forces of the system in order to receive Employment and Support Allowance.').
+filme('Isle of Dogs', 'animation', 2018, 101, 'Wes Anderson', 'Bryan Cranston', 'Set in Japan, Isle of Dogs follows a boy''s odyssey in search of his lost dog.').
+filme('Hunt for the Wilderpeople', 'adventure', 2016, 101, 'Taika Waititi', 'Sam Neill', 'A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.').
+filme('Captain Fantastic', 'comedy', 2016, 118, 'Matt Ross', 'Viggo Mortensen', 'In the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, challenging his idea of what it means to be a parent.').
+filme('Sing Street', 'comedy', 2016, 106, 'John Carney', 'Ferdia Walsh-Peelo', 'A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.').
+filme('Thor: Ragnarok', 'action', 2017, 130, 'Taika Waititi', 'Chris Hemsworth', 'Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.').
+filme('Nightcrawler', 'crime', 2014, 117, 'Dan Gilroy', 'Jake Gyllenhaal', 'When Louis Bloom, a con man desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story.').
+filme('Jojo Rabbit', 'comedy', 2019, 108, 'Taika Waititi', 'Roman Griffin Davis', 'A young boy in Hitler''s army finds out his mother is hiding a Jewish girl in their home.').
+filme('Arrival', 'drama', 2016, 116, 'Denis Villeneuve', 'Amy Adams', 'A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world.').
+filme('Star Wars: Episode VII - The Force Awakens', 'action', 2015, 138, 'J.J. Abrams', 'Daisy Ridley', 'As a new threat to the galaxy rises, Rey, a desert scavenger, and Finn, an ex-stormtrooper, must join Han Solo and Chewbacca to search for the one hope of restoring peace.').
+filme('Before Midnight', 'drama', 2013, 109, 'Richard Linklater', 'Ethan Hawke', 'We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna.').
+filme('X-Men: Days of Future Past', 'action', 2014, 132, 'Bryan Singer', 'Patrick Stewart', 'The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.').
+filme('Bir Zamanlar Anadolu''da', 'crime', 2011, 157, 'Nuri Bilge Ceylan', 'Muhammet Uzuner', 'A group of men set out in search of a dead body in the Anatolian steppes.').
+filme('The Artist', 'comedy', 2011, 100, 'Michel Hazanavicius', 'Jean Dujardin', 'An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood''s silent era.').
+filme('Edge of Tomorrow', 'action', 2014, 113, 'Doug Liman', 'Tom Cruise', 'A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.').
+filme('Amour', 'drama', 2012, 127, 'Michael Haneke', 'Jean-Louis Trintignant', 'Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple''s bond of love is severely tested.').
+filme('The Irishman', 'biography', 2019, 209, 'Martin Scorsese', 'Robert De Niro', 'An old man recalls his time painting houses for his friend, Jimmy Hoffa, through the 1950-70s.').
+filme('Un prophète', 'crime', 2009, 155, 'Jacques Audiard', 'Tahar Rahim', 'A young Arab man is sent to a French prison.').
+filme('Moon', 'drama', 2009, 97, 'Duncan Jones', 'Sam Rockwell', 'Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet''s power problems.').
+filme('Låt den rätte komma in', 'crime', 2008, 114, 'Tomas Alfredson', 'Kåre Hedebrant', 'Oskar, an overlooked and bullied boy, finds love and revenge through Eli, a beautiful but peculiar girl.').
+filme('District 9', 'action', 2009, 112, 'Neill Blomkamp', 'Sharlto Copley', 'Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.').
+filme('The Wrestler', 'drama', 2008, 109, 'Darren Aronofsky', 'Mickey Rourke', 'A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.').
+filme('Jab We Met', 'comedy', 2007, 138, 'Imtiaz Ali', 'Shahid Kapoor', 'A depressed wealthy businessman finds his life changing after he meets a spunky and care-free young woman.').
+filme('Boyhood', 'drama', 2014, 165, 'Richard Linklater', 'Ellar Coltrane', 'The life of Mason, from early childhood to his arrival at college.').
+filme('4 luni, 3 saptamâni si 2 zile', 'drama', 2007, 113, 'Cristian Mungiu', 'Anamaria Marinca', 'A woman assists her friend in arranging an illegal abortion in 1980s Romania.').
+filme('Star Trek', 'action', 2009, 127, 'J.J. Abrams', 'Chris Pine', 'The brash James T. Kirk tries to live up to his father''s legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time.').
+filme('In Bruges', 'comedy', 2008, 107, 'Martin McDonagh', 'Colin Farrell', 'Guilt-stricken after a job gone wrong, hitman Ray and his partner await orders from their ruthless boss in Bruges, Belgium, the last place in the world Ray wants to be.').
+filme('The Man from Earth', 'drama', 2007, 87, 'Richard Schenkman', 'David Lee Smith', 'An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he has a longer and stranger past than they can imagine.').
+filme('Letters from Iwo Jima', 'action', 2006, 141, 'Clint Eastwood', 'Ken Watanabe', 'The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.').
+filme('The Fall', 'adventure', 2006, 117, 'Tarsem Singh', 'Lee Pace', 'In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story of five mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances.').
+filme('Life of Pi', 'adventure', 2012, 127, 'Ang Lee', 'Suraj Sharma', 'A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.').
+filme('Fantastic Mr. Fox', 'animation', 2009, 87, 'Wes Anderson', 'George Clooney', 'An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers'' retaliation.').
+filme('C.R.A.Z.Y.', 'comedy', 2005, 129, 'Jean-Marc Vallée', 'Michel Côté', 'A young French-Canadian, growing up in the 1960s and 1970s, struggles to reconcile his emerging homosexuality with his father''s conservative values and his own Catholic beliefs.').
+filme('Les choristes', 'drama', 2004, 97, 'Christophe Barratier', 'Gérard Jugnot', 'The new teacher at a severely administered boys'' boarding school works to positively affect the students'' lives through music.').
+filme('Iron Man', 'action', 2008, 126, 'Jon Favreau', 'Robert Downey Jr.', 'After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.').
+filme('Shaun of the Dead', 'comedy', 2004, 99, 'Edgar Wright', 'Simon Pegg', 'A man''s uneventful life is disrupted by the zombie apocalypse.').
+filme('Gegen die Wand', 'drama', 2004, 121, 'Fatih Akin', 'Birol Ünel', 'With the intention to break free from the strict familial restrictions, a suicidal young woman sets up a marriage of convenience with a forty-year-old addict, an act that will lead to an outburst of envious love.').
+filme('Mystic River', 'crime', 2003, 138, 'Clint Eastwood', 'Sean Penn', 'The lives of three men who were childhood friends are shattered when one of them has a family tragedy.').
+filme('Harry Potter and the Prisoner of Azkaban', 'adventure', 2004, 142, 'Alfonso Cuarón', 'Daniel Radcliffe', 'Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.').
+filme('Ying xiong', 'action', 2002, 120, 'Yimou Zhang', 'Jet Li', 'A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.').
+filme('Hable con ella', 'drama', 2002, 112, 'Pedro Almodóvar', 'Rosario Flores', 'Two men share an odd friendship while they care for two women who are both in deep comas.').
+filme('No Man''s Land', 'comedy', 2001, 98, 'Danis Tanovic', 'Branko Djuric', 'Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man''s land, whilst a third soldier becomes a living booby trap.').
+filme('Cowboy Bebop: Tengoku no tobira', 'animation', 2001, 115, 'Shin''ichirô Watanabe', 'Tensai Okamura', 'A terrorist explosion releases a deadly virus on the masses, and it''s up the bounty-hunting Bebop crew to catch the cold-blooded culprit.').
+filme('The Bourne Identity', 'action', 2002, 119, 'Doug Liman', 'Franka Potente', 'A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.').
+filme('Nueve reinas', 'crime', 2000, 114, 'Fabián Bielinsky', 'Ricardo Darín', 'Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps (the "nine queens").').
+filme('Children of Men', 'adventure', 2006, 109, 'Alfonso Cuarón', 'Julianne Moore', 'In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.').
+filme('Almost Famous', 'adventure', 2000, 122, 'Cameron Crowe', 'Billy Crudup', 'A high-school boy is given the chance to write a story for Rolling Stone Magazine about an up-and-coming rock band as he accompanies them on their concert tour.').
+filme('Mulholland Dr.', 'drama', 2001, 147, 'David Lynch', 'Naomi Watts', 'After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.').
+filme('Toy Story 2', 'animation', 1999, 92, 'John Lasseter', 'Ash Brannon', 'When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.').
+filme('Boogie Nights', 'drama', 1997, 155, 'Paul Thomas Anderson', 'Mark Wahlberg', 'Back when sex was safe, pleasure was a business and business was booming, an idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent.').
+filme('Mimi wo sumaseba', 'animation', 1995, 111, 'Yoshifumi Kondô', 'Yoko Honna', 'A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses.').
+filme('Once Were Warriors', 'crime', 1994, 102, 'Lee Tamahori', 'Rena Owen', 'A family descended from Maori warriors is bedeviled by a violent father and the societal problems of being treated as outcasts.').
+filme('True Romance', 'crime', 1993, 119, 'Tony Scott', 'Christian Slater', 'In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.').
+filme('Trois couleurs: Bleu', 'drama', 1993, 94, 'Krzysztof Kieslowski', 'Juliette Binoche', 'A woman struggles to find a way to live her life after the death of her husband and child.').
+filme('Jûbê ninpûchô', 'animation', 1993, 94, 'Yoshiaki Kawajiri', 'Kôichi Yamadera', 'A vagabond swordsman is aided by a beautiful ninja girl and a crafty spy in confronting a demonic clan of killers - with a ghost from his past as their leader - who are bent on overthrowing the Tokugawa Shogunate.').
+filme('Carlito''s Way', 'crime', 1993, 144, 'Brian De Palma', 'Al Pacino', 'A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.').
+filme('Edward Scissorhands', 'drama', 1990, 105, 'Tim Burton', 'Johnny Depp', 'An artificial man, who was incompletely constructed and has scissors for hands, leads a solitary life. Then one day, a suburban lady meets him and introduces him to her world.').
+filme('My Left Foot: The Story of Christy Brown', 'biography', 1989, 103, 'Jim Sheridan', 'Daniel Day-Lewis', 'Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.').
+filme('Crimes and Misdemeanors', 'comedy', 1989, 104, 'Woody Allen', 'Martin Landau', 'An ophthalmologist''s mistress threatens to reveal their affair to his wife while a married documentary filmmaker is infatuated with another woman.').
+filme('The Untouchables', 'crime', 1987, 119, 'Brian De Palma', 'Kevin Costner', 'During the era of Prohibition in the United States, Federal Agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone and, because of rampant corruption, assembles a small, hand-picked team to help him.').
+filme('Hannah and Her Sisters', 'comedy', 1986, 107, 'Woody Allen', 'Mia Farrow', 'Between two Thanksgivings two years apart, Hannah''s husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.').
+filme('Brazil', 'drama', 1985, 132, 'Terry Gilliam', 'Jonathan Pryce', 'A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.').
+filme('This Is Spinal Tap', 'comedy', 1984, 82, 'Rob Reiner', 'Rob Reiner', 'Spinal Tap, one of England''s loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.').
+filme('A Christmas Story', 'comedy', 1983, 93, 'Bob Clark', 'Peter Billingsley', 'In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the perfect Christmas gift.').
+filme('The Blues Brothers', 'action', 1980, 133, 'John Landis', 'John Belushi', 'Jake Blues, just released from prison, puts together his old band to save the Catholic home where he and his brother Elwood were raised.').
+filme('Manhattan', 'comedy', 1979, 96, 'Woody Allen', 'Woody Allen', 'The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend''s mistress.').
+filme('All That Jazz', 'drama', 1979, 123, 'Bob Fosse', 'Roy Scheider', 'Director/choreographer Bob Fosse tells his own life story as he details the sordid career of Joe Gideon, a womanizing, drug-using dancer.').
+filme('Dawn of the Dead', 'action', 1978, 127, 'George A. Romero', 'David Emge', 'Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.').
+filme('All the President''s Men', 'biography', 1976, 138, 'Alan J. Pakula', 'Dustin Hoffman', '"The Washington Post" reporters Bob Woodward and Carl Bernstein uncover the details of the Watergate scandal that leads to President Richard Nixon''s resignation.').
+filme('La montaña sagrada', 'adventure', 1973, 114, 'Alejandro Jodorowsky', 'Alejandro Jodorowsky', 'In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.').
+filme('Amarcord', 'comedy', 1973, 123, 'Federico Fellini', 'Magali Noël', 'A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.').
+filme('Le charme discret de la bourgeoisie', 'comedy', 1972, 102, 'Luis Buñuel', 'Fernando Rey', 'A surreal, virtually plotless series of dreams centered around six middle-class people and their consistently interrupted attempts to have a meal together.').
+filme('Aguirre, der Zorn Gottes', 'action', 1972, 95, 'Werner Herzog', 'Klaus Kinski', 'In the 16th century, the ruthless and insane Don Lope de Aguirre leads a Spanish expedition in search of El Dorado.').
+filme('Harold and Maude', 'comedy', 1971, 91, 'Hal Ashby', 'Ruth Gordon', 'Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.').
+filme('Patton', 'biography', 1970, 172, 'Franklin J. Schaffner', 'George C. Scott', 'The World War II phase of the career of controversial American general George S. Patton.').
+filme('The Wild Bunch', 'action', 1969, 145, 'Sam Peckinpah', 'William Holden', 'An aging group of outlaws look for one last big score as the "traditional" American West is disappearing around them.').
+filme('Night of the Living Dead', 'horror', 1968, 96, 'George A. Romero', 'Duane Jones', 'A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the East Coast of the United States.').
+filme('The Lion in Winter', 'biography', 1968, 134, 'Anthony Harvey', 'Peter O''Toole', '1183 A.D.: King Henry II''s three sons all want to inherit the throne, but he won''t commit to a choice. They and his wife variously plot to force him.').
+filme('In the Heat of the Night', 'crime', 1967, 110, 'Norman Jewison', 'Sidney Poitier', 'A black police detective is asked to investigate a murder in a racially hostile southern town.').
+filme('Charade', 'comedy', 1963, 113, 'Stanley Donen', 'Cary Grant', 'Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?').
+filme('The Manchurian Candidate', 'drama', 1962, 126, 'John Frankenheimer', 'Frank Sinatra', 'A former prisoner of war is brainwashed as an unwitting assassin for an international Communist conspiracy.').
+filme('Spartacus', 'adventure', 1960, 197, 'Stanley Kubrick', 'Kirk Douglas', 'The slave Spartacus leads a violent revolt against the decadent Roman Republic.').
+filme('L''avventura', 'drama', 1960, 144, 'Michelangelo Antonioni', 'Gabriele Ferzetti', 'A woman disappears during a Mediterranean boating trip. During the search, her lover and her best friend become attracted to each other.').
+filme('Hiroshima mon amour', 'drama', 1959, 90, 'Alain Resnais', 'Emmanuelle Riva', 'A French actress filming an anti-war film in Hiroshima has an affair with a married Japanese architect as they share their differing perspectives on war.').
+filme('The Ten Commandments', 'adventure', 1956, 220, 'Cecil B. DeMille', 'Charlton Heston', 'Moses, an Egyptian Prince, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people.').
+filme('The Searchers', 'adventure', 1956, 119, 'John Ford', 'John Wayne', 'An American Civil War veteran embarks on a journey to rescue his niece from the Comanches.').
+filme('East of Eden', 'drama', 1955, 118, 'Elia Kazan', 'James Dean', 'Two brothers struggle to maintain their strict, Bible-toting father''s favor.').
+filme('High Noon', 'drama', 1952, 85, 'Fred Zinnemann', 'Gary Cooper', 'A town Marshal, despite the disagreements of his newlywed bride and the townspeople around him, must face a gang of deadly killers alone at high noon when the gang leader, an outlaw he sent up years ago, arrives on the noon train.').
+filme('Strangers on a Train', 'crime', 1951, 101, 'Alfred Hitchcock', 'Farley Granger', 'A psychopath forces a tennis star to comply with his theory that two strangers can get away with murder.').
+filme('Harvey', 'comedy', 1950, 104, 'Henry Koster', 'James Stewart', 'Due to his insistence that he has an invisible six foot-tall rabbit for a best friend, a whimsical middle-aged man is thought by his family to be insane - but he may be wiser than anyone knows.').
+filme('Miracle on 34th Street', 'comedy', 1947, 96, 'George Seaton', 'Edmund Gwenn', 'When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.').
+filme('Notorious', 'drama', 1946, 102, 'Alfred Hitchcock', 'Cary Grant', 'A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?').
+filme('The Big Sleep', 'crime', 1946, 114, 'Howard Hawks', 'Humphrey Bogart', 'Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he''s seen murder, blackmail, and what might be love.').
+filme('The Lost Weekend', 'drama', 1945, 101, 'Billy Wilder', 'Ray Milland', 'The desperate life of a chronic alcoholic is followed through a four-day drinking bout.').
+filme('The Philadelphia Story', 'comedy', 1940, 112, 'George Cukor', 'Cary Grant', 'When a rich woman''s ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself.').
+filme('His Girl Friday', 'comedy', 1940, 92, 'Howard Hawks', 'Cary Grant', 'A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.').
+filme('The Adventures of Robin Hood', 'action', 1938, 102, 'Michael Curtiz', 'William Keighley', 'When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard''s absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.').
+filme('A Night at the Opera', 'comedy', 1935, 96, 'Sam Wood', 'Edmund Goulding', 'A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.').
+filme('King Kong', 'adventure', 1933, 100, 'Merian C. Cooper', 'Ernest B. Schoedsack', 'A film crew goes to a tropical island for an exotic location shoot and discovers a colossal ape who takes a shine to their female blonde star. He is then captured and brought back to New York City for public exhibition.').
+filme('Freaks', 'drama', 1932, 64, 'Tod Browning', 'Wallace Ford', 'A circus'' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.').
+filme('Nosferatu', 'fantasy', 1922, 94, 'F.W. Murnau', 'Max Schreck', 'Vampire Count Orlok expresses interest in a new residence and real estate agent Hutter''s wife.').
+filme('The Gentlemen', 'action', 2019, 113, 'Guy Ritchie', 'Matthew McConaughey', 'An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.').
+filme('Raazi', 'action', 2018, 138, 'Meghna Gulzar', 'Alia Bhatt', 'A Kashmiri woman agrees to marry a Pakistani army officer in order to spy on Pakistan during the Indo-Pakistan War of 1971.').
+filme('Sound of Metal', 'drama', 2019, 120, 'Darius Marder', 'Riz Ahmed', 'A heavy-metal drummer''s life is thrown into freefall when he begins to lose his hearing.').
+filme('Forushande', 'drama', 2016, 124, 'Asghar Farhadi', 'Shahab Hosseini', 'While both participating in a production of "Death of a Salesman," a teacher''s wife is assaulted in her new home, which leaves him determined to find the perpetrator over his wife''s traumatized objections.').
+filme('Dunkirk', 'action', 2017, 106, 'Christopher Nolan', 'Fionn Whitehead', 'Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.').
+filme('Perfetti sconosciuti', 'comedy', 2016, 96, 'Paolo Genovese', 'Giuseppe Battiston', 'Seven long-time friends get together for a dinner. When they decide to share with each other the content of every text message, email and phone call they receive, many secrets start to unveil and the equilibrium trembles.').
+filme('Hidden Figures', 'biography', 2016, 127, 'Theodore Melfi', 'Taraji P. Henson', 'The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.').
+filme('Paddington 2', 'adventure', 2017, 103, 'Paul King', 'Ben Whishaw', 'Paddington (Ben Whishaw), now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy''s (Imelda Staunton''s) 100th birthday, only for the gift to be stolen.').
+filme('Udta Punjab', 'action', 2016, 148, 'Abhishek Chaubey', 'Shahid Kapoor', 'A story that revolves around drug abuse in the affluent north Indian State of Punjab and how the youth there have succumbed to it en-masse resulting in a socio-economic decline.').
+filme('Kubo and the Two Strings', 'animation', 2016, 101, 'Travis Knight', 'Charlize Theron', 'A young boy named Kubo must locate a magical suit of armour worn by his late father in order to defeat a vengeful spirit from the past.').
+filme('M.S. Dhoni: The Untold Story', 'biography', 2016, 184, 'Neeraj Pandey', 'Sushant Singh Rajput', 'The untold story of Mahendra Singh Dhoni''s journey from ticket collector to trophy collector - the world-cup-winning captain of the Indian Cricket Team.').
+filme('Manchester by the Sea', 'drama', 2016, 137, 'Kenneth Lonergan', 'Casey Affleck', 'A depressed uncle is asked to take care of his teenage nephew after the boy''s father dies.').
+filme('Under sandet', 'drama', 2015, 100, 'Martin Zandvliet', 'Roland Møller', 'In post-World War II Denmark, a group of young German POWs are forced to clear a beach of thousands of land mines under the watch of a Danish Sergeant who slowly learns to appreciate their plight.').
+filme('Rogue One', 'action', 2016, 133, 'Gareth Edwards', 'Felicity Jones', 'The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the plans for the Death Star.').
+filme('Captain America: Civil War', 'action', 2016, 147, 'Anthony Russo', 'Joe Russo', 'Political involvement in the Avengers'' affairs causes a rift between Captain America and Iron Man.').
+filme('The Hateful Eight', 'crime', 2015, 168, 'Quentin Tarantino', 'Samuel L. Jackson', 'In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.').
+filme('Little Women', 'drama', 2019, 135, 'Greta Gerwig', 'Saoirse Ronan', 'Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms.').
+filme('Loving Vincent', 'animation', 2017, 94, 'Dorota Kobiela', 'Hugh Welchman', 'In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh (Robert Gulaczyk) to deliver the troubled artist''s final letter and ends up investigating his final days there.').
+filme('Pride', 'biography', 2014, 119, 'Matthew Warchus', 'Bill Nighy', 'U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.').
+filme('Le passé', 'drama', 2013, 130, 'Asghar Farhadi', 'Bérénice Bejo', 'An Iranian man deserts his French wife and her two children to return to his homeland. Meanwhile, his wife starts up a new relationship, a reality her husband confronts upon his wife''s request for a divorce.').
+filme('La grande bellezza', 'drama', 2013, 141, 'Paolo Sorrentino', 'Toni Servillo', 'Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty.').
+filme('The Lunchbox', 'drama', 2013, 104, 'Ritesh Batra', 'Irrfan Khan', 'A mistaken delivery in Mumbai''s famously efficient lunchbox delivery system connects a young housewife to an older man in the dusk of his life as they build a fantasy world together through notes in the lunchbox.').
+filme('Vicky Donor', 'comedy', 2012, 126, 'Shoojit Sircar', 'Ayushmann Khurrana', 'A man is brought in by an infertility doctor to supply him with his sperm, where he becomes the biggest sperm donor for his clinic.').
+filme('Big Hero 6', 'animation', 2014, 102, 'Don Hall', 'Chris Williams', 'A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes.').
+filme('About Time', 'comedy', 2013, 123, 'Richard Curtis', 'Domhnall Gleeson', 'At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.').
+filme('English Vinglish', 'comedy', 2012, 134, 'Gauri Shinde', 'Sridevi', 'A quiet, sweet tempered housewife endures small slights from her well-educated husband and daughter every day because of her inability to speak and understand English.').
+filme('Kaze tachinu', 'animation', 2013, 126, 'Hayao Miyazaki', 'Hideaki Anno', 'A look at the life of Jiro Horikoshi, the man who designed Japanese fighter planes during World War II.').
+filme('Toy Story 4', 'animation', 2019, 100, 'Josh Cooley', 'Tom Hanks', 'When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.').
+filme('La migliore offerta', 'crime', 2013, 131, 'Giuseppe Tornatore', 'Geoffrey Rush', 'A lonely art expert working for a mysterious and reclusive heiress finds not only her art worth examining.').
+filme('Moonrise Kingdom', 'comedy', 2012, 94, 'Wes Anderson', 'Jared Gilman', 'A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.').
+filme('How to Train Your Dragon 2', 'animation', 2014, 102, 'Dean DeBlois', 'Jay Baruchel', 'When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.').
+filme('The Big Short', 'biography', 2015, 130, 'Adam McKay', 'Christian Bale', 'In 2006-2007 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is.').
+filme('Kokuhaku', 'drama', 2010, 106, 'Tetsuya Nakashima', 'Takako Matsu', 'A psychological thriller of a grieving mother turned cold-blooded avenger with a twisty master plan to pay back those who were responsible for her daughter''s death.').
+filme('Ang-ma-reul bo-at-da', 'action', 2010, 144, 'Jee-woon Kim', 'Lee Byung-Hun', 'A secret agent exacts revenge on a serial killer through a series of captures and releases.').
+filme('The Girl with the Dragon Tattoo', 'crime', 2011, 158, 'David Fincher', 'Daniel Craig', 'Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker.').
+filme('Captain Phillips', 'adventure', 2013, 134, 'Paul Greengrass', 'Tom Hanks', 'The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.').
+filme('Ajeossi', 'action', 2010, 119, 'Jeong-beom Lee', 'Won Bin', 'A quiet pawnshop keeper with a violent past takes on a drug-and-organ trafficking ring in hope of saving the child who is his only friend.').
+filme('Straight Outta Compton', 'biography', 2015, 147, 'F. Gary Gray', 'O''Shea Jackson Jr.', 'The rap group NWA emerges from the mean streets of Compton in Los Angeles, California, in the mid-1980s and revolutionizes Hip Hop culture with their music and tales about life in the hood.').
+filme('Madeo', 'crime', 2009, 129, 'Bong Joon Ho', 'Hye-ja Kim', 'A mother desperately searches for the killer who framed her son for a girl''s horrific murder.').
+filme('Chugyeokja', 'action', 2008, 125, 'Hong-jin Na', 'Kim Yoon-seok', 'A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.').
+filme('The Hobbit: The Desolation of Smaug', 'adventure', 2013, 161, 'Peter Jackson', 'Ian McKellen', 'The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.').
+filme('Das weiße Band - Eine deutsche Kindergeschichte', 'drama', 2009, 144, 'Michael Haneke', 'Christian Friedel', 'Strange events happen in a small village in the north of Germany during the years before World War I, which seem to be ritual punishment. Who is responsible?').
+filme('Män som hatar kvinnor', 'crime', 2009, 152, 'Niels Arden Oplev', 'Michael Nyqvist', 'A journalist is aided by a young female hacker in his search for the killer of a woman who has been dead for forty years.').
+filme('The Trial of the Chicago 7', 'drama', 2020, 129, 'Aaron Sorkin', 'Eddie Redmayne', 'The story of 7 people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention in Chicago, Illinois.').
+filme('Druk', 'comedy', 2020, 117, 'Thomas Vinterberg', 'Mads Mikkelsen', 'Four friends, all high school teachers, test a theory that they will improve their lives by maintaining a constant level of alcohol in their blood.').
+filme('The Fighter', 'biography', 2010, 116, 'David O. Russell', 'Mark Wahlberg', 'Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness.').
+filme('Taken', 'action', 2008, 90, 'Pierre Morel', 'Liam Neeson', 'A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris.').
+filme('The Boy in the Striped Pyjamas', 'drama', 2008, 94, 'Mark Herman', 'Asa Butterfield', 'Through the innocent eyes of Bruno, the eight-year-old son of the commandant at a German concentration camp, a forbidden friendship with a Jewish boy on the other side of the camp fence has startling and unexpected consequences.').
+filme('Once', 'drama', 2007, 86, 'John Carney', 'Glen Hansard', 'A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story.').
+filme('The Hobbit: An Unexpected Journey', 'adventure', 2012, 169, 'Peter Jackson', 'Martin Freeman', 'A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.').
+filme('Auf der anderen Seite', 'drama', 2007, 122, 'Fatih Akin', 'Baki Davrak', 'A Turkish man travels to Istanbul to find the daughter of his father''s former girlfriend.').
+filme('Atonement', 'drama', 2007, 123, 'Joe Wright', 'Keira Knightley', 'Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister''s lover of a crime he did not commit.').
+filme('Drive', 'crime', 2011, 100, 'Nicolas Winding Refn', 'Ryan Gosling', 'A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.').
+filme('American Gangster', 'biography', 2007, 157, 'Ridley Scott', 'Denzel Washington', 'An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas, whose real life inspired this partly biographical film.').
+filme('Avatar', 'action', 2009, 162, 'James Cameron', 'Sam Worthington', 'A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.').
+filme('Mr. Nobody', 'drama', 2009, 141, 'Jaco Van Dormael', 'Jared Leto', 'A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn''t choose, anything is possible.').
+filme('Apocalypto', 'action', 2006, 139, 'Mel Gibson', 'Gerardo Taracena', 'As the Mayan kingdom faces its decline, a young man is taken on a perilous journey to a world ruled by fear and oppression.').
+filme('Little Miss Sunshine', 'comedy', 2006, 101, 'Jonathan Dayton', 'Valerie Faris', 'A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.').
+filme('Hot Fuzz', 'action', 2007, 121, 'Edgar Wright', 'Simon Pegg', 'A skilled London police officer is transferred to a small town with a dark secret.').
+filme('The Curious Case of Benjamin Button', 'drama', 2008, 166, 'David Fincher', 'Brad Pitt', 'Tells the story of Benjamin Button, a man who starts aging backwards with consequences.').
+filme('Veer-Zaara', 'drama', 2004, 192, 'Yash Chopra', 'Shah Rukh Khan', 'Veer-Zaara is a saga of love, separation, courage and sacrifice. A love story that is an inspiration and will remain a legend forever.').
+filme('Adams æbler', 'comedy', 2005, 94, 'Anders Thomas Jensen', 'Ulrich Thomsen', 'A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.').
+filme('Pride & Prejudice', 'drama', 2005, 129, 'Joe Wright', 'Keira Knightley', 'Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?').
+filme('The World''s Fastest Indian', 'biography', 2005, 127, 'Roger Donaldson', 'Anthony Hopkins', 'The story of New Zealander Burt Munro, who spent years rebuilding a 1920 Indian motorcycle, which helped him set the land speed world record at Utah''s Bonneville Salt Flats in 1967.').
+filme('Tôkyô goddofâzâzu', 'animation', 2003, 90, 'Satoshi Kon', 'Shôgo Furuya', 'On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents.').
+filme('Serenity', 'action', 2005, 119, 'Joss Whedon', 'Nathan Fillion', 'The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.').
+filme('Walk the Line', 'biography', 2005, 136, 'James Mangold', 'Joaquin Phoenix', 'A chronicle of country music legend Johnny Cash''s life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.').
+filme('Ondskan', 'drama', 2003, 113, 'Mikael Håfström', 'Andreas Wilson', 'A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.').
+filme('The Notebook', 'drama', 2004, 123, 'Nick Cassavetes', 'Gena Rowlands', 'A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom, but they are soon separated because of their social differences.').
+filme('Diarios de motocicleta', 'adventure', 2004, 126, 'Walter Salles', 'Gael García Bernal', 'The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life''s calling.').
+filme('Lilja 4-ever', 'crime', 2002, 109, 'Lukas Moodysson', 'Oksana Akinshina', 'Sixteen-year-old Lilja and her only friend, the young boy Volodja, live in Russia, fantasizing about a better life. One day, Lilja falls in love with Andrej, who is going to Sweden, and invites Lilja to come along and start a new life.').
+filme('Les triplettes de Belleville', 'animation', 2003, 80, 'Sylvain Chomet', 'Michèle Caucheteux', 'When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters--an aged song-and-dance team from the days of Fred Astaire--to rescue him.').
+filme('Gongdong gyeongbi guyeok JSA', 'action', 2000, 110, 'Chan-wook Park', 'Lee Yeong-ae', 'After a shooting incident at the North/South Korean border/DMZ leaves 2 North Korean soldiers dead, a neutral Swiss/Swedish team investigates, what actually happened.').
+filme('The Count of Monte Cristo', 'action', 2002, 131, 'Kevin Reynolds', 'Jim Caviezel', 'A young man, falsely imprisoned by his jealous "friend", escapes and uses a hidden treasure to exact his revenge.').
+filme('Waking Life', 'animation', 2001, 99, 'Richard Linklater', 'Ethan Hawke', 'A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.').
+filme('Remember the Titans', 'biography', 2000, 113, 'Boaz Yakin', 'Denzel Washington', 'The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.').
+filme('Wo hu cang long', 'action', 2000, 120, 'Ang Lee', 'Yun-Fat Chow', 'A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation.').
+filme('Todo sobre mi madre', 'drama', 1999, 101, 'Pedro Almodóvar', 'Cecilia Roth', 'Young Esteban wants to become a writer and also to discover the identity of his second mother, a trans woman, carefully concealed by his mother Manuela.').
+filme('Cast Away', 'adventure', 2000, 143, 'Robert Zemeckis', 'Tom Hanks', 'A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.').
+filme('The Boondock Saints', 'action', 1999, 108, 'Troy Duffy', 'Willem Dafoe', 'Two Irish Catholic brothers become vigilantes and wipe out Boston''s criminal underworld in the name of God.').
+filme('The Insider', 'biography', 1999, 157, 'Michael Mann', 'Russell Crowe', 'A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes exposé on Big Tobacco.').
+filme('October Sky', 'biography', 1999, 108, 'Joe Johnston', 'Jake Gyllenhaal', 'The true story of Homer Hickam, a coal miner''s son who was inspired by the first Sputnik launch to take up rocketry against his father''s wishes.').
+filme('Shrek', 'animation', 2001, 90, 'Andrew Adamson', 'Vicky Jenson', 'A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.').
+filme('Titanic', 'drama', 1997, 194, 'James Cameron', 'Leonardo DiCaprio', 'A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.').
+filme('Hana-bi', 'crime', 1997, 103, 'Takeshi Kitano', 'Takeshi Kitano', 'Nishi leaves the police in the face of harrowing personal and professional difficulties. Spiraling into depression, he makes questionable decisions.').
+filme('Gattaca', 'drama', 1997, 106, 'Andrew Niccol', 'Ethan Hawke', 'A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.').
+filme('The Game', 'action', 1997, 129, 'David Fincher', 'Michael Douglas', 'After a wealthy banker is given an opportunity to participate in a mysterious game, his life is turned upside down when he becomes unable to distinguish between the game and reality.').
+filme('Breaking the Waves', 'drama', 1996, 159, 'Lars von Trier', 'Emily Watson', 'Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.').
+filme('Ed Wood', 'biography', 1994, 127, 'Tim Burton', 'Johnny Depp', 'Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams, despite his lack of talent.').
+filme('What''s Eating Gilbert Grape', 'drama', 1993, 118, 'Lasse Hallström', 'Johnny Depp', 'A young man in a small Midwestern town struggles to care for his mentally-disabled younger brother and morbidly obese mother while attempting to pursue his own happiness.').
+filme('Tombstone', 'action', 1993, 130, 'George P. Cosmatos', 'Kevin Jarre', 'A successful lawman''s plans to retire anonymously in Tombstone, Arizona are disrupted by the kind of outlaws he was famous for eliminating.').
+filme('The Sandlot', 'comedy', 1993, 101, 'David Mickey Evans', 'Tom Guiry', 'In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.').
+filme('The Remains of the Day', 'drama', 1993, 134, 'James Ivory', 'Anthony Hopkins', 'A butler who sacrificed body and soul to service in the years leading up to World War II realizes too late how misguided his loyalty was to his lordly employer.').
+filme('Naked', 'comedy', 1993, 132, 'Mike Leigh', 'David Thewlis', 'Parallel tales of two sexually obsessed men, one hurting and annoying women physically and mentally, one wandering around the city talking to strangers and experiencing dimensions of life.').
+filme('The Fugitive', 'action', 1993, 130, 'Andrew Davis', 'Harrison Ford', 'Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.').
+filme('A Bronx Tale', 'crime', 1993, 121, 'Robert De Niro', 'Robert De Niro', 'A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.').
+filme('Batman: Mask of the Phantasm', 'animation', 1993, 76, 'Kevin Altieri', 'Boyd Kirkland', 'Batman is wrongly implicated in a series of murders of mob bosses actually done by a new vigilante assassin.').
+filme('Lat sau san taam', 'action', 1992, 128, 'John Woo', 'Yun-Fat Chow', 'A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew.').
+filme('Night on Earth', 'comedy', 1991, 129, 'Jim Jarmusch', 'Winona Ryder', 'An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.').
+filme('La double vie de Véronique', 'drama', 1991, 98, 'Krzysztof Kieslowski', 'Irène Jacob', 'Two parallel stories about two identical women; one living in Poland, the other in France. They don''t know each other, but their lives are nevertheless profoundly connected.').
+filme('Boyz n the Hood', 'crime', 1991, 112, 'John Singleton', 'Cuba Gooding Jr.', 'Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects.').
+filme('Misery', 'drama', 1990, 107, 'Rob Reiner', 'James Caan', 'After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.').
+filme('Awakenings', 'biography', 1990, 121, 'Penny Marshall', 'Robert De Niro', 'The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them.').
+filme('Majo no takkyûbin', 'animation', 1989, 103, 'Hayao Miyazaki', 'Kirsten Dunst', 'A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.').
+filme('Glory', 'biography', 1989, 122, 'Edward Zwick', 'Matthew Broderick', 'Robert Gould Shaw leads the U.S. Civil War''s first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.').
+filme('Dip huet seung hung', 'action', 1989, 111, 'John Woo', 'Yun-Fat Chow', 'A disillusioned assassin accepts one last hit in hopes of using his earnings to restore vision to a singer he accidentally blinded.').
+filme('Back to the Future Part II', 'adventure', 1989, 108, 'Robert Zemeckis', 'Michael J. Fox', 'After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip.').
+filme('Mississippi Burning', 'crime', 1988, 128, 'Alan Parker', 'Gene Hackman', 'Two F.B.I. Agents with wildly different styles arrive in Mississippi to investigate the disappearance of some civil rights activists.').
+filme('Predator', 'action', 1987, 107, 'John McTiernan', 'Arnold Schwarzenegger', 'A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.').
+filme('Evil Dead II', 'action', 1987, 84, 'Sam Raimi', 'Bruce Campbell', 'The lone survivor of an onslaught of flesh-possessing spirits holes up in a cabin with a group of strangers while the demons continue their attack.').
+filme('Ferris Bueller''s Day Off', 'comedy', 1986, 103, 'John Hughes', 'Matthew Broderick', 'A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.').
+filme('Down by Law', 'comedy', 1986, 107, 'Jim Jarmusch', 'Tom Waits', 'Two men are framed and sent to jail, where they meet a murderer who helps them escape and leave the state.').
+filme('The Goonies', 'adventure', 1985, 114, 'Richard Donner', 'Sean Astin', 'A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate''s long-lost treasure.').
+filme('The Color Purple', 'drama', 1985, 154, 'Steven Spielberg', 'Danny Glover', 'A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.').
+filme('The Breakfast Club', 'comedy', 1985, 97, 'John Hughes', 'Emilio Estevez', 'Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.').
+filme('The Killing Fields', 'biography', 1984, 141, 'Roland Joffé', 'Sam Waterston', 'A journalist is trapped in Cambodia during tyrant Pol Pot''s bloody ''Year Zero'' cleansing campaign, which claimed the lives of two million ''undesirable'' civilians.').
+filme('Ghostbusters', 'action', 1984, 105, 'Ivan Reitman', 'Bill Murray', 'Three former parapsychology professors set up shop as a unique ghost removal service.').
+filme('The Right Stuff', 'adventure', 1983, 193, 'Philip Kaufman', 'Sam Shepard', 'The story of the original Mercury 7 astronauts and their macho, seat-of-the-pants approach to the space program.').
+filme('The King of Comedy', 'comedy', 1982, 109, 'Martin Scorsese', 'Robert De Niro', 'Rupert Pupkin is a passionate yet unsuccessful comic who craves nothing more than to be in the spotlight and to achieve this, he stalks and kidnaps his idol to take the spotlight for himself.').
+filme('E.T. the Extra-Terrestrial', 'family', 1982, 115, 'Steven Spielberg', 'Henry Thomas', 'A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.').
+filme('Kramer vs. Kramer', 'drama', 1979, 105, 'Robert Benton', 'Dustin Hoffman', 'Ted Kramer''s wife leaves him, allowing for a lost bond to be rediscovered between Ted and his son, Billy. But a heated custody battle ensues over the divorced couple''s son, deepening the wounds left by the separation.').
+filme('Days of Heaven', 'drama', 1978, 94, 'Terrence Malick', 'Richard Gere', 'A hot-tempered farm laborer convinces the woman he loves to marry their rich but dying boss so that they can have a claim to his fortune.').
+filme('The Outlaw Josey Wales', 'western', 1976, 135, 'Clint Eastwood', 'Clint Eastwood', 'Missouri farmer Josey Wales joins a Confederate guerrilla unit and winds up on the run from the Union soldiers who murdered his family.').
+filme('The Man Who Would Be King', 'adventure', 1975, 129, 'John Huston', 'Sean Connery', 'Two British former soldiers decide to set themselves up as Kings in Kafiristan, a land where no white man has set foot since Alexander the Great.').
+filme('The Conversation', 'drama', 1974, 113, 'Francis Ford Coppola', 'Gene Hackman', 'A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.').
+filme('La planète sauvage', 'animation', 1973, 72, 'René Laloux', 'Barry Bostwick', 'On a faraway planet where blue giants rule, oppressed humanoids rebel against their machine-like leaders.').
+filme('The Day of the Jackal', 'crime', 1973, 143, 'Fred Zinnemann', 'Edward Fox', 'A professional assassin codenamed "Jackal" plots to kill Charles de Gaulle, the President of France.').
+filme('Badlands', 'action', 1973, 94, 'Terrence Malick', 'Martin Sheen', 'An impressionable teenage girl from a dead-end town and her older greaser boyfriend embark on a killing spree in the South Dakota badlands.').
+filme('Cabaret', 'drama', 1972, 124, 'Bob Fosse', 'Liza Minnelli', 'A female girlie club entertainer in Weimar Republic era Berlin romances two men while the Nazi Party rises to power around them.').
+filme('Willy Wonka & the Chocolate Factory', 'family', 1971, 100, 'Mel Stuart', 'Gene Wilder', 'A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka''s mysterious chocolate factory.').
+filme('Midnight Cowboy', 'drama', 1969, 113, 'John Schlesinger', 'Dustin Hoffman', 'A naive hustler travels from Texas to New York City to seek personal fortune, finding a new friend in the process.').
+filme('Wait Until Dark', 'thriller', 1967, 108, 'Terence Young', 'Audrey Hepburn', 'A recently blinded woman is terrorized by a trio of thugs while they search for a heroin-stuffed doll they believe is in her apartment.').
+filme('Guess Who''s Coming to Dinner', 'comedy', 1967, 108, 'Stanley Kramer', 'Spencer Tracy', 'A couple''s attitudes are challenged when their daughter introduces them to her African-American fiancé.').
+filme('Bonnie and Clyde', 'action', 1967, 111, 'Arthur Penn', 'Warren Beatty', 'Bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow and together they start a violent crime spree through the country, stealing cars and robbing banks.').
+filme('My Fair Lady', 'drama', 1964, 170, 'George Cukor', 'Audrey Hepburn', 'Snobbish phonetics Professor Henry Higgins agrees to a wager that he can make flower girl Eliza Doolittle presentable in high society.').
+filme('Mary Poppins', 'comedy', 1964, 139, 'Robert Stevenson', 'Julie Andrews', 'In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father.').
+filme('The Longest Day', 'action', 1962, 178, 'Ken Annakin', 'Andrew Marton', 'The events of D-Day, told on a grand scale from both the Allied and German points of view.').
+filme('Jules et Jim', 'drama', 1962, 105, 'François Truffaut', 'Jeanne Moreau', 'Decades of a love triangle concerning two friends and an impulsive woman.').
+filme('The Innocents', 'horror', 1961, 100, 'Jack Clayton', 'Deborah Kerr', 'A young governess for two children becomes convinced that the house and grounds are haunted.').
+filme('À bout de souffle', 'crime', 1960, 90, 'Jean-Luc Godard', 'Jean-Paul Belmondo', 'A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he reunites with a hip American journalism student and attempts to persuade her to run away with him to Italy.').
+filme('Red River', 'action', 1948, 133, 'Howard Hawks', 'Arthur Rosson', 'Dunson leads a cattle drive, the culmination of over 14 years of work, to its destination in Missouri. But his tyrannical behavior along the way causes a mutiny, led by his adopted son.').
+filme('Key Largo', 'action', 1948, 100, 'John Huston', 'Humphrey Bogart', 'A man visits his war buddy''s family hotel and finds a gangster running things. As a hurricane approaches, the two end up confronting each other.').
+filme('To Have and Have Not', 'adventure', 1944, 100, 'Howard Hawks', 'Humphrey Bogart', 'During World War II, American expatriate Harry Morgan helps transport a French Resistance leader and his beautiful wife to Martinique while romancing a sensuous lounge singer.').
+filme('Shadow of a Doubt', 'film-noir', 1943, 108, 'Alfred Hitchcock', 'Teresa Wright', 'A young girl, overjoyed when her favorite uncle comes to visit the family, slowly begins to suspect that he is in fact the "Merry Widow" killer sought by the authorities.').
+filme('Stagecoach', 'adventure', 1939, 96, 'John Ford', 'John Wayne', 'A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo and learn something about each other in the process.').
+filme('The Lady Vanishes', 'mystery', 1938, 96, 'Alfred Hitchcock', 'Margaret Lockwood', 'While travelling in continental Europe, a rich young playgirl realizes that an elderly lady seems to have disappeared from the train.').
+filme('Bringing Up Baby', 'comedy', 1938, 102, 'Howard Hawks', 'Katharine Hepburn', 'While trying to secure a $1 million donation for his museum, a befuddled paleontologist is pursued by a flighty and often irritating heiress and her pet leopard, Baby.').
+filme('Bride of Frankenstein', 'drama', 1935, 75, 'James Whale', 'Boris Karloff', 'Mary Shelley reveals the main characters of her novel survived: Dr. Frankenstein, goaded by an even madder scientist, builds his monster a mate.').
+filme('Duck Soup', 'comedy', 1933, 69, 'Leo McCarey', 'Groucho Marx', 'Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.').
+filme('Scarface: The Shame of the Nation', 'action', 1932, 93, 'Howard Hawks', 'Richard Rosson', 'An ambitious and nearly insane violent gangster climbs the ladder of success in the mob, but his weaknesses prove to be his downfall.').
+filme('Frankenstein', 'drama', 1931, 70, 'James Whale', 'Colin Clive', 'Dr. Frankenstein dares to tamper with life and death by creating a human monster out of lifeless body parts.').
+filme('Roma', 'drama', 2018, 135, 'Alfonso Cuarón', 'Yalitza Aparicio', 'A year in the life of a middle-class family''s maid in Mexico City in the early 1970s.').
+filme('God''s Own Country', 'drama', 2017, 104, 'Francis Lee', 'Josh O''Connor', 'Spring. Yorkshire. Young farmer Johnny Saxby numbs his daily frustrations with binge drinking and casual sex, until the arrival of a Romanian migrant worker for lambing season ignites an intense relationship that sets Johnny on a new path.').
+filme('Deadpool 2', 'action', 2018, 119, 'David Leitch', 'Ryan Reynolds', 'Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.').
+filme('Wind River', 'crime', 2017, 107, 'Taylor Sheridan', 'Kelsey Asbille', 'A veteran hunter helps an FBI agent investigate the murder of a young woman on a Wyoming Native American reservation.').
+filme('Get Out', 'horror', 2017, 104, 'Jordan Peele', 'Daniel Kaluuya', 'A young African-American visits his white girlfriend''s parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.').
+filme('Mission: Impossible - Fallout', 'action', 2018, 147, 'Christopher McQuarrie', 'Tom Cruise', 'Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.').
+filme('En man som heter Ove', 'comedy', 2015, 116, 'Hannes Holm', 'Rolf Lassgård', 'Ove, an ill-tempered, isolated retiree who spends his days enforcing block association rules and visiting his wife''s grave, has finally given up on life just as an unlikely friendship develops with his boisterous new neighbors.').
+filme('What We Do in the Shadows', 'comedy', 2014, 86, 'Jemaine Clement', 'Taika Waititi', 'Viago, Deacon and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs and overcoming flatmate conflicts.').
+filme('Omoide no Mânî', 'animation', 2014, 103, 'James Simone', 'Hiromasa Yonebayashi', 'Due to 12 y.o. Anna''s asthma, she''s sent to stay with relatives of her guardian in the Japanese countryside. She likes to be alone, sketching. She befriends Marnie. Who is the mysterious, blonde Marnie.').
+filme('The Theory of Everything', 'biography', 2014, 123, 'James Marsh', 'Eddie Redmayne', 'A look at the relationship between the famous physicist Stephen Hawking and his wife.').
+filme('Kingsman: The Secret Service', 'action', 2014, 129, 'Matthew Vaughn', 'Colin Firth', 'A spy organisation recruits a promising street kid into the agency''s training program, while a global threat emerges from a twisted tech genius.').
+filme('The Fault in Our Stars', 'drama', 2014, 126, 'Josh Boone', 'Shailene Woodley', 'Two teenage cancer patients begin a life-affirming journey to visit a reclusive author in Amsterdam.').
+filme('Me and Earl and the Dying Girl', 'comedy', 2015, 105, 'Alfonso Gomez-Rejon', 'Thomas Mann', 'High schooler Greg, who spends most of his time making parodies of classic movies with his co-worker Earl, finds his outlook forever altered after befriending a classmate who has just been diagnosed with cancer.').
+filme('Birdman or (The Unexpected Virtue of Ignorance)', 'comedy', 2014, 119, 'Alejandro G. Iñárritu', 'Michael Keaton', 'A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.').
+filme('La vie d''Adèle', 'drama', 2013, 180, 'Abdellatif Kechiche', 'Léa Seydoux', 'Adèle''s life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Adèle grows, seeks herself, loses herself, and ultimately finds herself through love and loss.').
+filme('Kai po che!', 'drama', 2013, 130, 'Abhishek Kapoor', 'Amit Sadh', 'Three friends growing up in India at the turn of the millennium set out to open a training academy to produce the country''s next cricket stars.').
+filme('The Broken Circle Breakdown', 'drama', 2012, 111, 'Felix van Groeningen', 'Veerle Baetens', 'Elise and Didier fall in love at first sight, in spite of their differences. He talks, she listens. He''s a romantic atheist, she''s a religious realist. When their daughter becomes seriously ill, their love is put on trial.').
+filme('Captain America: The Winter Soldier', 'action', 2014, 136, 'Anthony Russo', 'Joe Russo', 'As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.').
+filme('Rockstar', 'drama', 2011, 159, 'Imtiaz Ali', 'Ranbir Kapoor', 'Janardhan Jakhar chases his dreams of becoming a big Rock star, during which he falls in love with Heer.').
+filme('Nebraska', 'adventure', 2013, 115, 'Alexander Payne', 'Bruce Dern', 'An aging, booze-addled father makes the trip from Montana to Nebraska with his estranged son in order to claim a million-dollar Mega Sweepstakes Marketing prize.').
+filme('Wreck-It Ralph', 'animation', 2012, 101, 'Rich Moore', 'John C. Reilly', 'A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.').
+filme('Le Petit Prince', 'animation', 2015, 108, 'Mark Osborne', 'Jeff Bridges', 'A little girl lives in a very grown-up world with her mother, who tries to prepare her for it. Her neighbor, the Aviator, introduces the girl to an extraordinary world where anything is possible, the world of the Little Prince.').
+filme('Detachment', 'drama', 2011, 98, 'Tony Kaye', 'Adrien Brody', 'A substitute teacher who drifts from classroom to classroom finds a connection to the students and teachers during his latest assignment.').
+filme('Midnight in Paris', 'comedy', 2011, 96, 'Woody Allen', 'Owen Wilson', 'While on a trip to Paris with his fiancée''s family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.').
+filme('The Lego Movie', 'animation', 2014, 100, 'Christopher Miller', 'Phil Lord', 'An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.').
+filme('Gravity', 'drama', 2013, 91, 'Alfonso Cuarón', 'Sandra Bullock', 'Two astronauts work together to survive after an accident leaves them stranded in space.').
+filme('Star Trek Into Darkness', 'action', 2013, 132, 'J.J. Abrams', 'Chris Pine', 'After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.').
+filme('Beasts of No Nation', 'drama', 2015, 137, 'Cary Joji Fukunaga', 'Abraham Attah', 'A drama based on the experiences of Agu, a child soldier fighting in the civil war of an unnamed African country.').
+filme('The Social Network', 'biography', 2010, 120, 'David Fincher', 'Jesse Eisenberg', 'As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.').
+filme('X: First Class', 'action', 2011, 131, 'Matthew Vaughn', 'James McAvoy', 'In the 1960s, superpowered humans Charles Xavier and Erik Lensherr work together to find others like them, but Erik''s vengeful pursuit of an ambitious mutant who ruined his life causes a schism to divide them.').
+filme('The Hangover', 'comedy', 2009, 100, 'Todd Phillips', 'Zach Galifianakis', 'Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.').
+filme('Skyfall', 'action', 2012, 143, 'Sam Mendes', 'Daniel Craig', 'James Bond''s loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.').
+filme('Silver Linings Playbook', 'comedy', 2012, 122, 'David O. Russell', 'Bradley Cooper', 'After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.').
+filme('Argo', 'biography', 2012, 120, 'Ben Affleck', 'Ben Affleck', 'Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.').
+filme('(500) Days of Summer', 'comedy', 2009, 95, 'Marc Webb', 'Zooey Deschanel', 'An offbeat romantic comedy about a woman who doesn''t believe true love exists, and the young man who falls for her.').
+filme('Harry Potter and the Deathly Hallows: Part 1', 'adventure', 2010, 146, 'David Yates', 'Daniel Radcliffe', 'As Harry, Ron, and Hermione race against time and evil to destroy the Horcruxes, they uncover the existence of the three most powerful objects in the wizarding world: the Deathly Hallows.').
+filme('Gake no ue no Ponyo', 'animation', 2008, 101, 'Hayao Miyazaki', 'Cate Blanchett', 'A five-year-old boy develops a relationship with Ponyo, a young goldfish princess who longs to become a human after falling in love with him.').
+filme('Frost/Nixon', 'biography', 2008, 122, 'Ron Howard', 'Frank Langella', 'A dramatic retelling of the post-Watergate television interviews between British talk-show host David Frost and former president Richard Nixon.').
+filme('Papurika', 'animation', 2006, 90, 'Satoshi Kon', 'Megumi Hayashibara', 'When a machine that allows therapists to enter their patients'' dreams is stolen, all Hell breaks loose. Only a young female therapist, Paprika, can stop it.').
+filme('Changeling', 'biography', 2008, 141, 'Clint Eastwood', 'Angelina Jolie', 'Grief-stricken mother Christine Collins (Angelina Jolie) takes on the L.A.P.D. to her own detriment when it tries to pass off an obvious impostor as her missing child.').
+filme('Flipped', 'comedy', 2010, 90, 'Rob Reiner', 'Madeline Carroll', 'Two eighth-graders start to have feelings for each other despite being total opposites.').
+filme('Toki o kakeru shôjo', 'animation', 2006, 98, 'Mamoru Hosoda', 'Riisa Naka', 'A high-school girl named Makoto acquires the power to travel back in time, and decides to use it for her own personal benefits. Little does she know that she is affecting the lives of others just as much as she is her own.').
+filme('Death Note: Desu nôto', 'crime', 2006, 126, 'Shûsuke Kaneko', 'Tatsuya Fujiwara', 'A battle between the world''s two greatest minds begins when Light Yagami finds the Death Note, a notebook with the power to kill, and decides to rid the world of criminals.').
+filme('This Is England', 'crime', 2006, 101, 'Shane Meadows', 'Thomas Turgoose', 'A young boy becomes friends with a gang of skinheads. Friends soon become like family, and relationships will be pushed to the very limit.').
+filme('Ex Machina', 'drama', 2014, 108, 'Alex Garland', 'Alicia Vikander', 'A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.').
+filme('Efter brylluppet', 'drama', 2006, 120, 'Susanne Bier', 'Mads Mikkelsen', 'A manager of an orphanage in India is sent to Copenhagen, Denmark, where he discovers a life-altering family secret.').
+filme('The Last King of Scotland', 'biography', 2006, 123, 'Kevin Macdonald', 'James McAvoy', 'Based on the events of the brutal Ugandan dictator Idi Amin''s regime as seen by his personal physician during the 1970s.').
+filme('Zodiac', 'crime', 2007, 157, 'David Fincher', 'Jake Gyllenhaal', 'In the late 1960s/early 1970s, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.').
+filme('Lucky Number Slevin', 'action', 2006, 110, 'Paul McGuigan', 'Josh Hartnett', 'A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city''s most rival crime bosses. Under constant surveillance by Detective Brikowski and assassin Goodkat, he must get them before they get him.').
+filme('Joyeux Noël', 'drama', 2005, 116, 'Christian Carion', 'Diane Kruger', 'In December 1914, an unofficial Christmas truce on the Western Front allows soldiers from opposing sides of the First World War to gain insight into each other''s way of life.').
+filme('Control', 'biography', 2007, 122, 'Anton Corbijn', 'Sam Riley', 'A profile of Ian Curtis, the enigmatic singer of Joy Division whose personal, professional, and romantic troubles led him to commit suicide at the age of 23.').
+filme('Tangled', 'animation', 2010, 100, 'Nathan Greno', 'Byron Howard', 'The magically long-haired Rapunzel has spent her entire life in a tower, but now that a runaway thief has stumbled upon her, she is about to discover the world for the first time, and who she really is.').
+filme('Zwartboek', 'drama', 2006, 145, 'Paul Verhoeven', 'Carice van Houten', 'In the Nazi-occupied Netherlands during World War II, a Jewish singer infiltrates the regional Gestapo headquarters for the Dutch resistance.').
+filme('Brokeback Mountain', 'drama', 2005, 134, 'Ang Lee', 'Jake Gyllenhaal', 'The story of a forbidden and secretive relationship between two cowboys, and their lives over the years.').
+filme('3:10 to Yuma', 'action', 2007, 122, 'James Mangold', 'Russell Crowe', 'A small-time rancher agrees to hold a captured outlaw who''s awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.').
+filme('Crash', 'crime', 2004, 112, 'Paul Haggis', 'Don Cheadle', 'Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.').
+filme('Kung fu', 'action', 2004, 99, 'Stephen Chow', 'Stephen Chow', 'In Shanghai, China in the 1940s, a wannabe gangster aspires to join the notorious "Axe Gang" while residents of a housing complex exhibit extraordinary powers in defending their turf.').
+filme('The Bourne Supremacy', 'action', 2004, 108, 'Paul Greengrass', 'Matt Damon', 'When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.').
+filme('The Machinist', 'drama', 2004, 101, 'Brad Anderson', 'Christian Bale', 'An industrial worker who hasn''t slept in a year begins to doubt his own sanity.').
+filme('Ray', 'biography', 2004, 152, 'Taylor Hackford', 'Jamie Foxx', 'The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.').
+filme('Lost in Translation', 'comedy', 2003, 102, 'Sofia Coppola', 'Bill Murray', 'A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.').
+filme('Harry Potter and the Goblet of Fire', 'adventure', 2005, 157, 'Mike Newell', 'Daniel Radcliffe', 'Harry Potter finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.').
+filme('Man on Fire', 'action', 2004, 146, 'Tony Scott', 'Denzel Washington', 'In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect.').
+filme('Coraline', 'animation', 2009, 100, 'Henry Selick', 'Dakota Fanning', 'An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.').
+filme('The Last Samurai', 'action', 2003, 154, 'Edward Zwick', 'Tom Cruise', 'An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.').
+filme('The Magdalene Sisters', 'drama', 2002, 114, 'Peter Mullan', 'Eileen Walsh', 'Three young Irish women struggle to maintain their spirits while they endure dehumanizing abuse as inmates of a Magdalene Sisters Asylum.').
+filme('Good Bye Lenin!', 'comedy', 2003, 121, 'Wolfgang Becker', 'Daniel Brühl', 'In 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.').
+filme('In America', 'drama', 2002, 105, 'Jim Sheridan', 'Paddy Considine', 'A family of Irish immigrants adjust to life on the mean streets of Hell''s Kitchen while also grieving the death of a child.').
+filme('I Am Sam', 'drama', 2001, 132, 'Jessie Nelson', 'Sean Penn', 'A mentally handicapped man fights for custody of his 7-year-old daughter and in the process teaches his cold-hearted lawyer the value of love and family.').
+filme('Adaptation.', 'comedy', 2002, 115, 'Spike Jonze', 'Nicolas Cage', 'A lovelorn screenwriter becomes desperate as he tries and fails to adapt ''The Orchid Thief'' by Susan Orlean for the screen.').
+filme('Black Hawk Down', 'drama', 2001, 144, 'Ridley Scott', 'Josh Hartnett', '160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.').
+filme('Road to Perdition', 'crime', 2002, 117, 'Sam Mendes', 'Tom Hanks', 'A mob enforcer''s son witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge.').
+filme('Das Experiment', 'drama', 2001, 120, 'Oliver Hirschbiegel', 'Moritz Bleibtreu', 'For two weeks, 20 male participants are hired to play prisoners and guards in a prison. The "prisoners" have to follow seemingly mild rules, and the "guards" are told to retain order without using physical violence.').
+filme('Billy Elliot', 'drama', 2000, 110, 'Stephen Daldry', 'Jamie Bell', 'A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.').
+filme('Hedwig and the Angry Inch', 'comedy', 2001, 95, 'John Cameron Mitchell', 'John Cameron Mitchell', 'A gender-queer punk-rock singer from East Berlin tours the U.S. with her band as she tells her life story and follows the former lover/band-mate who stole her songs.').
+filme('Ocean''s Eleven', 'crime', 2001, 116, 'Steven Soderbergh', 'George Clooney', 'Danny Ocean and his ten accomplices plan to rob three Las Vegas casinos simultaneously.').
+filme('Vampire Hunter D: Bloodlust', 'animation', 2000, 103, 'Yoshiaki Kawajiri', 'Andrew Philpot', 'When a girl is abducted by a vampire, a legendary bounty hunter is hired to bring her back.').
+filme('O Brother, Where Art Thou?', 'adventure', 2000, 107, 'Joel Coen', 'Ethan Coen', 'In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.').
+filme('Interstate 60: Episodes of the Road', 'adventure', 2002, 116, 'Bob Gale', 'James Marsden', 'Neal Oliver, a very confused young man and an artist, takes a journey of a lifetime on a highway I60 that doesn''t exist on any of the maps, going to the places he never even heard of, searching for an answer and his dreamgirl.').
+filme('South Park: Bigger, Longer & Uncut', 'animation', 1999, 81, 'Trey Parker', 'Trey Parker', 'When Stan Marsh and his friends go see an R-rated movie, they start cursing and their parents think that Canada is to blame.').
+filme('Office Space', 'comedy', 1999, 89, 'Mike Judge', 'Ron Livingston', 'Three company workers who hate their jobs decide to rebel against their greedy boss.').
+filme('Happiness', 'comedy', 1998, 134, 'Todd Solondz', 'Jane Adams', 'The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts society as a whole might find disturbing in a desperate search for human connection.').
+filme('Training Day', 'crime', 2001, 122, 'Antoine Fuqua', 'Denzel Washington', 'A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn''t what he appears to be.').
+filme('Rushmore', 'comedy', 1998, 93, 'Wes Anderson', 'Jason Schwartzman', 'The extracurricular king of Rushmore Preparatory School is put on academic probation.').
+filme('Abre los ojos', 'drama', 1997, 119, 'Alejandro Amenábar', 'Eduardo Noriega', 'A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.').
+filme('Being John Malkovich', 'comedy', 1999, 113, 'Spike Jonze', 'John Cusack', 'A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.').
+filme('As Good as It Gets', 'comedy', 1997, 139, 'James L. Brooks', 'Jack Nicholson', 'A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.').
+filme('The Fifth Element', 'action', 1997, 126, 'Luc Besson', 'Bruce Willis', 'In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.').
+filme('Le dîner de cons', 'comedy', 1998, 80, 'Francis Veber', 'Thierry Lhermitte', 'A few friends have a weekly fools'' dinner, where each brings a fool along. Pierre finds a champion fool for next dinner. Surprise.').
+filme('Donnie Brasco', 'biography', 1997, 127, 'Mike Newell', 'Al Pacino', 'An FBI undercover agent infiltrates the mob and finds himself identifying more with the mafia life, at the expense of his regular one.').
+filme('Shine', 'biography', 1996, 105, 'Scott Hicks', 'Geoffrey Rush', 'Pianist David Helfgott, driven by his father and teachers, has a breakdown. Years later he returns to the piano, to popular if not critical acclaim.').
+filme('Primal Fear', 'crime', 1996, 129, 'Gregory Hoblit', 'Richard Gere', 'An altar boy is accused of murdering a priest, and the truth is buried several layers deep.').
+filme('Hamlet', 'drama', 1996, 242, 'Kenneth Branagh', 'Kenneth Branagh', 'Hamlet, Prince of Denmark, returns home to find his father murdered and his mother remarrying the murderer, his uncle. Meanwhile, war is brewing.').
+filme('A Little Princess', 'drama', 1995, 97, 'Alfonso Cuarón', 'Liesel Matthews', 'A young girl is relegated to servitude at a boarding school when her father goes missing and is presumed dead.').
+filme('Do lok tin si', 'comedy', 1995, 99, 'Kar-Wai Wong', 'Leon Lai', 'This Hong Kong-set crime drama follows the lives of a hitman, hoping to get out of the business, and his elusive female partner.').
+filme('Il postino', 'biography', 1994, 108, 'Michael Radford', 'Massimo Troisi', 'A simple Italian postman learns to love poetry while delivering mail to a famous poet, and then uses this to woo local beauty Beatrice.').
+filme('Clerks', 'comedy', 1994, 92, 'Kevin Smith', 'Brian O''Halloran', 'A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.').
+filme('Short Cuts', 'comedy', 1993, 188, 'Robert Altman', 'Andie MacDowell', 'The day-to-day lives of several suburban Los Angeles residents.').
+filme('Philadelphia', 'drama', 1993, 125, 'Jonathan Demme', 'Tom Hanks', 'When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small time lawyer as the only willing advocate for a wrongful dismissal suit.').
+filme('The Muppet Christmas Carol', 'comedy', 1992, 85, 'Brian Henson', 'Michael Caine', 'The Muppet characters tell their version of the classic tale of an old and bitter miser''s redemption on Christmas Eve.').
+filme('Malcolm X', 'biography', 1992, 202, 'Spike Lee', 'Denzel Washington', 'Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam.').
+filme('The Last of the Mohicans', 'action', 1992, 112, 'Michael Mann', 'Daniel Day-Lewis', 'Three trappers protect the daughters of a British Colonel in the midst of the French and Indian War.').
+filme('Kurenai no buta', 'animation', 1992, 94, 'Hayao Miyazaki', 'Shûichirô Moriyama', 'In 1930s Italy, a veteran World War I pilot is cursed to look like an anthropomorphic pig.').
+filme('Glengarry Glen Ross', 'crime', 1992, 100, 'James Foley', 'Al Pacino', 'An examination of the machinations behind the scenes at a real estate office.').
+filme('A Few Good Men', 'drama', 1992, 138, 'Rob Reiner', 'Tom Cruise', 'Military lawyer Lieutenant Daniel Kaffee defends Marines accused of murder. They contend they were acting under orders.').
+filme('Fried Green Tomatoes', 'drama', 1991, 130, 'Jon Avnet', 'Kathy Bates', 'A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.').
+filme('Barton Fink', 'comedy', 1991, 116, 'Joel Coen', 'Ethan Coen', 'A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.').
+filme('Miller''s Crossing', 'crime', 1990, 115, 'Joel Coen', 'Ethan Coen', 'Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.').
+filme('Who Framed Roger Rabbit', 'animation', 1988, 104, 'Robert Zemeckis', 'Bob Hoskins', 'A toon-hating detective is a cartoon rabbit''s only hope to prove his innocence when he is accused of murder.').
+filme('Spoorloos', 'mystery', 1988, 107, 'George Sluizer', 'Bernard-Pierre Donnadieu', 'Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.').
+filme('Withnail & I', 'comedy', 1987, 107, 'Bruce Robinson', 'Richard E. Grant', 'In 1969, two substance-abusing, unemployed actors retreat to the countryside for a holiday that proves disastrous.').
+filme('The Last Emperor', 'biography', 1987, 163, 'Bernardo Bertolucci', 'John Lone', 'The story of the final Emperor of China.').
+filme('Empire of the Sun', 'action', 1987, 153, 'Steven Spielberg', 'Christian Bale', 'A young English boy struggles to survive under Japanese occupation during World War II.').
+filme('Der Name der Rose', 'crime', 1986, 130, 'Jean-Jacques Annaud', 'Sean Connery', 'An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.').
+filme('Blue Velvet', 'drama', 1986, 120, 'David Lynch', 'Isabella Rossellini', 'The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.').
+filme('The Purple Rose of Cairo', 'comedy', 1985, 82, 'Woody Allen', 'Mia Farrow', 'In New Jersey in 1935, a movie character walks off the screen and into the real world.').
+filme('After Hours', 'comedy', 1985, 97, 'Martin Scorsese', 'Griffin Dunne', 'An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho who he met that evening at a coffee shop.').
+filme('Zelig', 'comedy', 1983, 79, 'Woody Allen', 'Woody Allen', '"Documentary" about a man who can look and act like whoever he''s around, and meets various famous people.').
+filme('The Verdict', 'drama', 1982, 129, 'Sidney Lumet', 'Paul Newman', 'A lawyer sees the chance to salvage his career and self-respect by taking a medical malpractice case to trial rather than settling.').
+filme('Star Trek II: The Wrath of Khan', 'action', 1982, 113, 'Nicholas Meyer', 'William Shatner', 'With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.').
+filme('First Blood', 'action', 1982, 93, 'Ted Kotcheff', 'Sylvester Stallone', 'A veteran Green Beret is forced by a cruel Sheriff and his deputies to flee into the mountains and wage an escalating one-man war against his pursuers.').
+filme('Ordinary People', 'drama', 1980, 124, 'Robert Redford', 'Donald Sutherland', 'The accidental death of the older son of an affluent family deeply strains the relationships among the bitter mother, the good-natured father, and the guilt-ridden younger son.').
+filme('Airplane!', 'comedy', 1980, 88, 'Jim Abrahams', 'David Zucker', 'A man afraid to fly must ensure that a plane lands safely after the pilots become sick.').
+filme('Rupan sansei: Kariosutoro no shiro', 'animation', 1979, 100, 'Hayao Miyazaki', 'Yasuo Yamada', 'A dashing thief, his gang of desperadoes and an intrepid policeman struggle to free a princess from an evil count''s clutches, and learn the hidden secret to a fabulous treasure that she holds part of a key to.').
+filme('Halloween', 'horror', 1978, 91, 'John Carpenter', 'Donald Pleasence', 'Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.').
+filme('Le locataire', 'drama', 1976, 126, 'Roman Polanski', 'Roman Polanski', 'A bureaucrat rents a Paris apartment where he finds himself drawn into a rabbit hole of dangerous paranoia.').
+filme('Love and Death', 'comedy', 1975, 85, 'Woody Allen', 'Woody Allen', 'In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.').
+filme('The Taking of Pelham One Two Three', 'action', 1974, 104, 'Joseph Sargent', 'Walter Matthau', 'In New York, armed men hijack a subway car and demand a ransom for the passengers. Even if it''s paid, how could they get away?').
+filme('Blazing Saddles', 'comedy', 1974, 93, 'Mel Brooks', 'Cleavon Little', 'In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.').
+filme('Serpico', 'biography', 1973, 130, 'Sidney Lumet', 'Al Pacino', 'An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.').
+filme('Enter the Dragon', 'action', 1973, 102, 'Robert Clouse', 'Bruce Lee', 'A secret agent comes to an opium lord''s island fortress with other fighters for a martial-arts tournament.').
+filme('Deliverance', 'adventure', 1972, 109, 'John Boorman', 'Jon Voight', 'Intent on seeing the Cahulawassee River before it''s dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they''ll never forget into the dangerous American back-country.').
+filme('The French Connection', 'action', 1971, 104, 'William Friedkin', 'Gene Hackman', 'A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.').
+filme('Dirty Harry', 'action', 1971, 102, 'Don Siegel', 'Clint Eastwood', 'When a madman calling himself "the Scorpio Killer" menaces the city, tough-as-nails San Francisco Police Inspector "Dirty" Harry Callahan is assigned to track down and ferret out the crazed psychopath.').
+filme('Where Eagles Dare', 'action', 1968, 158, 'Brian G. Hutton', 'Richard Burton', 'Allied agents stage a daring raid on a castle where the Nazis are holding American brigadier general George Carnaby prisoner, but that''s not all that''s really going on.').
+filme('The Odd Couple', 'comedy', 1968, 105, 'Gene Saks', 'Jack Lemmon', 'Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day.').
+filme('The Dirty Dozen', 'action', 1967, 150, 'Robert Aldrich', 'Lee Marvin', 'During World War II, a rebellious U.S. Army Major is assigned a dozen convicted murderers to train and lead them into a mass assassination mission of German officers.').
+filme('Belle de jour', 'drama', 1967, 100, 'Luis Buñuel', 'Catherine Deneuve', 'A frigid young housewife decides to spend her midweek afternoons as a prostitute.').
+filme('A Man for All Seasons', 'biography', 1966, 120, 'Fred Zinnemann', 'Paul Scofield', 'The story of Sir Thomas More, who stood up to King Henry VIII when the King rejected the Roman Catholic Church to obtain a divorce and remarry.').
+filme('Repulsion', 'drama', 1965, 105, 'Roman Polanski', 'Catherine Deneuve', 'A sex-repulsed woman who disapproves of her sister''s boyfriend sinks into depression and has horrific visions of rape and violence.').
+filme('Zulu', 'drama', 1964, 138, 'Cy Endfield', 'Stanley Baker', 'Outnumbered British soldiers do battle with Zulu warriors at Rorke''s Drift.').
+filme('Goldfinger', 'action', 1964, 110, 'Guy Hamilton', 'Sean Connery', 'While investigating a gold magnate''s smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.').
+filme('The Birds', 'drama', 1963, 119, 'Alfred Hitchcock', 'Rod Taylor', 'A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.').
+filme('Cape Fear', 'drama', 1962, 106, 'J. Lee Thompson', 'Gregory Peck', 'A lawyer''s family is stalked by a man he once helped put in jail.').
+filme('Peeping Tom', 'drama', 1960, 101, 'Michael Powell', 'Karlheinz Böhm', 'A young man murders women, using a movie camera to film their dying expressions of terror.').
+filme('The Magnificent Seven', 'action', 1960, 128, 'John Sturges', 'Yul Brynner', 'Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.').
+filme('Les yeux sans visage', 'drama', 1960, 90, 'Georges Franju', 'Pierre Brasseur', 'A surgeon causes an accident which leaves his daughter disfigured, and goes to extremes to give her a new face.').
+filme('Invasion of the Body Snatchers', 'drama', 1956, 80, 'Don Siegel', 'Kevin McCarthy', 'A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.').
+filme('Rebel Without a Cause', 'drama', 1955, 111, 'Nicholas Ray', 'James Dean', 'A rebellious young man with a troubled past comes to a new town, finding friends and enemies.').
+filme('The Ladykillers', 'comedy', 1955, 91, 'Alexander Mackendrick', 'Alec Guinness', 'Five oddball criminals planning a bank robbery rent rooms on a cul-de-sac from an octogenarian widow under the pretext that they are classical musicians.').
+filme('Sabrina', 'comedy', 1954, 113, 'Billy Wilder', 'Humphrey Bogart', 'A playboy becomes interested in the daughter of his family''s chauffeur, but it''s his more serious brother who would be the better man for her.').
+filme('The Quiet Man', 'comedy', 1952, 129, 'John Ford', 'John Wayne', 'A retired American boxer returns to the village of his birth in Ireland, where he falls for a spirited redhead whose brother is contemptuous of their union.').
+filme('The Day the Earth Stood Still', 'drama', 1951, 92, 'Robert Wise', 'Michael Rennie', 'An alien lands and tells the people of Earth that they must live peacefully or be destroyed as a danger to other planets.').
+filme('The African Queen', 'adventure', 1951, 105, 'John Huston', 'Humphrey Bogart', 'In WWI Africa, a gin-swilling riverboat captain is persuaded by a strait-laced missionary to use his boat to attack an enemy warship.').
+filme('Gilda', 'drama', 1946, 110, 'Charles Vidor', 'Rita Hayworth', 'A small-time gambler hired to work in a Buenos Aires casino discovers his employer''s new wife is his former lover.').
+filme('Fantasia', 'animation', 1940, 125, 'James Algar', 'Samuel Armstrong', 'A collection of animated interpretations of great works of Western classical music.').
+filme('The Invisible Man', 'horror', 1933, 71, 'James Whale', 'Claude Rains', 'A scientist finds a way of becoming invisible, but in doing so, he becomes murderously insane.').
+filme('Dark Waters', 'biography', 2019, 126, 'Todd Haynes', 'Mark Ruffalo', 'A corporate defense attorney takes on an environmental lawsuit against a chemical company that exposes a lengthy history of pollution.').
+filme('Searching', 'drama', 2018, 102, 'Aneesh Chaganty', 'John Cho', 'After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.').
+filme('Once Upon a Time... in Hollywood', 'comedy', 2019, 161, 'Quentin Tarantino', 'Leonardo DiCaprio', 'A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood''s Golden Age in 1969 Los Angeles.').
+filme('Nelyubov', 'drama', 2017, 127, 'Andrey Zvyagintsev', 'Maryana Spivak', 'A couple going through a divorce must team up to find their son who has disappeared during one of their bitter arguments.').
+filme('The Florida Project', 'drama', 2017, 111, 'Sean Baker', 'Brooklynn Prince', 'Set over one summer, the film follows precocious six-year-old Moonee as she courts mischief and adventure with her ragtag playmates and bonds with her rebellious but caring mother, all while living in the shadows of Walt Disney World.').
+filme('Just Mercy', 'biography', 2019, 137, 'Destin Daniel Cretton', 'Michael B. Jordan', 'World-renowned civil rights defense attorney Bryan Stevenson works to free a wrongly condemned death row prisoner.').
+filme('Gifted', 'drama', 2017, 101, 'Marc Webb', 'Chris Evans', 'Frank, a single man raising his child prodigy niece Mary, is drawn into a custody battle with his mother.').
+filme('The Peanut Butter Falcon', 'adventure', 2019, 97, 'Tyler Nilson', 'Michael Schwartz', 'Zak runs away from his care home to make his dream of becoming a wrestler come true.').
+filme('Victoria', 'crime', 2015, 138, 'Sebastian Schipper', 'Laia Costa', 'A young Spanish woman who has recently moved to Berlin finds her flirtation with a local guy turn potentially deadly as their night out with his friends reveals a dangerous secret.').
+filme('Mustang', 'drama', 2015, 97, 'Deniz Gamze Ergüven', 'Günes Sensoy', 'When five orphan girls are seen innocently playing with boys on a beach, their scandalized conservative guardians confine them while forced marriages are arranged.').
+filme('Guardians of the Galaxy Vol. 2', 'action', 2017, 136, 'James Gunn', 'Chris Pratt', 'The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord''s encounter with his father the ambitious celestial being Ego.').
+filme('Baby Driver', 'action', 2017, 113, 'Edgar Wright', 'Ansel Elgort', 'After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.').
+filme('Only the Brave', 'action', 2017, 134, 'Joseph Kosinski', 'Josh Brolin', 'Based on the true story of the Granite Mountain Hotshots, a group of elite firefighters who risk everything to protect a town from a historic wildfire.').
+filme('Bridge of Spies', 'drama', 2015, 142, 'Steven Spielberg', 'Tom Hanks', 'During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers.').
+filme('Incredibles 2', 'animation', 2018, 118, 'Brad Bird', 'Craig T. Nelson', 'The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.').
+filme('Moana', 'animation', 2016, 107, 'Ron Clements', 'John Musker', 'In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana''s island, she answers the Ocean''s call to seek out the Demigod to set things right.').
+filme('Sicario', 'action', 2015, 121, 'Denis Villeneuve', 'Emily Blunt', 'An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.').
+filme('Creed', 'drama', 2015, 133, 'Ryan Coogler', 'Michael B. Jordan', 'The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.').
+filme('Leviafan', 'crime', 2014, 140, 'Andrey Zvyagintsev', 'Aleksey Serebryakov', 'In a Russian coastal town, Kolya is forced to fight the corrupt mayor when he is told that his house will be demolished. He recruits a lawyer friend to help, but the man''s arrival brings further misfortune for Kolya and his family.').
+filme('Hell or High Water', 'action', 2016, 102, 'David Mackenzie', 'Chris Pine', 'A divorced father and his ex-con older brother resort to a desperate scheme in order to save their family''s ranch in West Texas.').
+filme('Philomena', 'biography', 2013, 98, 'Stephen Frears', 'Judi Dench', 'A world-weary political journalist picks up the story of a woman''s search for her son, who was taken away from her decades ago after she became pregnant and was forced to live in a convent.').
+filme('Dawn of the Planet of the Apes', 'action', 2014, 130, 'Matt Reeves', 'Gary Oldman', 'A growing nation of genetically evolved apes led by Caesar is threatened by a band of human survivors of the devastating virus unleashed a decade earlier.').
+filme('El cuerpo', 'mystery', 2012, 112, 'Oriol Paulo', 'Jose Coronado', 'A detective searches for the body of a femme fatale which has gone missing from a morgue.').
+filme('Serbuan maut', 'action', 2011, 101, 'Gareth Evans', 'Iko Uwais', 'A S.W.A.T. team becomes trapped in a tenement run by a ruthless mobster and his army of killers and thugs.').
+filme('End of Watch', 'action', 2012, 109, 'David Ayer', 'Jake Gyllenhaal', 'Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and friends, and what happens when they meet criminal forces greater than themselves.').
+filme('Kari-gurashi no Arietti', 'animation', 2010, 94, 'Hiromasa Yonebayashi', 'Amy Poehler', 'The Clock family are four-inch-tall people who live anonymously in another family''s residence, borrowing simple items to make their home. Life changes for the Clocks when their teenage daughter, Arrietty, is discovered.').
+filme('A Star Is Born', 'drama', 2018, 136, 'Bradley Cooper', 'Lady Gaga', 'A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral.').
+filme('True Grit', 'drama', 2010, 110, 'Ethan Coen', 'Joel Coen', 'A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father''s murderer.').
+filme('Hævnen', 'drama', 2010, 118, 'Susanne Bier', 'Mikael Persbrandt', 'The lives of two Danish families cross each other, and an extraordinary but risky friendship comes into bud. But loneliness, frailty and sorrow lie in wait.').
+filme('Despicable Me', 'animation', 2010, 95, 'Pierre Coffin', 'Chris Renaud', 'When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.').
+filme('50/50', 'comedy', 2011, 100, 'Jonathan Levine', 'Joseph Gordon-Levitt', 'Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.').
+filme('Kick-Ass', 'action', 2010, 117, 'Matthew Vaughn', 'Aaron Taylor-Johnson', 'Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a superhero, even though he has no powers, training or meaningful reason to do so.').
+filme('Celda 211', 'action', 2009, 113, 'Daniel Monzón', 'Luis Tosar', 'The story of two men on different sides of a prison riot -- the inmate leading the rebellion and the young guard trapped in the revolt, who poses as a prisoner in a desperate attempt to survive the ordeal.').
+filme('Moneyball', 'biography', 2011, 133, 'Bennett Miller', 'Brad Pitt', 'Oakland A''s general manager Billy Beane''s successful attempt to assemble a baseball team on a lean budget by employing computer-generated analysis to acquire new players.').
+filme('La piel que habito', 'drama', 2011, 120, 'Pedro Almodóvar', 'Antonio Banderas', 'A brilliant plastic surgeon, haunted by past tragedies, creates a type of synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.').
+filme('Zombieland', 'adventure', 2009, 88, 'Ruben Fleischer', 'Jesse Eisenberg', 'A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.').
+filme('Die Welle', 'drama', 2008, 107, 'Dennis Gansel', 'Jürgen Vogel', 'A high school teacher''s experiment to demonstrate to his students what life is like under a dictatorship spins horribly out of control when he forms a social unit with a life of its own.').
+filme('Sherlock Holmes', 'action', 2009, 128, 'Guy Ritchie', 'Robert Downey Jr.', 'Detective Sherlock Holmes and his stalwart partner Watson engage in a battle of wits and brawn with a nemesis whose plot is a threat to all of England.').
+filme('The Blind Side', 'biography', 2009, 129, 'John Lee Hancock', 'Quinton Aaron', 'The story of Michael Oher, a homeless and traumatized boy who became an All-American football player and first-round NFL draft pick with the help of a caring woman and her family.').
+filme('The Visitor', 'drama', 2007, 104, 'Tom McCarthy', 'Richard Jenkins', 'A college professor travels to New York City to attend a conference and finds a young couple living in his apartment.').
+filme('Seven Pounds', 'drama', 2008, 123, 'Gabriele Muccino', 'Will Smith', 'A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.').
+filme('Eastern Promises', 'action', 2007, 100, 'David Cronenberg', 'Naomi Watts', 'A teenager who dies during childbirth leaves clues in her journal that could tie her child to a rape involving a violent Russian mob family.').
+filme('Stardust', 'adventure', 2007, 127, 'Matthew Vaughn', 'Charlie Cox', 'In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he''ll retrieve a fallen star by venturing into the magical realm.').
+filme('The Secret of Kells', 'animation', 2009, 71, 'Tomm Moore', 'Nora Twomey', 'A young boy in a remote medieval outpost under siege from barbarian raids is beckoned to adventure when a celebrated master illuminator arrives with an ancient book, brimming with secret wisdom and powers.').
+filme('Inside Man', 'crime', 2006, 129, 'Spike Lee', 'Denzel Washington', 'A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal''s brilliant heist spirals into a hostage situation.').
+filme('Gone Baby Gone', 'crime', 2007, 114, 'Ben Affleck', 'Morgan Freeman', 'Two Boston area detectives investigate a little girl''s kidnapping, which ultimately turns into a crisis both professionally and personally.').
+filme('La Vie En Rose', 'biography', 2007, 140, 'Olivier Dahan', 'Marion Cotillard', 'Biopic of the iconic French singer Édith Piaf. Raised by her grandmother in a brothel, she was discovered while singing on a street corner at the age of 19. Despite her success, Piaf''s life was filled with tragedy.').
+filme('Huo Yuan Jia', 'action', 2006, 104, 'Ronny Yu', 'Jet Li', 'A biography of Chinese Martial Arts Master Huo Yuanjia, who is the founder and spiritual guru of the Jin Wu Sports Federation.').
+filme('The Illusionist', 'drama', 2006, 110, 'Neil Burger', 'Edward Norton', 'In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.').
+filme('Dead Man''s Shoes', 'crime', 2004, 90, 'Shane Meadows', 'Paddy Considine', 'A disaffected soldier returns to his hometown to get even with the thugs who brutalized his mentally-challenged brother years ago.').
+filme('Harry Potter and the Half-Blood Prince', 'action', 2009, 153, 'David Yates', 'Daniel Radcliffe', 'As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as "the property of the Half-Blood Prince" and begins to learn more about Lord Voldemort''s dark past.').
+filme('300', 'action', 2006, 117, 'Zack Snyder', 'Gerard Butler', 'King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.').
+filme('Match Point', 'drama', 2005, 124, 'Woody Allen', 'Scarlett Johansson', 'At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.').
+filme('Watchmen', 'action', 2009, 162, 'Zack Snyder', 'Jackie Earle Haley', 'In 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.').
+filme('Lord of War', 'action', 2005, 122, 'Andrew Niccol', 'Nicolas Cage', 'An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.').
+filme('Saw', 'horror', 2004, 103, 'James Wan', 'Cary Elwes', 'Two strangers awaken in a room with no recollection of how they got there, and soon discover they''re pawns in a deadly game perpetrated by a notorious serial killer.').
+filme('Synecdoche, New York', 'drama', 2008, 124, 'Charlie Kaufman', 'Philip Seymour Hoffman', 'A theatre director struggles with his work, and the women in his life, as he creates a life-size replica of New York City inside a warehouse as part of his new play.').
+filme('Mysterious Skin', 'drama', 2004, 105, 'Gregg Araki', 'Brady Corbet', 'A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.').
+filme('Jeux d''enfants', 'comedy', 2003, 93, 'Yann Samuell', 'Guillaume Canet', 'As adults, best friends Julien and Sophie continue the odd game they started as children -- a fearless competition to outdo one another with daring and outrageous stunts. While they often act out to relieve one another''s pain, their game might be a way to avoid the fact that they are truly meant for one another.').
+filme('Un long dimanche de fiançailles', 'drama', 2004, 133, 'Jean-Pierre Jeunet', 'Audrey Tautou', 'Tells the story of a young woman''s relentless search for her fiancé, who has disappeared from the trenches of the Somme during World War One.').
+filme('The Station Agent', 'comedy', 2003, 89, 'Tom McCarthy', 'Peter Dinklage', 'When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.').
+filme('21 Grams', 'crime', 2003, 124, 'Alejandro G. Iñárritu', 'Sean Penn', 'A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.').
+filme('Boksuneun naui geot', 'crime', 2002, 129, 'Chan-wook Park', 'Kang-ho Song', 'A recently laid off factory worker kidnaps his former boss'' friend''s daughter, hoping to use the ransom money to pay for his sister''s kidney transplant.').
+filme('Finding Neverland', 'biography', 2004, 106, 'Marc Forster', 'Johnny Depp', 'The story of Sir J.M. Barrie''s friendship with a family who inspired him to create Peter Pan.').
+filme('25th Hour', 'drama', 2002, 135, 'Spike Lee', 'Edward Norton', 'Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.').
+filme('The Butterfly Effect', 'drama', 2004, 113, 'Eric Bress', 'J. Mackye Gruber', 'Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.').
+filme('28 Days Later...', 'drama', 2002, 113, 'Danny Boyle', 'Cillian Murphy', 'Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.').
+filme('Batoru rowaiaru', 'action', 2000, 114, 'Kinji Fukasaku', 'Tatsuya Fujiwara', 'In the future, the Japanese government captures a class of ninth-grade students and forces them to kill each other under the revolutionary "Battle Royale" act.').
+filme('The Royal Tenenbaums', 'comedy', 2001, 110, 'Wes Anderson', 'Gene Hackman', 'The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.').
+filme('Y tu mamá también', 'drama', 2001, 106, 'Alfonso Cuarón', 'Maribel Verdú', 'In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.').
+filme('Harry Potter and the Sorcerer''s Stone', 'adventure', 2001, 152, 'Chris Columbus', 'Daniel Radcliffe', 'An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.').
+filme('The Others', 'horror', 2001, 101, 'Alejandro Amenábar', 'Nicole Kidman', 'A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted.').
+filme('Blow', 'biography', 2001, 124, 'Ted Demme', 'Johnny Depp', 'The story of how George Jung, along with the Medellín Cartel headed by Pablo Escobar, established the American cocaine market in the 1970s in the United States.').
+filme('Enemy at the Gates', 'drama', 2001, 131, 'Jean-Jacques Annaud', 'Jude Law', 'A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.').
+filme('Minority Report', 'action', 2002, 145, 'Steven Spielberg', 'Tom Cruise', 'In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.').
+filme('The Hurricane', 'biography', 1999, 146, 'Norman Jewison', 'Denzel Washington', 'The story of Rubin ''Hurricane'' Carter, a boxer wrongly imprisoned for murder, and the people who aided in his fight to prove his innocence.').
+filme('American Psycho', 'comedy', 2000, 101, 'Mary Harron', 'Christian Bale', 'A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.').
+filme('Lola rennt', 'crime', 1998, 81, 'Tom Tykwer', 'Franka Potente', 'After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.').
+filme('The Thin Red Line', 'drama', 1998, 170, 'Terrence Malick', 'Jim Caviezel', 'Adaptation of James Jones'' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.').
+filme('Mulan', 'animation', 1998, 88, 'Tony Bancroft', 'Barry Cook', 'To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China''s greatest heroines in the process.').
+filme('Fear and Loathing in Las Vegas', 'adventure', 1998, 118, 'Terry Gilliam', 'Johnny Depp', 'An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.').
+filme('Funny Games', 'crime', 1997, 108, 'Michael Haneke', 'Susanne Lothar', 'Two violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic "games" with one another for their own amusement.').
+filme('Dark City', 'mystery', 1998, 100, 'Alex Proyas', 'Rufus Sewell', 'A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.').
+filme('Sleepers', 'crime', 1996, 147, 'Barry Levinson', 'Robert De Niro', 'After a prank goes disastrously wrong, a group of boys are sent to a detention center where they are brutalized. Thirteen years later, an unexpected random encounter with a former guard gives them a chance for revenge.').
+filme('Lost Highway', 'mystery', 1997, 134, 'David Lynch', 'Bill Pullman', 'Anonymous videotapes presage a musician''s murder conviction, and a gangster''s girlfriend leads a mechanic astray.').
+filme('Sense and Sensibility', 'drama', 1995, 136, 'Ang Lee', 'Emma Thompson', 'Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the title opposites.').
+filme('Die Hard: With a Vengeance', 'action', 1995, 128, 'John McTiernan', 'Bruce Willis', 'John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building.').
+filme('Dead Man', 'adventure', 1995, 121, 'Jim Jarmusch', 'Johnny Depp', 'On the run after murdering a man, accountant William Blake encounters a strange aboriginal American man named Nobody who prepares him for his journey into the spiritual world.').
+filme('The Bridges of Madison County', 'drama', 1995, 135, 'Clint Eastwood', 'Clint Eastwood', 'Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.').
+filme('Apollo 13', 'adventure', PG, 140, 'Ron Howard', 'Tom Hanks', 'NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.').
+filme('Trois couleurs: Blanc', 'comedy', 1994, 92, 'Krzysztof Kieslowski', 'Zbigniew Zamachowski', 'After his wife divorces him, a Polish immigrant plots to get even with her.').
+filme('Falling Down', 'action', 1993, 113, 'Joel Schumacher', 'Michael Douglas', 'An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.').
+filme('Dazed and Confused', 'comedy', 1993, 102, 'Richard Linklater', 'Jason London', 'The adventures of high school and junior high students on the last day of school in May 1976.').
+filme('My Cousin Vinny', 'comedy', 1992, 120, 'Jonathan Lynn', 'Joe Pesci', 'Two New Yorkers accused of murder in rural Alabama while on their way back to college call in the help of one of their cousins, a loudmouth lawyer with no trial experience.').
+filme('Omohide poro poro', 'animation', 1991, 118, 'Isao Takahata', 'Miki Imai', 'A twenty-seven-year-old office worker travels to the countryside while reminiscing about her childhood in Tokyo.').
+filme('Delicatessen', 'comedy', 1991, 99, 'Marc Caro', 'Jean-Pierre Jeunet', 'Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.').
+filme('Home Alone', 'comedy', 1990, 103, 'Chris Columbus', 'Macaulay Culkin', 'An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.').
+filme('The Godfather: Part III', 'crime', 1990, 162, 'Francis Ford Coppola', 'Al Pacino', 'Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.').
+filme('When Harry Met Sally...', 'comedy', 1989, 95, 'Rob Reiner', 'Billy Crystal', 'Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.').
+filme('The Little Mermaid', 'animation', 1989, 83, 'Ron Clements', 'John Musker', 'A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince''s love.').
+filme('The Naked Gun: From the Files of Police Squad!', 'comedy', 1988, 85, 'David Zucker', 'Leslie Nielsen', 'Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.').
+filme('Planes, Trains & Automobiles', 'comedy', 1987, 93, 'John Hughes', 'Steve Martin', 'A man must struggle to travel home for Thanksgiving with a lovable oaf of a shower curtain ring salesman as his only companion.').
+filme('Lethal Weapon', 'action', 1987, 109, 'Richard Donner', 'Mel Gibson', 'Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.').
+filme('Blood Simple', 'crime', 1984, 99, 'Joel Coen', 'Ethan Coen', 'The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.').
+filme('On Golden Pond', 'drama', 1981, 109, 'Mark Rydell', 'Katharine Hepburn', 'Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea''s new boyfriend, and a most unexpected relationship blooms.').
+filme('Mad Max 2', 'action', 1981, 96, 'George Miller', 'Mel Gibson', 'In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community escape a horde of bandits.').
+filme('The Warriors', 'action', 1979, 92, 'Walter Hill', 'Michael Beck', 'In the near future, a charismatic leader summons the street gangs of New York City in a bid to take it over. When he is killed, The Warriors are falsely blamed and now must fight their way home while every other gang is hunting them down.').
+filme('The Muppet Movie', 'adventure', 1979, 95, 'James Frawley', 'Jim Henson', 'Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.').
+filme('Escape from Alcatraz', 'action', 1979, 112, 'Don Siegel', 'Clint Eastwood', 'Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possible successful attempt at escaping from one of the most infamous prisons in the world.').
+filme('Watership Down', 'animation', 1978, 91, 'Martin Rosen', 'John Hubley', 'Hoping to escape destruction by human developers and save their community, a colony of rabbits, led by Hazel and Fiver, seek out a safe place to set up a new warren.').
+filme('Midnight Express', 'biography', 1978, 121, 'Alan Parker', 'Brad Davis', 'Billy Hayes, an American college student, is caught smuggling drugs out of Turkey and thrown into prison.').
+filme('Close Encounters of the Third Kind', 'drama', 1977, 138, 'Steven Spielberg', 'Richard Dreyfuss', 'Roy Neary, an electric lineman, watches how his quiet and ordinary daily life turns upside down after a close encounter with a UFO.').
+filme('The Long Goodbye', 'comedy', 1973, 112, 'Robert Altman', 'Elliott Gould', 'Private investigator Philip Marlowe helps a friend out of a jam, but in doing so gets implicated in his wife''s murder.').
+filme('Giù la testa', 'drama', 1971, 157, 'Sergio Leone', 'Rod Steiger', 'A low-life bandit and an I.R.A. explosives expert rebel against the government and become heroes of the Mexican Revolution.').
+filme('Kelly''s Heroes', 'adventure', 1970, 144, 'Brian G. Hutton', 'Clint Eastwood', 'A group of U.S. soldiers sneaks across enemy lines to get their hands on a secret stash of Nazi treasure.').
+filme('The Jungle Book', 'animation', 1967, 78, 'Wolfgang Reitherman', 'Phil Harris', 'Bagheera the Panther and Baloo the Bear have a difficult time trying to convince a boy to leave the jungle for human civilization.').
+filme('Blowup', 'drama', 1966, 111, 'Michelangelo Antonioni', 'David Hemmings', 'A fashion photographer unknowingly captures a death on film after following two lovers in a park.').
+filme('A Hard Day''s Night', 'comedy', 1964, 87, 'Richard Lester', 'John Lennon', 'Over two "typical" days in the life of The Beatles, the boys struggle to keep themselves and Sir Paul McCartney''s mischievous grandfather in check while preparing for a live television performance.').
+filme('Breakfast at Tiffany''s', 'comedy', 1961, 115, 'Blake Edwards', 'Audrey Hepburn', 'A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.').
+filme('Giant', 'drama', 1956, 201, 'George Stevens', 'Elizabeth Taylor', 'Sprawling epic covering the life of a Texas cattle rancher and his family and associates.').
+filme('From Here to Eternity', 'drama', 1953, 118, 'Fred Zinnemann', 'Burt Lancaster', 'In Hawaii in 1941, a private is cruelly punished for not boxing on his unit''s team, while his captain''s wife and second-in-command are falling in love.').
+filme('Lifeboat', 'drama', 1944, 97, 'Alfred Hitchcock', 'Tallulah Bankhead', 'Several survivors of a torpedoed merchant ship in World War II find themselves in the same lifeboat with one of the crew members of the U-boat that sank their ship.').
+filme('The 39 Steps', 'crime', 1935, 86, 'Alfred Hitchcock', 'Robert Donat', 'A man in London tries to help a counter-espionage Agent. But when the Agent is killed, and the man stands accused, he must go on the run to save himself and stop a spy ring which is trying to steal top secret information.').
