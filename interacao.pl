@@ -1,16 +1,50 @@
-% Pergunta ao usuário suas preferências de filmes
-perguntar_criterio(Genre, Year, Duration, Country, Directors, Actors) :-
-    write('Qual genero de filme voce prefere? (Digite "any" para qualquer genero): '), read_line_to_string(user_input, Genre),
-    write('Qual é o ano de lançamento do filme? (Digite "any" para qualquer ano): '), read_line_to_string(user_input, Year),
-    write('Qual é o tempo de duração do filme? (Digite "any" para qualquer tempo): '), read_line_to_string(user_input, Duration),
-    write('Qual é o país que foi gravado o filme? (Digite "any" para qualquer país): '), read_line_to_string(user_input, Country),
-    write('Qual diretor voce prefere? (Digite "any" para qualquer diretor): '), read_line_to_string(user_input, Directors),
-    write('Qual ator principal voce prefere? (Digite "any" para qualquer ator): '), read_line_to_string(user_input, Actors),
-    % Depuração para ver os critérios lidos
-    write('Critérios lidos: '), nl,
-    write('Genero: '), write(Genre), nl,
-    write('Ano: '), write(Year), nl,
-    write('Duração: '), write(Duration), nl,
-    write('País: '), write(Country), nl,
-    write('Diretor: '), write(Directors), nl,
-    write('Ator: '), write(Actors), nl.
+% Menu interativo
+filtrar_filmes :-
+    write('Escolha o critério de filtragem: '), nl,
+    write('1. Gênero'), nl,
+    write('2. Ano'), nl,
+    write('3. Duração'), nl,
+    write('4. País'), nl,
+    write('5. Diretor'), nl,
+    write('6. Ator'), nl,
+    read(Opcao),
+    escolher_criterio(Opcao).
+
+% Escolher critério e solicitar valor
+escolher_criterio(1) :-
+    write('Digite o gênero: '),
+    read(Genero),
+    listar_filmes_por_criterio(filtrar_por_genero, Genero).
+
+escolher_criterio(2) :-
+    write('Digite o ano: '),
+    read(Ano),
+    listar_filmes_por_criterio(filtrar_por_ano, Ano).
+
+escolher_criterio(3) :-
+    write('Digite a duração: '),
+    read(Duracao),
+    listar_filmes_por_criterio(filtrar_por_duracao, Duracao).
+
+escolher_criterio(4) :-
+    write('Digite o país: '),
+    read(Pais),
+    listar_filmes_por_criterio(filtrar_por_pais, Pais).
+
+escolher_criterio(5) :-
+    write('Digite o diretor: '),
+    read(Diretor),
+    listar_filmes_por_criterio(filtrar_por_diretor, Diretor).
+
+escolher_criterio(6) :-
+    write('Digite o ator: '),
+    read(Ator),
+    listar_filmes_por_criterio(filtrar_por_ator, Ator).
+
+% Regra para tratar opção inválida
+escolher_criterio(_) :-
+    write('Opção inválida. Tente novamente.'), nl,
+    filtrar_filmes.
+
+% Consulta principal
+?- filtrar_filmes.
