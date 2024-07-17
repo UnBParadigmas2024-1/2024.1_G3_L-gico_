@@ -13,4 +13,3 @@ moviesRescue :-
     write('Se quiser saber os tipos de gêneros disponíveis ou os diferentes países, use as funções "mostra_generos" ou "mostra_países" para ter uma noção.'),
     nl,
     write('Boa busca!').
-    
