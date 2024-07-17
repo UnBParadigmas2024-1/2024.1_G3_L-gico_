@@ -77,12 +77,7 @@ escolher_criterio(_) :-
 % Consulta principal
 :- filtrar_filmes.
 
-% Exemplos de definição das regras para filtrar filmes
-filtrar_por_genero(Genero, Filme) :- filme(Filme, Genero, _, _, _, _, _).
-filtrar_por_ano(Ano, Filme) :- filme(Filme, _, Ano, _, _, _, _).
-filtrar_por_duracao(Duracao, Filme) :- filme(Filme, _, _, Duracao, _, _, _).
-filtrar_por_diretor(Diretor, Filme) :- filme(Filme, _, _, _, Diretor, _, _).
-filtrar_por_ator(Ator, Filme) :- filme(Filme, _, _, _, _, Ator, _).
+
 
 listar_filmes_por_criterio(Criterio, Valor) :-
     findall(Filme, call(Criterio, Valor, Filme), Filmes),

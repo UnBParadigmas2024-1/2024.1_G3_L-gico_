@@ -3,13 +3,13 @@ filtrar_por_genero(Genero, Titulo) :-
     filme(Titulo, Genero, _, _, _, _, _).
 
 filtrar_por_ano(Ano, Titulo) :-
-    filme(Titulo, _, Ano, _, _, _).
+    filme(Titulo, _, Ano, _, _, _,_).
 
 filtrar_por_duracao(Duracao, Titulo) :-
-    filme(Titulo, _, _, Duracao, _, _).
+    filme(Titulo, _, _, Duracao, _, _,_).
 
 filtrar_por_diretor(Diretor, Titulo) :-
-    filme(Titulo, _, _, _, Diretores, _),
+    filme(Titulo, _, _, _, Diretores, _,_,_),
     (
         is_list(Diretores) ->
         member(D, Diretores),
