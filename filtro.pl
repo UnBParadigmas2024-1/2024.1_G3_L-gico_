@@ -20,7 +20,13 @@ filtrar_por_diretor(Diretor, Titulo) :-
 
 filtrar_por_ator(Ator, Titulo) :-
     filme(Titulo, _, _, _, _, Atores),
-    member(Ator, Atores).
+    (
+        is_list(Atores) ->
+        member(A, Atores),
+        sub_string(A, _, _, _, Ator)
+    ;
+        sub_string(Atores, _, _, _, Ator)
+    ).
 
 % Regra para listar filmes por critério e valor
 listar_filmes_por_criterio(Criterio, Valor) :-
