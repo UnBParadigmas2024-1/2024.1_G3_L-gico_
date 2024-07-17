@@ -12,9 +12,10 @@ filtrar_por_diretor(Diretor, Titulo) :-
     filme(Titulo, _, _, _, Diretores, _),
     (
         is_list(Diretores) ->
-        member(Diretor, Diretores)
+        member(D, Diretores),
+        sub_string(D, _, _, _, Diretor)
     ;
-        Diretores = Diretor
+        sub_string(Diretores, _, _, _, Diretor)
     ).
 
 filtrar_por_ator(Ator, Titulo) :-
