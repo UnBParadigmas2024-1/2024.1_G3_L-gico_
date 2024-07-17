@@ -9,7 +9,13 @@ filtrar_por_duracao(Duracao, Titulo) :-
     filme(Titulo, _, _, Duracao, _, _).
 
 filtrar_por_diretor(Diretor, Titulo) :-
-    filme(Titulo, _, _, _, Diretor, _).
+    filme(Titulo, _, _, _, Diretores, _),
+    (
+        is_list(Diretores) ->
+        member(Diretor, Diretores)
+    ;
+        Diretores = Diretor
+    ).
 
 filtrar_por_ator(Ator, Titulo) :-
     filme(Titulo, _, _, _, _, Atores),
