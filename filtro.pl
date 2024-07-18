@@ -1,15 +1,20 @@
 % Regras para filtrar por diferentes critérios
+
+% Filtra filmes pelo gênero especificado
 filtrar_por_genero(Genero, Titulo, Nota) :-
     filme(Titulo, Genero, _, _, _, _, Nota).
 
+% Filtra filmes pelo ano especificado
 filtrar_por_ano(AnoString, Titulo, Nota) :-
     atom_number(AnoString, Ano),
     filme(Titulo, _, Ano, _, _, _, Nota).
 
+% Filtra filmes pela duração especificada
 filtrar_por_duracao(DuracaoString, Titulo, Nota) :-
     atom_number(DuracaoString, Duracao),
     filme(Titulo, _, _, Duracao, _, _, Nota).
 
+% Filtra filmes pelo diretor especificado
 filtrar_por_diretor(Diretor, Titulo, Nota) :-
     filme(Titulo, _, _, _, Diretores, _, Nota),
     (
@@ -20,6 +25,7 @@ filtrar_por_diretor(Diretor, Titulo, Nota) :-
         sub_string(Diretores, _, _, _, Diretor)
     ).
 
+% Filtra filmes pelo ator/atrizes especificado
 filtrar_por_ator(Ator, Titulo, Nota) :-
     filme(Titulo, _, _, _, _, Atores, Nota),
     (

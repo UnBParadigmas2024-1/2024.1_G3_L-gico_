@@ -2,6 +2,7 @@
 :- [listagem].
 :- [filtro].
 
+% Cria e exibe o menu principal
 menu :-
     new(Dialog, dialog('Movie Rescue')),
     send(Dialog, size, size(2000, 450)),
@@ -14,6 +15,7 @@ menu :-
     send(Dialog, append, new(button('Filtragem', message(@prolog, filtrar, Dialog)))),
     send(Dialog, open_centered).
 
+% Mensagem inicial exibida no menu principal
 mensagem_inicial(Mensagem) :-
     atomic_list_concat([
         'Olá, seja bem-vindo ao Movie Rescue, o programa que te ajudará a procurar seu novo filme favorito!\n\n',
@@ -25,6 +27,7 @@ mensagem_inicial(Mensagem) :-
         'Boa busca!'
     ], '', Mensagem).
 
+% Tela de listagem de filmes
 listar(Dialog) :-
     send(Dialog, clear),
     send(Dialog, append, new(Group, dialog_group(buttons, group))),
@@ -38,6 +41,7 @@ listar(Dialog) :-
     send(Dialog, layout_dialog),
     send(Dialog, layout).
 
+% Tela de filtragem de filmes
 filtrar(Dialog) :-
     send(Dialog, clear),
     send(Dialog, append, new(Group, dialog_group(buttons, group))),
@@ -52,6 +56,7 @@ filtrar(Dialog) :-
     send(Dialog, layout_dialog),
     send(Dialog, layout).
 
+% Retornar ao menu principal
 retorna_menu(Dialog) :-
     send(Dialog, clear),
     send(Dialog, background, colour(grey)),
@@ -63,9 +68,13 @@ retorna_menu(Dialog) :-
     send(Dialog, append, new(button('Filtragem', message(@prolog, filtrar, Dialog)))),
     send(Dialog, layout).
 
+% Opções disponíveis para listar filmes por diferentes critérios
 opcoes_topicos(['Nome do Filme', 'Gênero', 'Diretor(a)', 'Ator/Atriz', 'Tudo']).
+
+% Opções disponíveis para filtrar filmes
 opcoes_filtros(['Gênero', 'Ano do Filme', 'Duração', 'Diretor', 'Ator/Atriz']).
 
+% Lista recomendações de filmes baseado no tópico selecionado
 listar_recomendacoes(Topico) :-
     ( Topico == 'Nome do Filme' -> listar_titulos
     ; Topico == 'Gênero' -> listar_generos
@@ -75,6 +84,7 @@ listar_recomendacoes(Topico) :-
     ; send(@display, inform, 'Selecione uma opção válida.')
     ).
 
+% Aplica filtro selecionado e exibir resultados
 aplicar_filtro('Ano do Filme', TermoPesquisa) :-
     listar_filmes_por_criterio(filtrar_por_ano, TermoPesquisa, _Resultados).
 
@@ -89,7 +99,8 @@ aplicar_filtro('Diretor', TermoPesquisa) :-
 
 aplicar_filtro('Ator/Atriz', TermoPesquisa) :-
     listar_filmes_por_criterio(filtrar_por_ator, TermoPesquisa, _Resultados).
-    
+
+% Mostra os resultados da pesquisa em uma janela
 mostrar_resultados(Resultados) :-
     new(Dialog, dialog('Resultados da Pesquisa')),
     new(Fonte, font(screen, bold, 26)),
