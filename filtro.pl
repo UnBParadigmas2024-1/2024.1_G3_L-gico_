@@ -1,15 +1,15 @@
 % Regras para filtrar por diferentes critérios
-filtrar_por_genero(Genero, Titulo) :-
-    filme(Titulo, Genero, _, _, _, _, _).
+filtrar_por_genero(Genero, Titulo, Nota) :-
+    filme(Titulo, Genero, _, _, _, _, Nota).
 
-filtrar_por_ano(Ano, Titulo) :-
-    filme(Titulo, _, Ano, _, _, _,_).
+filtrar_por_ano(Ano, Titulo, Nota) :-
+    filme(Titulo, _, Ano, _, _, _, Nota).
 
-filtrar_por_duracao(Duracao, Titulo) :-
-    filme(Titulo, _, _, Duracao, _, _,_).
+filtrar_por_duracao(Duracao, Titulo, Nota) :-
+    filme(Titulo, _, _, Duracao, _, _, Nota).
 
-filtrar_por_diretor(Diretor, Titulo) :-
-    filme(Titulo, _, _, _, Diretores, _,_),
+filtrar_por_diretor(Diretor, Titulo, Nota) :-
+    filme(Titulo, _, _, _, Diretores, _, Nota),
     (
         is_list(Diretores) ->
         member(D, Diretores),
@@ -18,8 +18,8 @@ filtrar_por_diretor(Diretor, Titulo) :-
         sub_string(Diretores, _, _, _, Diretor)
     ).
 
-filtrar_por_ator(Ator, Titulo) :-
-    filme(Titulo, _, _, _, _, Atores,_),
+filtrar_por_ator(Ator, Titulo, Nota) :-
+    filme(Titulo, _, _, _, _, Atores, Nota),
     (
         is_list(Atores) ->
         member(A, Atores),
@@ -30,7 +30,7 @@ filtrar_por_ator(Ator, Titulo) :-
 
 % Regra para listar filmes por critério e valor
 listar_filmes_por_criterio(Criterio, Valor) :-
-    call(Criterio, Valor, Titulo),
-    write(Titulo), nl,
+    call(Criterio, Valor, Titulo, Nota),
+    write('Titulo: '), write(Titulo), write(', Nota IMDb: '), write(Nota), nl,
     fail.
 listar_filmes_por_criterio(_, _).
