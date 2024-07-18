@@ -50,22 +50,22 @@ escolher_criterio(1) :-
     listar_filmes_por_criterio(filtrar_por_genero, Genero).
 
 escolher_criterio(2) :-
-    write('Digite o ano seguido de um ponto final: '),
+    write('Digite o ano seguido de um ponto final: '),nl,
     read(Ano),
     listar_filmes_por_criterio(filtrar_por_ano, Ano).
 
 escolher_criterio(3) :-
-    write('Digite a duração em minutos seguido de um ponto final: '),
+    write('Digite a duração em minutos seguido de um ponto final: '),nl,
     read(Duracao),
     listar_filmes_por_criterio(filtrar_por_duracao, Duracao).
 
 escolher_criterio(4) :-
-    write('Digite o diretor entre aspas simples seguido de um ponto final: '),
+    write('Digite o diretor entre aspas simples seguido de um ponto final: '),nl,
     read(Diretor),
     listar_filmes_por_criterio(filtrar_por_diretor, Diretor).
 
 escolher_criterio(5) :-
-    write('Digite o ator entre aspas simples seguido de um ponto final: '),
+    write('Digite o ator entre aspas simples seguido de um ponto final: '),nl,
     read(Ator),
     listar_filmes_por_criterio(filtrar_por_ator, Ator).
 
