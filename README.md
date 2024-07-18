@@ -23,12 +23,12 @@ Paradigmas:
 O projeto de filtro de filmes é um sistema de recomendação desenvolvido em Prolog, uma linguagem de programação lógica. Ele permite aos usuários filtrar e listar filmes com base em diversos critérios, como gênero, ano, duração, diretor e ator. A estrutura do projeto é modular, facilitando a manutenção e a expansão futura do sistema. O projeto possui interface gráfica, e pode ser rodado no terminal também.
 
 ## Screenshots
-- Tela inicial
-![image](https://github.com/user-attachments/assets/9c1b1499-bdf2-4637-b939-734be216efd1)
-- Tela de escolha do parâmetro
-![image](https://github.com/user-attachments/assets/eb85eddc-7a47-4dab-a399-e9d77f1b4d03)
-- Tela de listagem
-![image](https://github.com/user-attachments/assets/18ce2e3f-112d-484f-be34-d033df2e3f42)
+
+![](assets/img1.png)
+![](assets/img2.png)
+![](assets/img3.png)
+![](assets/img4.png)
+![](assets/img5.png)
 
 
 
@@ -101,10 +101,10 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Catlen Cleane Ferreira de Oliveira      | Excelente | Contribui com o filtro e na interação com o usuário no terminal |
 | Gabriel da Silva Rosa                   | Excelente | Contribui com o filtro e na interação com o usuário no terminal |
 | João Pedro Alves Machado                |Excelente  | Contribui com o filtro |
-| Lorenzo Santos                          | Excelente |  Criei a base de dados original|
-| Paulo Victor Fonseca Sousa              | Excelente | Contribui para o filtro,interação com o usuario no terminal, e o readme, além de ter  criado a base de dados que foi utilizada  |
+| Lorenzo Santos                          | Excelente |  Criei a base de dados original e contribui na interface gráfica|
+| Paulo Victor Fonseca Sousa              | Excelente | Contribui para o filtro,interação com o usuário no terminal, e o readme, além de ter  criado a base de dados que foi utilizada  |
 | Valderson Pontes da Silva Junior        | Excelente |  Contribui para o filtro e para o readme |
-| Victor de Souza Cabral                  | Excelente |  Fiz a interface grafica a interação com o usuario na interface, e a listagem de opções que o usuario pode escolher |
+| Victor de Souza Cabral                  | Excelente |  Fiz a interface gráfica, interação com o usuário na interface e a listagem de opções que o usuário pode escolher |
 
 ## Outros
 
@@ -132,3 +132,4 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 
 ## Fontes
 [Playlist de Prolog - IFMG - Prof. Bruno Ferreira](https://www.youtube.com/watch?v=x_ahRnd1gTI&list=PLZ-Bk6jzsb-OScKa7vhpcQXoU2uxYGaFx)
+[2023.2_G2_Logico_YouTubeRecommendation](https://github.com/UnBParadigmas2023-2/2023.2_G2_Logico_YouTubeRecommendation/tree/main)
