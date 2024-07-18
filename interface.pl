@@ -19,11 +19,10 @@ menu :-
 mensagem_inicial(Mensagem) :-
     atomic_list_concat([
         'Olá, seja bem-vindo ao Movie Rescue, o programa que te ajudará a procurar seu novo filme favorito!\n\n',
-        'Com esse programa, você verá dados de filmes buscando por atores, diretores, tempo de duração, gênero e nome.\n\n',
-        'Basta você escrever o nome "filme()" e dentro do parágrafo indicar o título, ano, gênero, duração em minutos,\n',
-        'país de produção, nome de diretor e nome de atores, nesta ordem e será apresentado as possíveis opções.\n\n',
-        'Caso tenha um elemento que não seja relevante para a busca, basta colocar _ no campo.\n\n',
-        'Se quiser saber os tipos de gêneros disponíveis ou os diferentes países, use as funções "mostra_generos" ou "mostra_países" para ter uma noção.\n\n',
+        'Com esse programa, você verá sugestões de filmes buscando por gênero, ano de lançamento, tempo de duração, diretor(a)\nou ator/atriz.\n\n',
+        'Após você definir o critério e especifiar o conteúdo do filtro, o programa vai listar sugestões de filmes\ne suas respectivas notas.\n\n',
+        'Se quiser saber todos os nomes de filmes, gêneros, diretores(as), atores(ras) e disponíveis existe uma função de listagem.\n',
+        'Inclusive uma listagem completa!.\n\n',
         'Boa busca!'
     ], '', Mensagem).
 
