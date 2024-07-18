@@ -2,10 +2,12 @@
 filtrar_por_genero(Genero, Titulo, Nota) :-
     filme(Titulo, Genero, _, _, _, _, Nota).
 
-filtrar_por_ano(Ano, Titulo, Nota) :-
+filtrar_por_ano(AnoString, Titulo, Nota) :-
+    atom_number(AnoString, Ano),
     filme(Titulo, _, Ano, _, _, _, Nota).
 
-filtrar_por_duracao(Duracao, Titulo, Nota) :-
+filtrar_por_duracao(DuracaoString, Titulo, Nota) :-
+    atom_number(DuracaoString, Duracao),
     filme(Titulo, _, _, Duracao, _, _, Nota).
 
 filtrar_por_diretor(Diretor, Titulo, Nota) :-
@@ -30,6 +32,7 @@ filtrar_por_ator(Ator, Titulo, Nota) :-
 
 % Regra para listar filmes por critério e valor
 listar_filmes_por_criterio(Criterio, Valor) :-
+    % write(Criterio),
     call(Criterio, Valor, Titulo, Nota),
     write('Titulo: '), write(Titulo), write(', Nota IMDb: '), write(Nota), nl,
     fail.
