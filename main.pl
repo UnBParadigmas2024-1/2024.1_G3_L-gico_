@@ -1,6 +1,15 @@
-% Carregar a base de dados
-:- consult('basededados.pl').
+:- [interface].
+:- [basededados].
 
-% Incluir os predicados de filtro e interação
-:- consult('filtro.pl').
-:- consult('interacao.pl').
+main :-
+    menu.
+    % Incluir os predicados de filtro e interação
+    :- consult('filtro.pl').
+    :- consult('interacao.pl').
+
+
+:- initialization(main).
+
+
+
+
