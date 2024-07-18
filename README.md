@@ -23,7 +23,15 @@ Paradigmas:
 O projeto de filtro de filmes é um sistema de recomendação desenvolvido em Prolog, uma linguagem de programação lógica. Ele permite aos usuários filtrar e listar filmes com base em diversos critérios, como gênero, ano, duração, diretor e ator. A estrutura do projeto é modular, facilitando a manutenção e a expansão futura do sistema. O projeto possui interface gráfica, e pode ser rodado no terminal também.
 
 ## Screenshots
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+- Tela inicial
+![image](https://github.com/user-attachments/assets/9c1b1499-bdf2-4637-b939-734be216efd1)
+- Tela de escolha do parâmetro
+![image](https://github.com/user-attachments/assets/eb85eddc-7a47-4dab-a399-e9d77f1b4d03)
+- Tela de listagem
+![image](https://github.com/user-attachments/assets/18ce2e3f-112d-484f-be34-d033df2e3f42)
+
+
+
 
 ## Instalação 
 **Linguagens**: Prolog<br>
