@@ -81,6 +81,9 @@ git clone https://github.com/UnBParadigmas2024-1/2024.1_G3_Logico_MovieRescuer.g
     && cd 2024.1_G3_Logico_MovieRescuer
 ```
 
+Posteriormente, abra o terminal e digite `swipl`, em seguida pressione Enter. Quando o prompt do Prolog aparecer, execute o comando `consult('main.pl').` para carregar o programa principal. Após o carregamento, você poderá interagir com a aplicação de acordo com as funcionalidades implementadas.
+
+
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
 Procure: 
