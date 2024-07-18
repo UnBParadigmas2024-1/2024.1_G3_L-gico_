@@ -1,5 +1,3 @@
-:- [basededados].
-
 listar_titulos :-
     findall(Titulo, filme(Titulo, _, _, _, _, _, _), ListaTitulos),
     sort(ListaTitulos, TitulosUnicos),

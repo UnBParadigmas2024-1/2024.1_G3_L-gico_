@@ -1,23 +1,17 @@
 :- use_module(library(pce)).
-:- [basededados].
 :- [listagem].
 :- [filtro].
 
 menu :-
-    new(Dialog, dialog('Tela Ciano')),
+    new(Dialog, dialog('Movie Rescue')),
     send(Dialog, size, size(2000, 450)),
-    send(Dialog, background, colour(cyan)),
+    send(Dialog, background, colour(grey)),
     send(Dialog, append, new(T, text(''))),
     send(T, font, font(screen, bold, 26)),
     mensagem_inicial(Mensagem),
     send(T, string, Mensagem),
-    
-    new(Group, dialog_group(buttons, group)),
-    send_list(Group, append,
-              [ button('Listagem', message(@prolog, listar, Dialog)),
-                button('Filtragem', message(@prolog, filtrar, Dialog))
-              ]),
-    send(Dialog, append, Group),
+    send(Dialog, append, new(button('Listagem', message(@prolog, listar, Dialog)))),
+    send(Dialog, append, new(button('Filtragem', message(@prolog, filtrar, Dialog)))),
     send(Dialog, open_centered).
 
 mensagem_inicial(Mensagem) :-
@@ -60,18 +54,13 @@ filtrar(Dialog) :-
 
 retorna_menu(Dialog) :-
     send(Dialog, clear),
-    send(Dialog, background, colour(cyan)),
+    send(Dialog, background, colour(grey)),
     send(Dialog, append, new(T, text(''))),
     send(T, font, font(screen, bold, 26)),
     mensagem_inicial(Mensagem),
     send(T, string, Mensagem),
-    
-    new(Group, dialog_group(buttons, group)),
-    send_list(Group, append,
-              [ button('Listagem', message(@prolog, listar, Dialog)),
-                button('Filtragem', message(@prolog, filtrar, Dialog))
-              ]),
-    send(Dialog, append, Group),
+    send(Dialog, append, new(button('Listagem', message(@prolog, listar, Dialog)))),
+    send(Dialog, append, new(button('Filtragem', message(@prolog, filtrar, Dialog)))),
     send(Dialog, layout).
 
 opcoes_topicos(['Nome do Filme', 'Gênero', 'Diretor(a)', 'Ator/Atriz', 'Tudo']).
@@ -86,26 +75,24 @@ listar_recomendacoes(Topico) :-
     ; send(@display, inform, 'Selecione uma opção válida.')
     ).
 
-
 aplicar_filtro('Ano do Filme', TermoPesquisa) :-
-    listar_filmes_por_criterio(filtrar_por_ano, TermoPesquisa).
+    listar_filmes_por_criterio(filtrar_por_ano, TermoPesquisa, _Resultados).
 
 aplicar_filtro('Gênero', TermoPesquisa) :-
-    listar_filmes_por_criterio(filtrar_por_genero, TermoPesquisa).
+    listar_filmes_por_criterio(filtrar_por_genero, TermoPesquisa, _Resultados).
 
 aplicar_filtro('Duração', TermoPesquisa) :-
-    listar_filmes_por_criterio(filtrar_por_duracao, TermoPesquisa).
+    listar_filmes_por_criterio(filtrar_por_duracao, TermoPesquisa, _Resultados).
 
 aplicar_filtro('Diretor', TermoPesquisa) :-
-    listar_filmes_por_criterio(filtrar_por_diretor, TermoPesquisa).
+    listar_filmes_por_criterio(filtrar_por_diretor, TermoPesquisa, _Resultados).
 
 aplicar_filtro('Ator/Atriz', TermoPesquisa) :-
-    listar_filmes_por_criterio(filtrar_por_ator, TermoPesquisa).
-
-
+    listar_filmes_por_criterio(filtrar_por_ator, TermoPesquisa, _Resultados).
+    
 mostrar_resultados(Resultados) :-
     new(Dialog, dialog('Resultados da Pesquisa')),
-    new(Fonte, font(screen, bold, 12)),
+    new(Fonte, font(screen, bold, 26)),
     send(Dialog, background, 'grey'),
     send(Dialog, size, size(1100, 800)),
     new(ListaBrowser, list_browser),

@@ -30,10 +30,10 @@ filtrar_por_ator(Ator, Titulo, Nota) :-
         sub_string(Atores, _, _, _, Ator)
     ).
 
-% Regra para listar filmes por critério e valor
-listar_filmes_por_criterio(Criterio, Valor) :-
-    % write(Criterio),
-    call(Criterio, Valor, Titulo, Nota),
-    write('Titulo: '), write(Titulo), write(', Nota IMDb: '), write(Nota), nl,
-    fail.
-listar_filmes_por_criterio(_, _).
+% Regra para listar filmes por critério e valor e retornar uma lista de resultados formatados
+listar_filmes_por_criterio(Criterio, Valor, Resultados) :-
+    findall(Texto, (
+        call(Criterio, Valor, Titulo, Nota),
+        atomic_list_concat(['Titulo: ', Titulo, ', Nota IMDb: ', Nota], Texto)
+    ), Resultados),
+    mostrar_resultados(Resultados).

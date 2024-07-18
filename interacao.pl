@@ -77,8 +77,6 @@ escolher_criterio(_) :-
 % Consulta principal
 :- filtrar_filmes.
 
-
-
 % listar_filmes_por_criterio(Criterio, Valor) :-
 %     findall(Filme, call(Criterio, Valor, Filme), Filmes),
 %     write(Filmes), nl.
