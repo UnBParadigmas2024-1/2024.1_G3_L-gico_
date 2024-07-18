@@ -22,9 +22,16 @@ Paradigmas:
 ## Sobre 
 O projeto de filtro de filmes é um sistema de recomendação desenvolvido em Prolog, uma linguagem de programação lógica. Ele permite aos usuários filtrar e listar filmes com base em diversos critérios, como gênero, ano, duração, diretor e ator. A estrutura do projeto é modular, facilitando a manutenção e a expansão futura do sistema. O projeto possui interface gráfica, e pode ser rodado no terminal também.
 
+O projeto é dividido em três partes principais:
+
+base de dados: Contém a base de dados dos filmes, onde cada filme é descrito por atributos como título, gênero, ano de lançamento, duração, diretor, ator principal e nota do imdb ([link para a base de dados](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows))
+
+sistema de filtro Define as regras de filtro para diferentes critérios, além de uma regra para listar filmes com base no critério selecionado.
+
+interface grafica : Fornece uma interface grafica  de usuário interativa para selecionar critérios de filtragem e visualizar os resultados
+
 ## Screenshots
 
-![](assets/animacao.gif)
 ![](assets/img1.jpg)
 ![](assets/img2.jpg)
 ![](assets/img3.jpg)
@@ -84,6 +91,13 @@ git clone https://github.com/UnBParadigmas2024-1/2024.1_G3_Logico_MovieRescuer.g
 
 Posteriormente, abra o terminal e digite `swipl`, em seguida pressione Enter. Quando o prompt do Prolog aparecer, execute o comando `consult('main.pl').` para carregar o programa principal. Após o carregamento, você poderá interagir com a aplicação de acordo com as funcionalidades implementadas.
 
+### Interagindo Com a Aplicação
+Após realizar o comando, a interface do projeto será aberta, possuindo a mensagem inicial do projeto, e duas opções, listagem e filtragem. no caso da listagem, é possível acessar todos os nomes dos filmes, generos, atores/atrizes, diretores, e ano de lançamento dos filmes que estão disponíveis na busca. Após acessar as opções, é possível filtrar filmes de acordo com os criterios que foram acessados na listagem através da opção "filtragem"
+
+gif de Utilização do projeto:
+
+![](assets/animacao.gif)
+
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
@@ -133,4 +147,7 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 
 ## Fontes
 [Playlist de Prolog - IFMG - Prof. Bruno Ferreira](https://www.youtube.com/watch?v=x_ahRnd1gTI&list=PLZ-Bk6jzsb-OScKa7vhpcQXoU2uxYGaFx)
+
 [2023.2_G2_Logico_YouTubeRecommendation](https://github.com/UnBParadigmas2023-2/2023.2_G2_Logico_YouTubeRecommendation/tree/main)
+
+[Base de dados Utilizada](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
