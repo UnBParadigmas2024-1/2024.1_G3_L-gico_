@@ -131,5 +131,4 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 **Expansão dos critérios de busca:** Seria interessante, futuramente, adicionar novos critérios de busca ao sistema, como avaliações de usuários e prêmios recebidos pelos filmes. Isso tornará o sistema de recomendação ainda mais robusto e útil.
 
 ## Fontes
-Referencie, adequadamente, as referências utilizadas.
-Indique ainda sobre fontes de leitura complementares.
+[Playlist de Prolog - IFMG - Prof. Bruno Ferreira](https://www.youtube.com/watch?v=x_ahRnd1gTI&list=PLZ-Bk6jzsb-OScKa7vhpcQXoU2uxYGaFx)
