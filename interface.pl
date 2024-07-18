@@ -71,7 +71,7 @@ retorna_menu(Dialog) :-
 opcoes_topicos(['Nome do Filme', 'Gênero', 'Diretor(a)', 'Ator/Atriz', 'Tudo']).
 
 % Opções disponíveis para filtrar filmes
-opcoes_filtros(['Gênero', 'Ano do Filme', 'Duração', 'Diretor', 'Ator/Atriz']).
+opcoes_filtros(['Gênero', 'Ano do Filme', 'Duração', 'Diretor(a)', 'Ator/Atriz']).
 
 % Lista recomendações de filmes baseado no tópico selecionado
 listar_recomendacoes(Topico) :-
@@ -93,7 +93,7 @@ aplicar_filtro('Gênero', TermoPesquisa) :-
 aplicar_filtro('Duração', TermoPesquisa) :-
     listar_filmes_por_criterio(filtrar_por_duracao, TermoPesquisa, _Resultados).
 
-aplicar_filtro('Diretor', TermoPesquisa) :-
+aplicar_filtro('Diretor(a)', TermoPesquisa) :-
     listar_filmes_por_criterio(filtrar_por_diretor, TermoPesquisa, _Resultados).
 
 aplicar_filtro('Ator/Atriz', TermoPesquisa) :-
