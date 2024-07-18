@@ -28,9 +28,41 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 ## Instalação 
 **Linguagens**: Prolog<br>
 **Tecnologias**: SWI-prolog<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
-Gifs animados e outras ilustrações são bem-vindos!
+
+#### Passos para Instalação do SWI-Prolog
+
+1. **Atualize a lista de pacotes do seu sistema:**
+
+    ```sh
+    sudo apt update
+    ```
+
+2. **Instale o SWI-Prolog:**
+
+    ```sh
+    sudo apt install swi-prolog
+    ```
+
+3. **Verifique se a instalação foi bem-sucedida:**
+
+    Após a instalação, você pode verificar se o SWI-Prolog foi instalado corretamente executando o comando abaixo no terminal:
+
+    ```sh
+    swipl
+    ```
+
+    Se o SWI-Prolog foi instalado corretamente, você verá o prompt do Prolog, que deve se parecer com isso:
+
+    ```plaintext
+    Welcome to SWI-Prolog (threaded, 64 bits, version x.x.x)
+    ...
+    ?-
+    ```
+
+    Para sair do SWI-Prolog, digite `halt.` e pressione Enter.
+
+
+
 
 ## Uso 
 Primeiramente o usuário deverá ter o prolog instalado no seu sistema, que pode ser instalado [nesse link](https://www.swi-prolog.org/download/stable).
