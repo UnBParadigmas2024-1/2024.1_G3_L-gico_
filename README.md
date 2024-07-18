@@ -95,12 +95,29 @@ Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 | Valderson Pontes da Silva Junior        | Excelente |  Contribui para o filtro e para o readme |
 | Victor de Souza Cabral                  | Excelente |  Fiz a interface grafica a interação com o usuario na interface, e a listagem de opções que o usuario pode escolher |
 
-## Outros 
-Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
-(i) Lições Aprendidas;
-(ii) Percepções;
-(iii) Contribuições e Fragilidades, e
-(iV) Trabalhos Futuros.
+## Outros
+
+### Lições Aprendidas:
+
+**Desenvolvimento da linguagem Prolog:** Aprendemos os principais conceitos em sala de aula e ao desenvolver o programa nos deparamos com várias questões práticas, o que nos deu a oportunidade de aprofundar mais no assunto. Prolog, sendo uma linguagem lógica, requer um modo de pensar diferente, focado em relações e regras lógicas.
+
+**Modelagem de Dados:** Aprendemos a representar dados e suas relações, desenvolver regras para inferência lógica, e tratar exceções de forma declarativa.
+
+### Percepções:
+
+**Prolog é uma linguagem poderosa e única:** Facilita a resolução de problemas que envolvem lógica e inferência, como problemas de sistemas especialistas. No entanto, sua sintaxe e abordagem podem ser desafiadoras para aqueles acostumados com linguagens imperativas.
+
+**Desenvolvimento iterativo:** Muitas vezes, descobrimos que problemas que pareciam difíceis de implementar eram mais simples do que imaginávamos, enquanto outras vezes subestimamos a complexidade de certos problemas lógicos.
+
+### Contribuições e Fragilidades:
+
+**Escolha do projeto:** Escolhemos desenvolver um sistema de sugestão de filmes por sua relevância prática e pelo desafio que apresentava em termos de manipulação de dados e lógica. Enfrentamos dificuldades durante a implementação dos filtros e na integração com a interface gráfica, mas conseguimos superá-las com alguns ajustes.
+
+### Trabalhos Futuros:
+
+**Otimização da performance:** Seria interessante continuar refinando o sistema para otimizar a performance das consultas, principalmente ao lidar com bases de dados maiores. Isso pode envolver a aplicação de técnicas avançadas de otimização e a utilização de bibliotecas especializadas.
+
+**Expansão dos critérios de busca:** Seria interessante, futuramente, adicionar novos critérios de busca ao sistema, como avaliações de usuários e prêmios recebidos pelos filmes. Isso tornará o sistema de recomendação ainda mais robusto e útil.
 
 ## Fontes
 Referencie, adequadamente, as referências utilizadas.
