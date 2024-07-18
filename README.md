@@ -24,12 +24,12 @@ O projeto de filtro de filmes é um sistema de recomendação desenvolvido em Pr
 
 ## Screenshots
 
-![](assets/img1.png)
-![](assets/img2.png)
-![](assets/img3.png)
-![](assets/img4.png)
-![](assets/img5.png)
 ![](assets/animacao.gif)
+![](assets/img1.jpg)
+![](assets/img2.jpg)
+![](assets/img3.jpg)
+![](assets/img4.jpg)
+![](assets/img5.jpg)
 
 
 
