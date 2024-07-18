@@ -887,7 +887,7 @@ filme('Die Hard: With a Vengeance', 'action', 1995, 128, 'John McTiernan', 'Bruc
 filme('Dead Man', 'adventure', 1995, 121, 'Jim Jarmusch', 'Johnny Depp', 7.6).
 filme('The Bridges of Madison County', 'drama', 1995, 135, 'Clint Eastwood', 'Clint Eastwood', 7.6).
 filme('Lola rennt', 'crime', 1998, 81, 'Tom Tykwer', 'Franka Potente', 7.6).
-filme('Apollo 13', 'adventure', PG, 140, 'Ron Howard', 'Tom Hanks', 7.6).
+filme('Apollo 13', 'adventure', 1995, 140, 'Ron Howard', 'Tom Hanks', 7.6).
 filme('The Thin Red Line', 'drama', 1998, 170, 'Terrence Malick', 'Jim Caviezel', 7.6).
 filme('Harry Potter and the Sorcerer''s Stone', 'adventure', 2001, 152, 'Chris Columbus', 'Daniel Radcliffe', 7.6).
 filme('American Psycho', 'comedy', 2000, 101, 'Mary Harron', 'Christian Bale', 7.6).
