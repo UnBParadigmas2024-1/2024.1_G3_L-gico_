@@ -100,14 +100,7 @@ gif de Utilização do projeto:
 
 
 ## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto.
-Procure: 
-(i) Introduzir o projeto;
-(ii) Mostrar passo a passo o código, explicando-o, e deixando claro o que é de terceiros, e o que é contribuição real da equipe;
-(iii) Apresentar particularidades do Paradigma, da Linguagem, e das Tecnologias, e
-(iV) Apresentar lições aprendidas, contribuições, pendências, e ideias para trabalhos futuros.
-OBS: TODOS DEVEM PARTICIPAR, CONFERINDO PONTOS DE VISTA.
-TEMPO: +/- 15min
+[Vídeo de apresentação do Projeto - Movie Rescue](https://github.com/UnBParadigmas2024-1/2024.1_G3_Logico_MovieRescue/blob/main/video/movie_rescue_video.mp4)
 
 ## Participações
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
