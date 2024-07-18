@@ -20,24 +20,26 @@ Paradigmas:
 
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
-Capriche nessa seção, pois ela é a primeira a ser lida pelos interessados no projeto.
+O projeto de filtro de filmes é um sistema de recomendação desenvolvido em Prolog, uma linguagem de programação lógica. Ele permite aos usuários filtrar e listar filmes com base em diversos critérios, como gênero, ano, duração, diretor e ator. A estrutura do projeto é modular, facilitando a manutenção e a expansão futura do sistema. O projeto possui interface gráfica, e pode ser rodado no terminal também.
 
 ## Screenshots
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
 
 ## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
+**Linguagens**: Prolog<br>
+**Tecnologias**: SWI-prolog<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 Insira um manual ou um script para auxiliar ainda mais.
 Gifs animados e outras ilustrações são bem-vindos!
 
 ## Uso 
-Explique como usar seu projeto.
-Procure ilustrar em passos, com apoio de telas do software, seja com base na interface gráfica, seja com base no terminal.
-Nessa seção, deve-se revelar de forma clara sobre o funcionamento do software.
+Primeiramente o usuário deverá ter o prolog instalado no seu sistema, que pode ser instalado [nesse link](https://www.swi-prolog.org/download/stable).
+Após isso ele deverá clonar o repositório e utilizar o comando [cd](https://guialinux.uniriotec.br/cd/) para entrar no repositório
+
+```bash
+git clone https://github.com/UnBParadigmas2024-1/2024.1_G3_Logico_MovieRescuer.git \
+    && cd 2024.1_G3_Logico_MovieRescuer
+```
 
 ## Vídeo
 Adicione 1 ou mais vídeos com a execução do projeto.
@@ -53,13 +55,13 @@ TEMPO: +/- 15min
 Apresente, brevemente, como cada membro do grupo contribuiu para o projeto.
 |Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Catlen Cleane Ferreira de Oliveira      |  |  |
-| Gabriel da Silva Rosa                   |  |  |
-| João Pedro Alves Machado                |  |  |
-| Lorenzo Santos                          |  |  |
-| Paulo Victor Fonseca Sousa              |  |  |
-| Valderson Pontes da Silva Junior        |  |  |
-| Victor de Souza Cabral                  |  |  |
+| Catlen Cleane Ferreira de Oliveira      | Excelente | Contribui com o filtro e na interação com o usuário no terminal |
+| Gabriel da Silva Rosa                   | Excelente | Contribui com o filtro e na interação com o usuário no terminal |
+| João Pedro Alves Machado                |Excelente  | Contribui com o filtro |
+| Lorenzo Santos                          | Excelente |  Criei a base de dados original|
+| Paulo Victor Fonseca Sousa              | Excelente | Contribui para o filtro,interação com o usuario no terminal, e o readme, além de ter  criado a base de dados que foi utilizada  |
+| Valderson Pontes da Silva Junior        | Excelente |  Contribui para o filtro e para o readme |
+| Victor de Souza Cabral                  | Excelente |  Fiz a interface grafica a interação com o usuario na interface, e a listagem de opções que o usuario pode escolher |
 
 ## Outros 
 Quaisquer outras informações sobre o projeto podem ser descritas aqui. Não esqueça, entretanto, de informar sobre:
